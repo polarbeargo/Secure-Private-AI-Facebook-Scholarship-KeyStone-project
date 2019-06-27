@@ -32,6 +32,8 @@ Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft s
 
 #### Halwai Aftab Hasan
 - Finish Lesson 5 - Introducing Local and Global Differential Privacy 
+
 ![][image4]
+
 - Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar
 
