@@ -3,7 +3,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 
 [image1]: ./images/courseProgress.png
 [image2]: ./images/LaTexCode.png
-[image3]: ./images/overleaf.png 
+[image3]: ./images/overleaf.png
+[image4]: ./images/LESSON 5.png
 
 ### Day 1: 
 #### Polarbeargo
