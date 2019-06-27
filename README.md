@@ -25,14 +25,14 @@ continue read PySyft repository and following great refrences:
 Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
 ![][image3]
-
+![][image4]
 
 #### Sarah Majors
 Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft since it is not in the AUR yet.
 
 #### Halwai Aftab Hasan
 Finish Lesson 5 - Introducing Local and Global Differential Privacy 
-![][image4]
+
 
 Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar
 
