@@ -2,6 +2,8 @@
 Secure &amp; Private AI Facebook Scholarship-KeyStone project
 
 [image1]: ./images/courseProgress.png
+[image2]: ./images/LaTexCode.png
+[image3]: ./images/overleaf.png 
 
 ### Day 1: 
 #### Polarbeargo
@@ -18,3 +20,7 @@ Finish audit Securing Federated Learning and Encrypted Deep Learning
 continue read PySyft repository and following great refrences:    
 * https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
 * https://arxiv.org/pdf/1607.00133.pdf
+
+Learn use overleaf and Visual Studio code write and compile LaTex Robotic inference project write up:
+![][image2]
+![][image3]
