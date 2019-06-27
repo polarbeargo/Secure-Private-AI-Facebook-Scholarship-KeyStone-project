@@ -24,3 +24,7 @@ continue read PySyft repository and following great refrences:
 Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
 ![][image3]
+
+
+#### Sarah Majors
+Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft since it is not in the AUR yet.
