@@ -21,6 +21,6 @@ continue read PySyft repository and following great refrences:
 * https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
 * https://arxiv.org/pdf/1607.00133.pdf
 
-Learn use overleaf and Visual Studio code write and compile LaTex Robotic inference project write up:
+Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
 ![][image3]
