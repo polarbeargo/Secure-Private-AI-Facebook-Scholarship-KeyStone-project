@@ -15,5 +15,6 @@ https://github.com/sfmajors373
 
 Finish audit Securing Federated Learning and Encrypted Deep Learning 
 ![][image1]
-continue read PySyft repository, https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf and
-https://arxiv.org/pdf/1607.00133.pdf
+continue read PySyft repository and following great refrences:    
+* https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
+* https://arxiv.org/pdf/1607.00133.pdf
