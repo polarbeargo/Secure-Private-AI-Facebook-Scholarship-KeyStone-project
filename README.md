@@ -9,4 +9,9 @@ Collabortors:
 https://github.com/Polarbeargo     
 https://github.com/Harkirat155     
 https://github.com/ahkhalwai     
-https://github.com/sfmajors373    
+https://github.com/sfmajors373 
+
+Finish audit Securing Federated Learning and Encrypted Deep Learning 
+
+continue read PySyft repository, https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf and
+https://arxiv.org/pdf/1607.00133.pdf
