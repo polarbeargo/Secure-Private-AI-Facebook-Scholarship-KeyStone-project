@@ -4,7 +4,6 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image1]: ./images/courseProgress.png
 [image2]: ./images/LaTexCode.png
 [image3]: ./images/overleaf.png
-[image4]: ./images/LESSON 5.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -32,4 +31,4 @@ Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft s
 #### Halwai Aftab Hasan
 Finish Lesson 5 - Introducing Local and Global Differential Privacy <br />
 Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar <br />
-![image4](images/LESSON 5.png)
+![image4](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Lesson5.png)
