@@ -29,6 +29,11 @@ Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inf
 Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft since it is not in the AUR yet.
 
 #### Halwai Aftab Hasan
+Pledge Taken
+
 Finish Lesson 5 - Introducing Local and Global Differential Privacy <br />
-Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar <br />
+
 ![image4](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Lesson5.png)
+
+Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar <br />
+
