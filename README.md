@@ -4,6 +4,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image1]: ./images/courseProgress.png
 [image2]: ./images/LaTexCode.png
 [image3]: ./images/overleaf.png 
+[image4]: ./images/LESSON 5.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -28,3 +29,9 @@ Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inf
 
 #### Sarah Majors
 Complete 6.4 and 6.5 of Udacity course.  Also make a pacman package for PySyft since it is not in the AUR yet.
+
+#### Halwai Aftab Hasan
+- Finish Lesson 5 - Introducing Local and Global Differential Privacy 
+![][image4]
+- Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar
+
