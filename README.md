@@ -1,9 +1,11 @@
 # Secure-Private-AI-Facebook-Scholarship-KeyStone-project
-Secure &amp; Private AI Facebook Scholarship-KeyStone project
+Secure &amp; Private AI Facebook Scholarship-KeyStone project   
+* Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/   
 
 [image1]: ./images/courseProgress.png
 [image2]: ./images/LaTexCode.png
 [image3]: ./images/overleaf.png
+[image4]: ./images/AlexNet.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -59,3 +61,4 @@ and working on Excercise
 * Watching https://www.youtube.com/watch?v=VljQui5es7g.
 * Register https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation competition.
 * Working on Robotic inference project, applied transfer learning skill with AlexNet on the supplied dataset.
+![][image4]
