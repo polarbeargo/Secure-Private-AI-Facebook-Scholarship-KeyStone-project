@@ -21,7 +21,7 @@ continue read PySyft repository and following great refrences:
 * https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
 * https://arxiv.org/pdf/1607.00133.pdf
 * Finished https://www.youtube.com/watch?v=jYQoQfFzJRw
-* Join 1st Virtul meetup https://www.facebook.com/groups/secureandprivateai/permalink/806171133117474/?hc_location=ufi  
+* Join 1st Virtual meetup https://www.facebook.com/groups/secureandprivateai/permalink/806171133117474/?hc_location=ufi  
 
 Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
@@ -52,5 +52,5 @@ Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hit
 
 * Rewatch lesson 3 Introducing to Differential Privacy.
 * Reading https://arxiv.org/pdf/1607.00133.pdf.
-* Watching https://www.youtube.com/watch?v=VljQui5es7g (haven't finish).
+* Watching https://www.youtube.com/watch?v=VljQui5es7g.
 * Register https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation competition.
