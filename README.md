@@ -52,7 +52,8 @@ Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hit
 - discuss group meet up with Hsin wen chang about our meet-up this sunday 
 - Rewatching SQL Summer Camp: Getting started with SQL | Kaggle
 https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
-and working on Excercise
+- Excercise Complete https://www.kaggle.com/ahkhalwai55/exercise-getting-started-with-sql-and-bigquery
+![image6](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/SQLBigQuery1.png)
 
 #### Polarbeargo
 
