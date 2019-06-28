@@ -48,7 +48,8 @@ Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hit
 - Create Event on FB page Successfully.
   https://www.facebook.com/events/889357788169509/
 - discuss group meet up with Hsin wen chang about our meet-up this sunday 
-
+- rewatching SQL Summer Camp: Getting started with SQL | Kaggle
+https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
 #### Polarbeargo
 
 * Rewatch lesson 3 Introducing to Differential Privacy.
