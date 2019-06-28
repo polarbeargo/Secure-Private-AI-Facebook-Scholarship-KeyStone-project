@@ -39,7 +39,7 @@ Finish Lesson 5 - Introducing Local and Global Differential Privacy <br />
 
 Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hitoishi and Amar <br />
 
-Day 2:
+### Day 2:
 
 #### Halwai Aftab Hasan
 
