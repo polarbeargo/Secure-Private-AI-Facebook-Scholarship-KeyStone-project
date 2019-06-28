@@ -43,4 +43,5 @@ Day 2:
 
 - Mumbai meet-up planning with the mumbai team, fix with place , day and time successfully with Agenda 
 - Create Event on FB page Successfully.
+  ![](https://www.facebook.com/events/889357788169509/)
 - discuss group meet up with Hsin wen chang about our meet-up this sunday 
