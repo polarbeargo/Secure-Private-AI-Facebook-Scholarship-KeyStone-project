@@ -23,6 +23,7 @@ continue read PySyft repository and following great refrences:
 * Finished https://www.youtube.com/watch?v=jYQoQfFzJRw
 * Join 1st Virtual meetup https://www.facebook.com/groups/secureandprivateai/permalink/806171133117474/?hc_location=ufi  
 
+Working on Robotic inference project, applied transfer learning skill with VGG16 on the supplied dataset.
 Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
 ![][image3]
@@ -54,3 +55,4 @@ Finish Mumbai Meet-Up plan, day and Time with Jyoti, Shubhangi, Avi ,Cibaca, Hit
 * Reading https://arxiv.org/pdf/1607.00133.pdf.
 * Watching https://www.youtube.com/watch?v=VljQui5es7g.
 * Register https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation competition.
+* Working on Robotic inference project, applied transfer learning skill with AlexNet on the supplied dataset.
