@@ -20,6 +20,8 @@ Finish audit Securing Federated Learning and Encrypted Deep Learning
 continue read PySyft repository and following great refrences:    
 * https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
 * https://arxiv.org/pdf/1607.00133.pdf
+* Finished https://www.youtube.com/watch?v=jYQoQfFzJRw
+* Join 1st Virtul meetup https://www.facebook.com/groups/secureandprivateai/permalink/806171133117474/?hc_location=ufi  
 
 Learn use overleaf and Visual Studio code write and compile LaTex in Robotic inference project write up report:
 ![][image2]
@@ -45,3 +47,10 @@ Day 2:
 - Create Event on FB page Successfully.
   https://www.facebook.com/events/889357788169509/
 - discuss group meet up with Hsin wen chang about our meet-up this sunday 
+
+#### Polarbeargo
+
+* Rewatch lesson 3 Introducing to Differential Privacy.
+* Reading https://arxiv.org/pdf/1607.00133.pdf.
+* Watching https://www.youtube.com/watch?v=VljQui5es7g (haven't finish).
+* Register https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation competition.
