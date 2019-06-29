@@ -83,27 +83,38 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 
 ![image7](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Meetuppic1.jpg)
 
-**Summarized all ideas and initiatives as outcome of today's meetup** 
+**Summarized all ideas and initiatives as outcome of today's meetup**
+
 **SPAIC Mumbai Meetup - 29-06-19**
+
 **Local Meetup**
+
 To be planned every two/three weeks
 5 members from Mumbai could join for organizing this activity
 Time, location, agenda, activities to be decided for each meetup
 Location should be such that we can have technical discussion as well as host virtual meetup for members who cannot join personally (we faced this issue today)
 Organiser could conduct activities and agenda could be like discussion on one topic from course, recent initiatives by members, time based fun games related to course,etc 
+
 **Virtual meetup**
+
 To be planned every  week
 3 members from Mumbai could join for organizing this activity
 Time, location, agenda, activities to be decided for each meetup
 Organiser could conduct activities and agenda could be like discussion on one topic from course, recent initiatives by members, time based fun games related to course,etc 
+
 **Trello board for all mumbai meetup activities**
+
 We are planning to create a trello board for listing for task done by mumbai Members as there is no specific channel. This may help us to be aware of all activities at one place and we can share screenshot of this list in 60dayofudacity
-**Study buddy groups** 
+
+**Study buddy groups**
+
 Idea is to start study buddy group for all mumbai members which will help all of us with course completion, learning and participate in this challenge actively.
 2 members from mumbai can pair up with each other and search 2 members from slack (who are not in mumbai) for studying together. 
 Apart from course lessons, they could get involved in some project, activities/topic discussion/sessions that can be shared during mumbai meetups (Definitely we will have only mumbai members for local meetups so they can share their work as a representative from their group). 
 Each group task/initiative will be managed using trello boards so that others can give suggestions or join any task they are interested into.
+
 **Initiatives**
+
 Apart from the above activities, it would be good if we take part in slack initiatives already in progress or new initiatives we can think during meetup or slack channel to have a better learning and been active.
 
 
