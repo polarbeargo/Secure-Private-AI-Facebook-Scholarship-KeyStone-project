@@ -66,4 +66,11 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 
 #### Sarah Majors
 * Created pacman package for PySyft
-* Finished Unit 6 Differential Privacy for Deep Learning
+* Finished Unit 6 Differential Privacy for Deep Learning 
+
+### Day 3:
+
+#### Polarbeargo 
+* Rewatching Lesson 4 Evaluating The Privacy of a Function and Introduction to Federated Learning.
+* Join SPAISCF Mumbai Virtual Meet-Up.
+* Continue learning LaTex to writ Robotics inference project writeup report.
