@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 * Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30 min
 * Reading https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion
 * Reading https://www.kaggle.com/c/champs-scalar-coupling/discussion
+* Reading https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion
 
 #### Halwai Aftab Hasan
 - Organised and attended Mumbai Meetup to have amazing discussions with fellow scholars
