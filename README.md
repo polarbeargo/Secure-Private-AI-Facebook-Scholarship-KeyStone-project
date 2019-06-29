@@ -74,3 +74,4 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 * Rewatching Lesson 4 Evaluating The Privacy of a Function and Introduction to Federated Learning.
 * Join SPAISCF Mumbai Virtual Meet-Up.
 * Continue learning LaTex to writ Robotics inference project writeup report.
+* Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30min
