@@ -121,4 +121,7 @@ Apart from the above activities, it would be good if we take part in slack initi
 **Above initiatives are just a suggestion and we would need your input/feedback/ideas from all of you.** 
 
 
+#### Sarah
 
+- Completed Lessons 7.1 - 7.6
+- Fixed the package for pysyft to include all necessary dependencies, which also included making other packages like tf-encrypted
