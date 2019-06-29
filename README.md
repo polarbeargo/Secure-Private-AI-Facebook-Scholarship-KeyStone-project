@@ -63,3 +63,7 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 * Register https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation competition.
 * Working on Robotic inference project, applied transfer learning skill with AlexNet on the supplied dataset.
 ![][image4]
+
+#### Sarah Majors
+* Created pacman package for PySyft
+* Finished Unit 6 Differential Privacy for Deep Learning
