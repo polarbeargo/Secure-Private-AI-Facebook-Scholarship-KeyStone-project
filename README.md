@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 
 ![image7](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Meetuppic1.jpg)
 
-- **Summarized all ideas and initiatives as outcome of today's meetup**
+**$Summarized all ideas and initiatives as outcome of today's meetup$**
 
 **SPAIC Mumbai Meetup - 29-06-19**
 
