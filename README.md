@@ -73,5 +73,7 @@ https://www.youtube.com/watch?v=jYQoQfFzJRw&feature=youtu.be&utm_medium=email&ut
 #### Polarbeargo 
 * Rewatching Lesson 4 Evaluating The Privacy of a Function and Introduction to Federated Learning.
 * Join SPAISCF Mumbai Virtual Meet-Up.
-* Continue learning LaTex to writ Robotics inference project writeup report.
-* Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30min
+* Continue learning LaTex to write Robotics inference project writeup report.
+* Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30 min
+* Reading https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion
+* Reading https://www.kaggle.com/c/champs-scalar-coupling/discussion
