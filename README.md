@@ -136,3 +136,9 @@ https://www.youtube.com/watch?v=VljQui5es7g&feature=youtu.be&utm_medium=email&ut
 
 - Practice SQL Summer Camp: Select, From and Where| Kaggle Excercise 
 https://www.kaggle.com/ahkhalwai55/exercise-select-from-where
+
+- Start Intro to Deep Learning with PyTorch Introduction Today 
+
+![image8](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/udacitypytorch-welcomepage-image-v2.png)
+
+
