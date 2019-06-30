@@ -126,3 +126,13 @@ Apart from the above activities, it would be good if we take part in slack initi
 
 - Completed Lessons 7.1 - 7.6
 - Fixed the package for pysyft to include all necessary dependencies, which also included making other packages like tf-encrypted
+
+### Day 2:
+
+#### Halwai Aftab Hasan
+
+- WATCH SQL Summer Camp: Select, From and Where| Kaggle
+https://www.youtube.com/watch?v=VljQui5es7g&feature=youtu.be&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
+
+- Practice SQL Summer Camp: Select, From and Where| Kaggle Excercise 
+https://www.kaggle.com/dansbecker/select-from-where?utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
