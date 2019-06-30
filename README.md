@@ -141,6 +141,9 @@ https://www.kaggle.com/ahkhalwai55/exercise-select-from-where
 
 ![image8](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/udacitypytorch-welcomepage-image-v2.png)
 
+* Fixing issue on Pytorch with @Bearbear 
+https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/issues/1
+
 * Reading https://www.kaggle.com/uciml/sms-spam-collection-dataset/kernels
 * Reading https://www.kaggle.com/uciml/sms-spam-collection-dataset/discussion
 
