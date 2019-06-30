@@ -135,4 +135,4 @@ Apart from the above activities, it would be good if we take part in slack initi
 https://www.youtube.com/watch?v=VljQui5es7g&feature=youtu.be&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
 
 - Practice SQL Summer Camp: Select, From and Where| Kaggle Excercise 
-https://www.kaggle.com/dansbecker/select-from-where?utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
+https://www.kaggle.com/ahkhalwai55/exercise-select-from-where
