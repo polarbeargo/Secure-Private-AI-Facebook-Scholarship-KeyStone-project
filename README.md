@@ -141,6 +141,10 @@ https://www.kaggle.com/ahkhalwai55/exercise-select-from-where
 
 ![image8](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/udacitypytorch-welcomepage-image-v2.png)
 
+* Reading https://www.kaggle.com/uciml/sms-spam-collection-dataset/kernels
+* Reading https://www.kaggle.com/uciml/sms-spam-collection-dataset/discussion
+
+
 #### Polarbeargo
 
 * Rewatching Lesson 7 Federated Learning and play with [Section_1_Differential_Privacy.ipynb](https://github.com/Polarbeargo/private-ai/blob/master/Section_1_Differential_Privacy.ipynb) :D!
