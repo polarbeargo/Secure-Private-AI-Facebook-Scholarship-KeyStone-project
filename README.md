@@ -141,4 +141,11 @@ https://www.kaggle.com/ahkhalwai55/exercise-select-from-where
 
 ![image8](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/udacitypytorch-welcomepage-image-v2.png)
 
+#### Polarbeargo
 
+* Rewatching Lesson 7 Federated Learning and play with [Section_1_Differential_Privacy.ipynb](https://github.com/Polarbeargo/private-ai/blob/master/Section_1_Differential_Privacy.ipynb).
+* Continue writing Robotics inference project writeup report with LaTex, Applied transfer learning skill training image data sets on NVIDIA DIGITS with GoogLeNet.
+* Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30 min to 2.3 Formalizing differential privacy
+* Reading https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion
+* Reading https://www.kaggle.com/c/champs-scalar-coupling/discussion
+* Reading https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion
