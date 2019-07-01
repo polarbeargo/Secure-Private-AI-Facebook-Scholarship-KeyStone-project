@@ -165,3 +165,4 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30 min to 2.3 Formalizing differential privacy.
 * Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
 * Learning and writing fastai https://www.fast.ai/.
+* Watching Kaggle SQL Summer Camp Day 3 https://www.youtube.com/watch?v=dV74IWUkI8Q
