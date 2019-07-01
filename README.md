@@ -166,3 +166,12 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
 * Learning and writing fastai https://www.fast.ai/.
 * Watching Kaggle SQL Summer Camp Day 3 https://www.youtube.com/watch?v=dV74IWUkI8Q
+
+#### Halwai Aftab Hasan
+
+* Start my day with beautifull Introduction to Neural Network, i completed up Lesson 2.10 
+* Then i met Awesome indian guy Soumith Chintala who created Pytorch <3 which is lesson 3 in intro to deeplearning with pytorch 
+
+![image9](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Intro2PytorchL3.png)
+
+
