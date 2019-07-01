@@ -156,3 +156,11 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Reading https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion
 * Reading https://www.kaggle.com/c/champs-scalar-coupling/discussion
 * Reading https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion
+
+### Day 5:
+#### Polarbeargo
+
+* Rewatching Lesson 7 Federated Learning and play with [Section_1_Differential_Privacy.ipynb](https://github.com/Polarbeargo/private-ai/blob/master/Section_1_Differential_Privacy.ipynb) :D!
+* Continue writing Robotics inference project writeup report with LaTeX.
+* Reading https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf for 30 min to 2.3 Formalizing differential privacy.
+* Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
