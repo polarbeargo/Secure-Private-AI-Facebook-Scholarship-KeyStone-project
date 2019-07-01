@@ -170,8 +170,8 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 #### Halwai Aftab Hasan
 
 * Start my day with beautifull Introduction to Neural Network, i completed up Lesson 2.10 
-* Then i met Awesome indian guy Soumith Chintala who created Pytorch <3 which is lesson 3 in intro to deeplearning with pytorch 
+* Then i met Awesome indian guy Soumith Chintala who created Pytorch <3 which is i completed lesson 3 in intro to deeplearning with pytorch course, What a story of him :)  
 
 ![image9](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Intro2PytorchL3.png)
 
-
+* Mumbai Virtual meetup by IST 9 pm ... :) 
