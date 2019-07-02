@@ -202,6 +202,10 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 
 ![image11](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/0.jpg)
 
+* Discussed about *study group* with @Aniket Thomas @Archit @Deepak Kumar @Rakshit Naidu @Harsh @Sankalp Dayal @Shubhendu Mishra about kaggle challenge based group
+
+* Reading Kaggle with The Beginner’s Guide to Kaggle https://elitedatascience.com/beginner-kaggle
+
 #### Polarbeargo
 
 * Finished Intro to Deep Learning with PyTorch.
