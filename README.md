@@ -175,3 +175,9 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 ![image9](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Intro2PytorchL3.png)
 
 * Mumbai Virtual meetup by IST 9 pm ... :) 
+
+#### Sarah
+
+* Finish Lesson 7.5 - 7.11
+* Take papers club quiz
+* Read next 15 pages of Deep Learning by Goodfellow (Part of chapter 5)
