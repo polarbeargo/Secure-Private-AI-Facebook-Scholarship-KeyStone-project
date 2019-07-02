@@ -186,3 +186,11 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Finish Lesson 7.5 - 7.11
 * Take papers club quiz
 * Read next 15 pages of Deep Learning by Goodfellow (Part of chapter 5)
+
+### Day 6:
+
+#### Halwai Aftab Hasan
+
+* Rewatch Lesson 4 - Introduction to Pytroch, of course intro to deeplearning with pytorch 
+
+![image10](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Intro2PytorchL4.png)
