@@ -6,6 +6,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image2]: ./images/LaTexCode.png
 [image3]: ./images/overleaf.png
 [image4]: ./images/AlexNet.png
+[image5]: ./images/intoductionToPyTorch.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -19,6 +20,10 @@ https://github.com/sfmajors373
 
 Finish audit Securing Federated Learning and Encrypted Deep Learning 
 ![][image1]
+
+Studying progress in Introduction to Deep learning with PyTorch reach to 99%
+![][image5] 
+
 continue read PySyft repository and following great refrences:    
 * https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf    
 * https://arxiv.org/pdf/1607.00133.pdf
