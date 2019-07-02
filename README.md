@@ -7,6 +7,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image3]: ./images/overleaf.png
 [image4]: ./images/AlexNet.png
 [image5]: ./images/intoductionToPyTorch.png
+[image6]: ./images/FinishIntroDeepLearningPyTorch.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -200,3 +201,14 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * I Encourage @Bearbear @Sarah Majors @April D @Maria Jose Molina @Gabriela Urquieta @Stark @Samuela Anastasi
 
 ![image11](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/0.jpg)
+
+#### Polarbeargo
+
+* Finished Intro to Deep Learning with PyTorch.
+![image6] 
+* Reading [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/pdf/1810.00736.pdf).
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to 3.1 Useful probabilistic tools.
+* Rewatching lecture Securing Federated Learning.
+* Submit Robotic Inference Project for 1st review before deadline.
+* Reading [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
+* Studying and modfyied fastAI code, implement DenseNet-201.
