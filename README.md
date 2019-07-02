@@ -194,3 +194,9 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Rewatch Lesson 4 - Introduction to Pytroch, of course intro to deeplearning with pytorch 
 
 ![image10](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Intro2PytorchL4.png)
+
+* Really happy to have our meetup featured in Udacity's mail! Along with @Halwai Aftab Hasan @vivek @amitrai @Ankit Dubey @Mushrifah Hasan @bhavz @sarthakahir @cibaca @Shivam Raisharma
+
+I Encourage @Bearbear @Sarah Majors @April D @Maria Jose Molina @Gabriela Urquieta @Stark @Samuela Anastasi
+
+![image11](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/0.jpg)
