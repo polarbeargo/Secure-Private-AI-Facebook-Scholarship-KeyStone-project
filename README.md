@@ -211,4 +211,4 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Rewatching lecture Securing Federated Learning.
 * Submit Robotic Inference Project for 1st review before deadline.
 * Reading [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
-* Studying and modfyied fastAI code, implement DenseNet-201.
+* Studying and modified fastAI code, implement DenseNet-201.
