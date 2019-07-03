@@ -216,3 +216,10 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Submit Robotic Inference Project for 1st review before deadline.
 * Reading [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
 * Studying and modified fastAI code, implement DenseNet-201.
+
+#### Sarah
+
+* Watched lesson 7.11 and 7.12, didn't do the chapter 7 final project yet because the instructions were unclear.
+* Started looking at tutorials for the T-Shirt project, whose survey just got released today!  Woo
+* Organizing Chapter 2 notes for Deep Learning by Goodfellow for the discussion tomorrow
+* Played with the hyperparameter tuning website for fun [Tensorflow Playground](https://playground.tensorflow.org)
