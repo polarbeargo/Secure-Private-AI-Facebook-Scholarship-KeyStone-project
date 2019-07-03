@@ -238,3 +238,8 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Rewatching lecture Securing Federated Learning again.
 * Passed Robotic Inference project review https://github.com/Polarbeargo/RoboND-Robotic-Inference-Project/blob/master/main.pdf?fbclid=IwAR0emj6swu48eOdsAUyPcOLZ1ibte4ew4WjcU_luBZbuBVz96vpgrRnIftc
 * Learning and implement fastai https://www.fast.ai/.
+
+#### Halwai Aftab Hasan
+
+* Rewatch introducing differencial privacy 
+* Attended virtual meetup with @cibaca and others
