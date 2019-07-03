@@ -223,3 +223,17 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Started looking at tutorials for the T-Shirt project, whose survey just got released today!  Woo
 * Organizing Chapter 2 notes for Deep Learning by Goodfellow for the discussion tomorrow
 * Played with the hyperparameter tuning website for fun [Tensorflow Playground](https://playground.tensorflow.org)
+
+### Day 7:
+
+#### Polarbeargo 
+
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to 3.3 The laplace mechanism.
+* Reading https://pjreddie.com/darknet/yolo/
+* Reading http://cs231n.github.io/classification/
+* Reading https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef
+* Reading https://blog.paralleldots.com/data-science/research-papers-image-classification/
+* Reading https://openai.com/blog/adversarial-example-research/
+* Reading https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d
+* Rewatching lecture Securing Federated Learning again.
+* Passed Robotic Inference project review https://github.com/Polarbeargo/RoboND-Robotic-Inference-Project/blob/master/main.pdf?fbclid=IwAR0emj6swu48eOdsAUyPcOLZ1ibte4ew4WjcU_luBZbuBVz96vpgrRnIftc
