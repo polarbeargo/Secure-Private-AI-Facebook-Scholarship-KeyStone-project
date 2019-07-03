@@ -237,3 +237,4 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Reading https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d
 * Rewatching lecture Securing Federated Learning again.
 * Passed Robotic Inference project review https://github.com/Polarbeargo/RoboND-Robotic-Inference-Project/blob/master/main.pdf?fbclid=IwAR0emj6swu48eOdsAUyPcOLZ1ibte4ew4WjcU_luBZbuBVz96vpgrRnIftc
+* Learning and implement fastai https://www.fast.ai/.
