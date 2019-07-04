@@ -243,3 +243,14 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 
 * Rewatch introducing differencial privacy 
 * Attended virtual meetup with @cibaca and others
+
+### Day 8:
+
+#### Polarbeargo 
+
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to 3.3 The laplace mechanism.
+* Reading https://arxiv.org/pdf/1607.00133.pdf
+* Learning, watching and implement fastai https://www.fast.ai/.
+* Rewatching lecture Securing Federated Learning and Encrypted Deep Learning.
+* Finshed run all notebook from private AI and [PySyft](https://github.com/Polarbeargo/PySyft/tree/26551133196de54fc7c9e928c0a3b6fb2b38eaad/examples/tutorials)
+* Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
