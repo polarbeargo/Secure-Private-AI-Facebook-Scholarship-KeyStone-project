@@ -261,5 +261,5 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Complete Lesson 4 Evaluating The Privacy of a Function
 * Clearing My Doubt on Evaluating The Privacy of a Function in ##l3_eval_privacy_func 
 * Start Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
-* Start Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
+* Start Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
 
