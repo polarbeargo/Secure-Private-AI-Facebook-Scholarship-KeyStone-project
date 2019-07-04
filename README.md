@@ -254,3 +254,4 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Rewatching lecture Securing Federated Learning and Encrypted Deep Learning.
 * Finshed run all notebook from private AI and [PySyft](https://github.com/Polarbeargo/PySyft/tree/26551133196de54fc7c9e928c0a3b6fb2b38eaad/examples/tutorials)
 * Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
+* Reading Lesson Kalman Filter and complete quiz in Robotic Software Engineer Nanodegree program.
