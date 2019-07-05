@@ -274,3 +274,15 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Reading https://arxiv.org/pdf/1607.00133.pdf
 * Reading https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf to Chapter 3 Gaussian Filters
 
+#### Halwai Aftab Hasan
+
+* watch SQL Summer Camp: Group By, Having and Count| Kaggle Day 3 
+https://www.youtube.com/watch?v=dV74IWUkI8Q&feature=youtu.be&utm_medium=email&utm_source=intercom&utm_campaign=sql-summer-camp
+
+* Practices Day 3 Complete https://www.kaggle.com/ahkhalwai55/exercise-group-by-having-count
+* Complete Lesson 5 Introducing Local and Global Differential Privacy
+
+
+
+
+
