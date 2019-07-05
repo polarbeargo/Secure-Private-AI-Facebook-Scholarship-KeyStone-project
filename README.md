@@ -281,6 +281,7 @@ https://www.youtube.com/watch?v=dV74IWUkI8Q&feature=youtu.be&utm_medium=email&ut
 
 * Practices Day 3 Complete https://www.kaggle.com/ahkhalwai55/exercise-group-by-having-count
 * Complete Lesson 5 Introducing Local and Global Differential Privacy
+* Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
 
 
 
