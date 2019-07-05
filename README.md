@@ -263,3 +263,14 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Start Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * Start Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
 
+### Day 9:
+
+#### Polarbeargo 
+
+* Learning, watching and implement fastai with ResNet152 https://www.fast.ai/.
+* Rewatching lecture Encrypted Deep Learning.
+* Reading Lesson Kalman Filter to 3.15 design of multidimensional KF and complete quiz in Robotic Software Engineer Nanodegree program.
+* Reading https://www.kaggle.com/c/aerial-cactus-identification/discussion.
+* Reading https://arxiv.org/pdf/1607.00133.pdf
+* Reading https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf to Chapter 3 Gaussian Filters
+
