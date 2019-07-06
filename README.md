@@ -292,3 +292,18 @@ https://www.youtube.com/watch?v=dV74IWUkI8Q&feature=youtu.be&utm_medium=email&ut
 * Learning, watching and implement fastai https://www.fast.ai/.
 * Reading Robotic Software Engineer Nanodegree program Lesson Monte Carlo localization to 12.5 Bayes Filtering and complete quiz.
 * Reading https://arxiv.org/pdf/1607.00133.pdf to Moments accountant.
+
+
+#### Halwai Aftab Hasan
+
+* Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
+* Had a Virtual Meetup for Study Group Mumbai with @cibaca @Shivam Raisharma @Rohit Sahoo @vivek @bhavz @Krunal @Ankit Dubey @Parth Hiren Shah @Sunny Dsouza @amitrai @Mohammad Hasnain Rajan @Mushrifah Hasan @alpesh
+* Create Study plan for Mumbai group along with discussion on further tasks and initiatives for #sg_mumbai
+* I thought to take mumbai #sg_mumbai on the top of the world thats why i started guest appearances scholars from every country who are scholars and known for there country so i started with india  first which w all know @Arka is next big things which i analysis his profile and works :slightly_smiling_face:
+thanks a lot @Arka for joining with us , soon i will call more great scholar from different country for interaction with mumbai, our aim is to build good society for all ..
+
+i would like u guys also take initiative like this way #sg_bangalore #sg_pune #sg_clan #sg_spaic-kagglers
+
+![image12](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Screen%20Shot%2007-06-19%20at%2010.05%20PM%202.PNG)
+![image13](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Screen%20Shot%2007-06-19%20at%2010.55%20PM%204.PNG)
+![image14](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/slack.png)
