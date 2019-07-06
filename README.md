@@ -283,7 +283,12 @@ https://www.youtube.com/watch?v=dV74IWUkI8Q&feature=youtu.be&utm_medium=email&ut
 * Complete Lesson 5 Introducing Local and Global Differential Privacy
 * Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
 
+### Day 10:
 
+#### Polarbeargo 
 
-
-
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to Definition 3.4 (The Exponential Mechanism).
+* Rewatching and implemented lecture Deep learning with PyTorch.
+* Learning, watching and implement fastai https://www.fast.ai/.
+* Reading Robotic Software Engineer Nanodegree program Lesson Monte Carlo localization to 12.5 Bayes Filtering and complete quiz.
+* Reading https://arxiv.org/pdf/1607.00133.pdf to Moments accountant.
