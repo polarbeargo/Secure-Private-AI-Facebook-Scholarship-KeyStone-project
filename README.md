@@ -244,6 +244,9 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Rewatch introducing differencial privacy 
 * Attended virtual meetup with @cibaca and others
 
+#### Sarah Majors
+* Completed lesson 8.1 - 8.4
+
 ### Day 8:
 
 #### Polarbeargo 
@@ -262,6 +265,12 @@ https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-p
 * Clearing My Doubt on Evaluating The Privacy of a Function in ##l3_eval_privacy_func 
 * Start Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * Start Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
+
+#### Sarah
+
+* Completed lessons 8.4 - 8.9
+* Read a few more pages of Deep Learning by Goodfellow
+* Worked on an OpenCV implementation of neural style transfer for the t-shirt group using a [PyImageSearch] (https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/) tutorial
 
 ### Day 9:
 
@@ -282,6 +291,11 @@ https://www.youtube.com/watch?v=dV74IWUkI8Q&feature=youtu.be&utm_medium=email&ut
 * Practices Day 3 Complete https://www.kaggle.com/ahkhalwai55/exercise-group-by-having-count
 * Complete Lesson 5 Introducing Local and Global Differential Privacy
 * Reading Kaggle Competition with Kernel and Discussion https://www.kaggle.com/c/aerial-cactus-identification/
+
+#### Sarah
+
+* Took it easy today and only worked on the OpenCV implementation of neural style transfer for the t-shirt group
+* Organized and recruited for the Deep Learning book group, formerly Puja's book group
 
 ### Day 10:
 
@@ -307,3 +321,7 @@ i would like u guys also take initiative like this way #sg_bangalore #sg_pune #s
 ![image12](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Screen%20Shot%2007-06-19%20at%2010.05%20PM%202.PNG)
 ![image13](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Screen%20Shot%2007-06-19%20at%2010.55%20PM%204.PNG)
 ![image14](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/slack.png)
+
+#### Sarah
+
+* Completed lessons 9.1-9.5
