@@ -385,7 +385,7 @@ Advantage :
 2) implement learning of outsider and learning skill of them, how they work
 
 
-i want everyone should complete something by the end of this courses or something u achieve :slightly_smiling_face:"*
+i want everyone should complete something by the end of this courses or something u achieve :slightly_smiling_face:"
 Start This Initiative, YES
 `▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 100% (12)
 @alpesh, @Praveer, @sarthakahir, @Pawan, @Shivam Raisharma, @Sunny Dsouza, @Roshan Chauhan, @cibaca, @Krunal, @amitrai, @Hitoishi Das, @Halwai Aftab Hasan
@@ -401,3 +401,10 @@ Comments
 * Reading The Algorithmic Foundations of Differential Privacy (https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * Start Reading Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf)
 
+
+#### Sarah
+
+* Finished watching all videos for this course; I haven't started the keystone project yet - still thinking of a good and worthy project.
+* Met up with the NLP group online.
+* The t-shirt project was released today!
+* Started reading section 5.5 in Deep Learning by Goodfellow
