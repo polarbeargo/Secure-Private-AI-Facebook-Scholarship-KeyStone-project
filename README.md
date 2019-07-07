@@ -398,4 +398,6 @@ Comments
 :speech_balloon: @alpesh: well as I a beginner I was looking for such an opportunity :star-struck:
 
 * Raeding kernel or Discussion https://www.kaggle.com/c/aerial-cactus-identification
+* Reading The Algorithmic Foundations of Differential Privacy (https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* Start Reading Deep Learning with Differential Privacy (https://arxiv.org/pdf/1607.00133.pdf)
 
