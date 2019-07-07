@@ -336,3 +336,66 @@ i would like u guys also take initiative like this way #sg_bangalore #sg_pune #s
 * Reading Robotic Software Engineer Nanodegree program Lesson Build Monte Carlo localization with C++ to 13.5 Noise and implemented particle filter.
 * Reading https://arxiv.org/pdf/1607.00133.pdf to section IMPLEMENTATION searching differentially private SGD algorithms in TensorFlow https://github.com/tensorflow/models.
 * Implemented a little test to learn which one of GlobalMaxPool2D or GlobalAvgPool2D work best on Northeastern SMILE Lab - Recognizing Faces in the Wild https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion/92454#latest-569281. 
+
+#### Halwai Aftab Hasan
+
+* Complete lesson 6 - Differential Privacy for DeepLearning
+*   I create a poll for better development for all 
+and because of @Bearbear I can't be here :) so thxs a lot :) 
+
+PollyAPP [9:32 PM]
+
+we Both me and @cibaca planning for this initiative, lets me know yours thoughts
+
+Week wise Study on particular chapter from 2 courses, Every week we work on particular chapter from each courses
+courses like SPAIF or Intro  to deeplearning with pytorch
+
+example
+
+week 1:- (7 - 14 july)
+
+1) Introduction to Neural Network
+
+2) Deeplearning with pytorch
+
+similarly
+
+week 2 - (14 - 21 july)
+...
+...
+...
+week 7 - (18 - 25 Aug)
+
+1) security federated learning
+
+2) Encrypted Deeplearning
+
+
+*Plan to execute in week*
+
+- choose study partner
+- spend 1 hour a day
+- chapter base project u have complete every week so that it will help in practical experiences
+- research paper (required provided regarding chapter base)
+- we will work @Arka project which is going on kaggle so that we will learn a lot, how he uses research paper and all to improve accuracy and many things.
+
+Advantage :
+
+1) easy learning
+2) implement learning of outsider and learning skill of them, how they work
+
+
+i want everyone should complete something by the end of this courses or something u achieve :slightly_smiling_face:"*
+Start This Initiative, YES
+`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 100% (12)
+@alpesh, @Praveer, @sarthakahir, @Pawan, @Shivam Raisharma, @Sunny Dsouza, @Roshan Chauhan, @cibaca, @Krunal, @amitrai, @Hitoishi Das, @Halwai Aftab Hasan
+Don't Start This Initiative, No
+`⁢` 0%
+Total votes
+12
+Comments
+:speech_balloon: @cibaca: @channel - Please reply to this poll and share your views in this thread. It would be started with this week
+:speech_balloon: @alpesh: well as I a beginner I was looking for such an opportunity :star-struck:
+
+* Raeding kernel or Discussion https://www.kaggle.com/c/aerial-cactus-identification
+
