@@ -325,3 +325,14 @@ i would like u guys also take initiative like this way #sg_bangalore #sg_pune #s
 #### Sarah
 
 * Completed lessons 9.1-9.5
+
+### Day 11:
+
+#### Polarbeargo
+
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to Definition 3.5 Composition theorems.
+* Rewatching and implemented lecture Deep learning with PyTorch and Introducing with Diffrential Privacy.
+* Learning, watching and implement fastai https://www.fast.ai/.
+* Reading Robotic Software Engineer Nanodegree program Lesson Build Monte Carlo localization with C++ to 13.5 Noise and implemented particle filter.
+* Reading https://arxiv.org/pdf/1607.00133.pdf to section IMPLEMENTATION searching differentially private SGD algorithms in TensorFlow https://github.com/tensorflow/models.
+* Implemented a little test to learn which one of GlobalMaxPool2D or GlobalAvgPool2D work best on Northeastern SMILE Lab - Recognizing Faces in the Wild https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion/92454#latest-569281. 
