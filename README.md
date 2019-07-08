@@ -8,6 +8,10 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image4]: ./images/AlexNet.png
 [image5]: ./images/intoductionToPyTorch.png
 [image6]: ./images/FinishIntroDeepLearningPyTorch.png
+[image7]: ./images/turtleBot.png
+[image8]: ./images/turtleBot3.png
+[image9]: ./images/turtlebo5.png
+[image10]: ./images/turtulebot5.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -408,3 +412,23 @@ Comments
 * Met up with the NLP group online.
 * The t-shirt project was released today!
 * Started reading section 5.5 in Deep Learning by Goodfellow
+
+### Day 12:
+
+#### Polarbeargo
+
+* Rewatching lecture Introducing with Diffrential Privacy and Evaluating the privacy of a function.
+* Learning, watching and implement fastai https://www.fast.ai/.
+* Reading https://arxiv.org/pdf/1607.00133.pdf to section 5.2 MNIST Baseline model.
+* Reading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
+* Test run Android Worker https://github.com/OpenMined/AndroidWorker.
+* Prepare participating Study group 1st meetup.
+* Reading and implementing Robotic Software Engineer Nanodegree program Lesson 13 Build Monte Carlo localization with C++ to 13.11 Graphing and having fun time with Lesson 11 Lab Kalman filter turtlebot_gazebo package https://github.com/turtlebot/turtlebot_simulator and Extend Kalman filter package https://github.com/udacity/robot_pose_ekf learn ROS building catkin workspace:
+
+enviroment perception      |  enviroment
+:-------------------------:|:-------------------------:
+![][image7]                | ![][image8]
+
+turtlebot right            | turtlebot front
+:-------------------------:|:-------------------------:
+![][image9]                |  ![][image10]
