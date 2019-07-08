@@ -423,6 +423,7 @@ Comments
 * Reading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
 * Test run Android Worker https://github.com/OpenMined/AndroidWorker.
 * Prepare participating Study group 1st meetup.
+* Implemented Kaggle SQL BigQuery summer camp https://www.kaggle.com/learn/intro-to-sql to 10. Exercise: As & With. 
 * Reading and implementing Robotic Software Engineer Nanodegree program Lesson 13 Build Monte Carlo localization with C++ to 13.11 Graphing and having fun time with Lesson 11 Lab Kalman filter turtlebot_gazebo package https://github.com/turtlebot/turtlebot_simulator and Extend Kalman filter package https://github.com/udacity/robot_pose_ekf learn ROS building catkin workspace:
 
 enviroment perception      |  enviroment
