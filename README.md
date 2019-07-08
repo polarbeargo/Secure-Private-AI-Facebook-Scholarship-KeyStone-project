@@ -444,7 +444,8 @@ Day start with kaggle https://www.kaggle.com/c/aerial-cactus-identification i th
 * start reading other kernels and discussion of https://www.kaggle.com/c/aerial-cactus-identification
 which help me for create a upgrade version than Alexander Milekhin and Hsin Wen Chang @Bearbear.
 * Attended Virtual Meetup with @Bearbear, and her vision regarding helping udacity community :slightly_smiling_face: 
-* then i use AlexNet, VGG-19 with batch normalization, ResNet-152, SqueezeNet 1.1, Densenet-201 and i found 100 % Accuracy, looking forward to submitting my results :slightly_smiling_face: 
+* then i use AlexNet, VGG-19 with batch normalization, ResNet-152, SqueezeNet 1.1, Densenet-201 and i found 100 % Accuracy with 149 rank:slightly_smiling_face: in  https://www.kaggle.com/c/aerial-cactus-identification :slightly_smiling_face: :slightly_smiling_face:
+Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sarah Majors @Harkirat :heart:
 * i encourage @Arka @Stark @Manisha #sg_clan whole clan shout out :slightly_smiling_face: 
 #60daysofudacity 
 
