@@ -417,7 +417,7 @@ Comments
 
 #### Polarbeargo
 
-* Rewatching lecture Introducing with Diffrential Privacy and Evaluating the privacy of a function.
+* Rewatching lecture Introducing with Differential Privacy and Evaluating the privacy of a function.
 * Learning, watching and implement fastai https://www.fast.ai/.
 * Reading https://arxiv.org/pdf/1607.00133.pdf to section 5.2 MNIST Baseline model.
 * Reading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
