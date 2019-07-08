@@ -433,3 +433,19 @@ enviroment perception      |  enviroment
 turtlebot right            | turtlebot front
 :-------------------------:|:-------------------------:
 ![][image9]                |  ![][image10]
+
+
+#### Halwai Aftab Hasan
+
+Day start with kaggle https://www.kaggle.com/c/aerial-cactus-identification i thought lets work with transfer learning and here we with kaggle master @Bearbear help me use to a different type of model 
+
+* #sg_mumbai End the study plan poll with 17 people who agrees to start initiative without any disagree, its was a great result for me :slightly_smiling_face: 
+* Kaggle kernel fork issue solved by @Bearbear thxs a lot :slightly_smiling_face: 
+* start reading other kernels and discussion of https://www.kaggle.com/c/aerial-cactus-identification
+which help me for create a upgrade version than Alexander Milekhin and Hsin Wen Chang @Bearbear.
+* Attended Virtual Meetup with @Bearbear, and her vision regarding helping udacity community :slightly_smiling_face: 
+* then i use AlexNet, VGG-19 with batch normalization, ResNet-152, SqueezeNet 1.1, Densenet-201 and i found 100 % Accuracy, looking forward to submitting my results :slightly_smiling_face: 
+* i encourage @Arka @Stark @Manisha #sg_clan whole clan shout out :slightly_smiling_face: 
+#60daysofudacity 
+
+
