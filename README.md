@@ -465,3 +465,5 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 
 ![][image15]
 
+#### Sarah
+* Started planning out my kestone project.  I would like to use the [tutorial](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) on OpenMined for federated learning on raspberry pis as a base and build on that.  Unfortunately, I will have to wait to start that until I am a little further into my Geology course.  It started today and I need to write a discussion post on it Wednesday.  That class should ease up in a couple weeks when I get into it and can do much of the reading on weekends.
