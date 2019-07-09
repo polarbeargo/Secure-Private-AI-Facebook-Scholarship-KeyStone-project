@@ -12,6 +12,11 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image8]: ./images/turtleBot3.png
 [image9]: ./images/turtlebo5.png
 [image10]: ./images/turtulebot5.png
+[image11]: ./images/1.png
+[image12]: ./images/3.png
+[image13]: ./images/5.png
+[image14]: ./images/Hsin1.png
+[image15]: ./images/Hsin2.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -450,9 +455,13 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 #60daysofudacity 
 
 
-![](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/1.png)                 
-![](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/3.png)
-![](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/5.png)                 
-![](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Hsin1.png)
-![](https://github.com/Polarbeargo/Secure-Private-AI-Facebook-Scholarship-KeyStone-project/blob/master/images/Hsin2.png)
+1st Study group meet up    | 1st Study group meet up
+:-------------------------:|:-------------------------:
+![][image11]               |![][image12]
+
+1st Study group meet up    | 1st Study group meet up
+:-------------------------:|:-------------------------:
+![][image13]               |  ![][image14]
+
+![][image15]
 
