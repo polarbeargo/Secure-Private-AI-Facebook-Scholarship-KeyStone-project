@@ -467,3 +467,14 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 
 #### Sarah
 * Started planning out my kestone project.  I would like to use the [tutorial](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/) on OpenMined for federated learning on raspberry pis as a base and build on that.  Unfortunately, I will have to wait to start that until I am a little further into my Geology course.  It started today and I need to write a discussion post on it Wednesday.  That class should ease up in a couple weeks when I get into it and can do much of the reading on weekends.
+
+### Day 13: 
+
+#### Polarbeargo
+
+* Rewatching lecture Introducing local and global Differential Privacy.
+* Continue learning, watching and implement fastai https://www.fast.ai/.
+* Reading https://arxiv.org/pdf/1607.00133.pdf to section 5.2 MNIST PCA projection.
+* Continue reading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
+* Continue reading and implementing Robotic Software Engineer Nanodegree program Lesson 13 Build Monte Carlo localization with C++ to 13.11 Graphing and having fun time practice and play with Lesson 11 Lab Kalman filter turtlebot_gazebo package https://github.com/turtlebot/turtlebot_simulator, Extend Kalman filter package https://github.com/udacity/robot_pose_ekf , Odometry to Trajectory Package https://github.com/udacity/odom_to_trajectory, TurtleBot Teleop Package  https://github.com/turtlebot/turtlebot and Rviz Package to 11.10 Main launch learn ROS and building catkin workspace. Start reading project: Where am I.
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to Definition 3.5.3 Laplace versus Gauss.
