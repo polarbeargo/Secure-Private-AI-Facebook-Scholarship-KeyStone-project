@@ -483,7 +483,7 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 
 - Collecting resources for #sg_mumbai study plan like research paper and projects for week 1 chapter: neural network with pytroch
 - create a poll for #sg_mumbai whether which chapter you would like to start in this week
-- after successful completion of https://www.kaggle.com/c/aerial-cactus-identification with 100% accuracy due to high energy now so i start with new kaggle competition https://www.kaggle.com/c/aerial-cactus-identification with reading discussion and kernel and collecting required resource for this competition
+- after successful completion of https://www.kaggle.com/c/aerial-cactus-identification with 100% accuracy due to high energy now so i start with new kaggle competition https://www.kaggle.com/c/aptos2019-blindness-detection with reading discussion and kernel and collecting required resource for this competition
 - organize text meet-up with #sg_mumbai with negative response of my team we create 2 more polls for them to decide whether they are interested or not with our activities
 - I encourage my very close friend @rinki nag  as well as @cibaca
  
