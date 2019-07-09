@@ -478,3 +478,11 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 * Continue reading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
 * Continue reading and implementing Robotic Software Engineer Nanodegree program Lesson 13 Build Monte Carlo localization with C++ to 13.11 Graphing and having fun time practice and play with Lesson 11 Lab Kalman filter turtlebot_gazebo package https://github.com/turtlebot/turtlebot_simulator, Extend Kalman filter package https://github.com/udacity/robot_pose_ekf , Odometry to Trajectory Package https://github.com/udacity/odom_to_trajectory, TurtleBot Teleop Package  https://github.com/turtlebot/turtlebot and Rviz Package to 11.10 Main launch learn ROS and building catkin workspace. Start reading project: Where am I.
 * Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) to Definition 3.5.3 Laplace versus Gauss.
+
+#### Halwai Aftab Hasan
+
+- Collecting resources for #sg_mumbai study plan like research paper and projects for week 1 chapter : neural network with pytroch
+- create a poll for #sg_mumbai whether which chapter you would like start in this week 
+- after successfull compeletion of https://www.kaggle.com/c/aerial-cactus-identification with 100% accuracy due to high energy now so i start with new kaggle competition https://www.kaggle.com/c/aerial-cactus-identification with reading discussion and kernel and collecting required resource for this competition 
+- organize text meet-up with #sg_mumbai with negative response of my team we create 2 more poll for them to decide whether they are interested or not with our activitys
+ 
