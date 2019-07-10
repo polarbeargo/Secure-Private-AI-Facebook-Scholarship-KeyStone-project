@@ -497,3 +497,10 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 * Reading AI for Trading Nanodegree Program to lesson four Market Mechanics schedule time with my mentor for 1st 1 vs 1 call.
 ![][image16]
 * Start organising paper references from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Engineer Nanodegree Program and Secure and Private AI Scholarship Challenge Nanodegree Program into a repository to memorise my journey start from self-driving Car Engineer Nanodegree Program extend the love and knowledge from Udacity reviewer and my mentors Donald, David and Christopher who encourage and guide me through this brightful and real fun journey. Learn the heart from Sir Sebastian Thrun and Sir David J. Malan will contribute this repository with All Scholarship classmates and CS50 study group by this Friday.
+
+
+#### Halwai Aftab Hasan
+
+*  Rewatching lecture Introducing with Differential Privacy and Evaluating the privacy of a function.
+*  Start differential privacy implementing into real world project so i choose MNIST dataset by the help of https://github.com/dashitoishi23/PATE-Analysis-on-DL-Models/blob/master/PATE_Analysis_on_Deep_Learning_Models.ipynb
+*  Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
