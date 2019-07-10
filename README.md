@@ -17,6 +17,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image13]: ./images/5.png
 [image14]: ./images/Hsin1.png
 [image15]: ./images/Hsin2.png
+[image16]: ./images/QUANT.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -487,3 +488,12 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 - organize text meet-up with #sg_mumbai with negative response of my team we create 2 more polls for them to decide whether they are interested or not with our activities
 - I encourage my very close friend @rinki nag  as well as @cibaca
  
+### Day 14: 
+
+#### Polarbeargo
+
+* Rewatching lecture Introducing local and global Differential Privacy to 5.4 Varying amounts of noise.
+* Continue learning, watching and implement fastai https://www.fast.ai/.
+* Reading AI for Trading Nanodegree Program to lesson four Market Mechanics schedule time with my mentor for 1st 1 vs 1 call.
+![][image16]
+* Start organizing paper references from self-driving Car Engineer Nanodegree Program to Artificial Intelligence Nanodegree Program to Flying Car Nanodegree Program then Robotics Software Engineer Nanodegree Program and Secure and Private AI Scholarship Challenge Nanodegree Program into a repository to memorize my journey start from self-driving Car Engineer Nanodegree Program extend the love and knowledge from Udacity reviewer and my mentors Donald, David and Christopher who encourage and guide me through this brightful and real fun journey. Learn the heart from Sir Sebastian Thrun and Sir David J. Malan will contribute this repository with All Scholarship classmates by this Friday.
