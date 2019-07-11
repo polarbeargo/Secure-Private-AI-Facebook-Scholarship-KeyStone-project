@@ -487,6 +487,10 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 - after successful completion of https://www.kaggle.com/c/aerial-cactus-identification with 100% accuracy due to high energy now so i start with new kaggle competition https://www.kaggle.com/c/aptos2019-blindness-detection with reading discussion and kernel and collecting required resource for this competition
 - organize text meet-up with #sg_mumbai with negative response of my team we create 2 more polls for them to decide whether they are interested or not with our activities
 - I encourage my very close friend @rinki nag  as well as @cibaca
+
+#### Sarah
+
+* I made a first pass through the [GAN paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) for paper club.  I need to go through it again to understand the math.
  
 ### Day 14: 
 
@@ -504,3 +508,9 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 *  Rewatching lecture Introducing with Differential Privacy and Evaluating the privacy of a function.
 *  Start differential privacy implementing into real world project so i choose MNIST dataset by the help of https://github.com/dashitoishi23/PATE-Analysis-on-DL-Models/blob/master/PATE_Analysis_on_Deep_Learning_Models.ipynb
 *  Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+
+#### Sarah
+
+* Read the next few subsections of Chapter 5.5 of Deep Learning by Goodfellow
+* Read part of the a Nature article [Unsupervised Word Embeddings Capture Latent Knowledge From Materials Science Literature](https://www.researchgate.net/publication/334209824_Unsupervised_word_embeddings_capture_latent_knowledge_from_materials_science_literature)
+* Also spent time with the t-shirt group planning committee preparing for the live stream and AMA on Friday
