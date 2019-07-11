@@ -527,3 +527,12 @@ Thank you guys for supports :slightly_smiling_face: @Bearbear @Arka @Stark @Sara
 finish 1st 1 vs 1 zoom meeting with my mentor Pranjal who share the knowledge and wisdom of lesson 4.6 OHLC: Open, High, Low, Close and project 6: sentiment analysis with neural network also provide me this URL https://thetie.io/ to learn and dive in further which really help ease my nerves a lot:)!!
 * Continue reading Robotic Software Engineer Nanodegree program project where am I.
 * Continue rereading http://robots.stanford.edu/papers/thrun.robust-mcl.pdf to Monte Carlo Localization 2.1 Bayes Filtering.
+
+#### Halwai Aftab Hasan
+
+* Still working on Differential privacy project on MNIST dataset by the help of https://github.com/dashitoishi23/PATE-Analysis-on-DL-Models/blob/master/PATE_Analysis_on_Deep_Learning_Models.ipynb
+*  Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* Soon i will create a respo on differential privacy only
+* Start with Federated Learning 7.1, 7.2 , 7.3 and 70% course is completed :)
+
+i admire and get lots of inspiration from @Bearbear and her vision for AI community is increadible, and its a great opportunity for me to learn something under her and like she is doing , i also dominating like her :)  
