@@ -544,3 +544,16 @@ i admire and get lots of inspiration from @Bearbear and her vision for AI commun
 * Still rereading lecture Introducing local and global Differential Privacy to 5.6 Varying amounts of noise - 5.8 Create a Differentially Private Query amounts.
 * Reading AI for Trading Nanodegree Program to lesson 5.8 Survivor Bias.
 * Organizing paper references from nanodegree programs into a repository start from Aftab ask me question about he want to read more papers relate to Artificial Intelligence and neural network and I know from my heart that it's time to organizing and right thing to do to help classmates for their future path. Share this repository to all Scholarship classmates and CS50 study group by this Friday https://github.com/Polarbeargo/The-love-I-receive-from-Udacity-reviewer-resources/blob/master/README.md.
+
+#### Halwai Aftab Hasan
+
+* Complete Lesson 7 - Federated Learning and overall all 80% completion 
+* watched how federated Learning work on cell phones https://www.youtube.com/watch?v=gbRJPa9d-VU
+* watched Google I/O on federated Learning https://www.youtube.com/watch?v=89BGjQYA0uE
+* poster story of federated learning by google https://federated.withgoogle.com/
+* Real world project on Pysyft Android given by @sarah or @Bearbear thxs a lot for that https://towardsdatascience.com/pysyft-android-b28da47a767e
+* one more project by @Bearbear https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/
+
+I Encourage new Mumbai members @Diksha Verma @falconArrow
+big shout out for #sg_mumbai
+#60daysofudacity
