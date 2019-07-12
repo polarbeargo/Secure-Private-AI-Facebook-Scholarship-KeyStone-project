@@ -536,3 +536,11 @@ finish 1st 1 vs 1 zoom meeting with my mentor Pranjal who share the knowledge an
 * Start with Federated Learning 7.1, 7.2 , 7.3 and 70% course is completed :)
 
 i admire and get lots of inspiration from @Bearbear and her vision for AI community is increadible, and its a great opportunity for me to learn something under her and like she is doing , i also dominating like her :)  
+
+### Day 16: 
+
+#### Polarbeargo
+
+* Still rereading lecture Introducing local and global Differential Privacy to 5.6 Varying amounts of noise - 5.8 Create a Differentially Private Query amounts.
+* Reading AI for Trading Nanodegree Program to lesson 5.8 Survivor Bias.
+* Organizing paper references from nanodegree programs into a repository start from Aftab ask me question about he want to read more papers relate to Artificial Intelligence and neural network and I know from my heart that it's time to organizing and right thing to do to help classmates for their future path. Share this repository to all Scholarship classmates and CS50 study group by this Friday https://github.com/Polarbeargo/The-love-I-receive-from-Udacity-reviewer-resources/blob/master/README.md.
