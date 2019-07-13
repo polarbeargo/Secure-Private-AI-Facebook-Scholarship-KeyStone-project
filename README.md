@@ -591,3 +591,11 @@ AndoidWorker           | SocketBob
 2st Study group meet up    | 2st Study group meet up
 :-------------------------:|:-------------------------:
 ![][image21]               |  ![][image19]
+
+
+#### Halwai Aftab Hasan
+
+i already knew that today is my hectic day and its happened 
+- Day start with Hackathon organize by #sg_hackathon-orgnizrs team which many scholars participate in this 2 days of hackathon 
+so my team name is Hasan & Hasan and teammates are @cibaca @Shivam Raisharma @Hitoishi Das so big shout out to #sg_hackathon-orgnizrs https://www.kaggle.com/spaics/datasets
+- 
