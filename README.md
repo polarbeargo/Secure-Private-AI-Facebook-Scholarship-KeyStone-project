@@ -575,7 +575,7 @@ big shout out for #sg_mumbai
 #### Polarbeargo
 
 * Reading AI for Trading Nanodegree Program to lesson 7.9 Statistical Analysis and project Momemtum Trading.
-* Rereading Federated Learning.
+* Rereading Lecture Federated Learning.
 * Follow team_grid mari-linhares's guidance setup Grid and PySyft, test run Android worker and Socket Bob.ipynb continue set up Mini project topic Federated Learning developing environment:
 
 AndoidWorker           | SocketBob
