@@ -594,6 +594,9 @@ AndoidWorker           | SocketBob
 :-------------------------:|:-------------------------:
 ![][image21]               |  ![][image19]
 
+2st Study group meet up     
+:-------------------------:
+![][image23] 
 
 #### Halwai Aftab Hasan
 
