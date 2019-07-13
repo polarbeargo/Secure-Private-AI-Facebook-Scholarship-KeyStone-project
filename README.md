@@ -24,7 +24,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image20]: ./images/22.png
 [image21]: ./images/23.png
 [image22]: ./images/24.png
-[image23]: ./images/HsinSarah.png.png
+[image23]: ./images/HsinSarah.png
 [image24]: ./images/MumbaiVM.PNG
 
 ### Day 1: 
