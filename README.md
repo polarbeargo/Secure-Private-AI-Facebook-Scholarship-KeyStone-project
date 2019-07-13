@@ -24,6 +24,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image20]: ./images/22.png
 [image21]: ./images/23.png
 [image22]: ./images/24.png
+[image23]: ./images/DAY17 1.PNG
+[image24]: ./images/Hsin-Sarah.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -622,5 +624,8 @@ AndoidWorker           | SocketBob
 2st Study group meet up    | 2st Study group meet up
 :-------------------------:|:-------------------------:
 ![][image21]               |  ![][image19]
+
+
+![][image23]
 
 - 
