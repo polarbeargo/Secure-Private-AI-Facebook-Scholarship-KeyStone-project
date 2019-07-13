@@ -18,6 +18,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image14]: ./images/Hsin1.png
 [image15]: ./images/Hsin2.png
 [image16]: ./images/QUANT.png
+[image17]: ./images/AndroidPixel2.png
+[image18]: ./images/socketBob.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -563,3 +565,17 @@ big shout out for #sg_mumbai
 
 #### Sarah
 * Coordinated with the t-shirt project planning committee to create a video to lauch the competition officially.  It covers the scope, purpose and deadlines of the competition as well as walks through a GAN notebook to help people get started.
+
+### Day 17: 
+
+#### Polarbeargo
+
+* Reading AI for Trading Nanodegree Program to lesson 7.9 Statistical Analysis and project Momemtum Trading.
+* Rereading Federated Learning.
+* Follow team_grid mari-linhares's guidence setup Grid and PySyft, test run Android worker and Socket Bob.ipynb continue set up Mini project topic Federated Learning developing enviroment:
+
+AndoidWorker           | SocketBob
+:-------------------------:|:-------------------------:
+![][image17]                |  ![][image18]
+
+* 2st Study group listen and share thought of Mini project topic Federated Learning see Sarah Majors in person
