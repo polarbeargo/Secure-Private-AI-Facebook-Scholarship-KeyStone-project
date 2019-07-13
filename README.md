@@ -598,4 +598,11 @@ AndoidWorker           | SocketBob
 i already knew that today is my hectic day and its happened 
 - Day start with Hackathon organize by #sg_hackathon-orgnizrs team which many scholars participate in this 2 days of hackathon 
 so my team name is Hasan & Hasan and teammates are @cibaca @Shivam Raisharma @Hitoishi Das so big shout out to #sg_hackathon-orgnizrs https://www.kaggle.com/spaics/datasets
+- reading application and articles on federated learning for the presenation in front of my team @@Bearbear @Sarah Majors @Harkirat 
+and preparing on this statement " I m thinking about what if we choose a real world project by using this course its help for the society and community as well "
+https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
+https://www.youtube.com/watch?v=89BGjQYA0uE
+https://www.youtube.com/watch?v=gbRJPa9d-VU
+https://towardsdatascience.com/pysyft-android-b28da47a767e
+https://github.com/Polarbeargo/AndroidWorker
 - 
