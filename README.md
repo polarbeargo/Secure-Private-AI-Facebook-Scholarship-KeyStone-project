@@ -628,4 +628,6 @@ AndoidWorker           | SocketBob
 
 ![][image23]
 ![][image24]
-- 
+- Organize and Attend a great virtual meetup with amazing buddies from #sg_mumbai.
+Discussed about upcoming projects, coursework, local meetup, study partners and also other channel intiatives coming soon!!
+Had a great meetup with these guys @cibaca @Halwai Aftab Hasan @Shivam Raisharma @Parth Hiren Shah @Praveer @bhavz @alpesh @Mushrifah Hasan 
