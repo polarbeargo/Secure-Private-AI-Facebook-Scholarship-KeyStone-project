@@ -20,6 +20,10 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image16]: ./images/QUANT.png
 [image17]: ./images/AndroidPixel2.png
 [image18]: ./images/socketBob.png
+[image19]: ./images/21.png
+[image20]: ./images/22.png
+[image21]: ./images/23.png
+[image22]: ./images/24.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -578,4 +582,12 @@ AndoidWorker           | SocketBob
 :-------------------------:|:-------------------------:
 ![][image17]                |  ![][image18]
 
-* 2st Study group listen and share thought of Mini project topic Federated Learning see Sarah Majors in person
+* 2st Study group listen and share thought of Mini project topic Federated Learning see Sarah Majors in person:)!
+
+2st Study group meet up    | 2st Study group meet up
+:-------------------------:|:-------------------------:
+![][image22]               |![][image20]
+
+2st Study group meet up    | 2st Study group meet up
+:-------------------------:|:-------------------------:
+![][image21]               |  ![][image19]
