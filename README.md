@@ -537,6 +537,9 @@ finish 1st 1 vs 1 zoom meeting with my mentor Pranjal who share the knowledge an
 
 i admire and get lots of inspiration from @Bearbear and her vision for AI community is increadible, and its a great opportunity for me to learn something under her and like she is doing , i also dominating like her :)  
 
+#### Sarah
+* Read a few more pages of Deep Learning 5.5 - going slowly.  I'll get through chapter 5 some day
+
 ### Day 16: 
 
 #### Polarbeargo
@@ -557,3 +560,6 @@ i admire and get lots of inspiration from @Bearbear and her vision for AI commun
 I Encourage new Mumbai members @Diksha Verma @falconArrow
 big shout out for #sg_mumbai
 #60daysofudacity
+
+#### Sarah
+* Coordinated with the t-shirt project planning committee to create a video to lauch the competition officially.  It covers the scope, purpose and deadlines of the competition as well as walks through a GAN notebook to help people get started.
