@@ -612,12 +612,7 @@ https://www.youtube.com/watch?v=gbRJPa9d-VU
 https://towardsdatascience.com/pysyft-android-b28da47a767e
 https://github.com/Polarbeargo/AndroidWorker
 - Team Second Virtual Meetup held by Time IST 7PM OR TAIWAN 9.30 PM OR USA 9.30 AM 
-we start with talking about federated learning then we move to real world project on federated learning on pysyft android https://towardsdatascience.com/pysyft-android-b28da47a767e
-and follow team_grid mari-linhares's guidance setup Grid and PySyft, test run Android worker and Socket Bob.ipynb continue set up Mini project topic Federated Learning developing environment and create a respo for that only  
-
-AndoidWorker           | SocketBob
-:-------------------------:|:-------------------------:
-![][image17]                |  ![][image18]
+we start with talking about federated learning then we move to real world project on federated learning on pysyft android https://towardsdatascience.com/pysyft-android-b28da47a767e by the guidences of @Bearbear and create a respo for that as well.  
 
 * 2st Study group listen and share thought of Mini project topic Federated Learning see Sarah Majors in person:)!
 
