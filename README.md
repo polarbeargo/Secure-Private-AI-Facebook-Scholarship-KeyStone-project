@@ -645,4 +645,11 @@ Rewatching lecture Federated Learning and Securing Federated Learning.
 * Answer other data scientist's question on Kaggle.
 * Reading Robotics Software Nanodegree program project where am I and play with Gazebo: Hello, world!
 * Catch up AI for trading Nanodegree program rewatching Statistical Analysis finished implementing project Trading with Momentum prepare to get back to implement the quiz and rereading lecture material.
+
+#### Halwai Aftab Hasan
+
+Working on the #sg_hackathon-orgnizrs hackathon along with @Hitoishi Das @Shivam Raisharma and @cibaca ,we early on reached 90 and we looking for more better version of us.... 
+https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+
+
   
