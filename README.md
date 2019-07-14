@@ -634,3 +634,15 @@ Had a great meetup with these guys @cibaca @Halwai Aftab Hasan @Shivam Raisharma
 Mumbai Virtual Meet Up     
 :-------------------------:
 ![][image24]                 
+
+### Day 18: 
+
+#### Polarbeargo
+
+Rewatching lecture Federated Learning and Securing Federated Learning.
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Definition 3.6 The sparse vector technique.
+* Continue to examine my thought about Group Mini project Federated Learning.
+* Answer other data scientist's question on Kaggle.
+* Reading Robotics Software Nanodegree program project where am I and play with Gazebo: Hello, world!
+* Catch up AI for trading Nanodegree program rewatching Statistical Analysis finished implementing project Trading with Momentum prepare to get back to implement the quiz and rereading lecture material.
+  
