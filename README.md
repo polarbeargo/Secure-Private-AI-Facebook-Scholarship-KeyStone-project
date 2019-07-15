@@ -661,7 +661,7 @@ https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 https://classroom.udacity.com/courses/ud808  
 * Looking forward to complete other prerequisite project things which is base on federated learning using Android. 
 * Restart watching Neural network and looking forward to get hand on practices with neural network theory so that my foundation will become strong. :) 
-
+* Attended Awesome seminar by Robert. Thanks to Udacity @akshit.udacity@Palak.Udacity for arranging this session.
 
 #### Polarbeargo
 
