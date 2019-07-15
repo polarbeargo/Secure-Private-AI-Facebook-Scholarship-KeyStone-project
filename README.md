@@ -655,8 +655,12 @@ https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
 #### Halwai Aftab Hasan
 
-Udacity Free Course - Installing Android Studio 
+* Late night( After 1 am Indian Time) fun with models and parameter of the model for hackathon competition, we reached to the 96 % on the training set but we don't satisfy with our model so due to take more time on training the train set with commit, we will not able to generate good model ... and competition submission time is (5.30 AM Indian Time)
+* Back to mini project on federated Learning which is given to me by @Bearbear , so i start with prerequisite things which is available here https://towardsdatascience.com/pysyft-android-b28da47a767e so i start with download Android studio were i found this free course https://classroom.udacity.com/courses/ud808 
+* Complete Udacity Free Course - Installing Android Studio where i learned how to install and write Hello world using mobile phone :) 
 https://classroom.udacity.com/courses/ud808  
+* 
+
 
 #### Polarbeargo
 
