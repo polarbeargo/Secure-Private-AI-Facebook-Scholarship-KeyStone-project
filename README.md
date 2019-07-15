@@ -585,7 +585,7 @@ AndoidWorker           | SocketBob
 ![][image17]                |  ![][image18]
 
 * 2st Study group listen and share thought of Mini project topic Federated Learning see Sarah Majors in person:)!
-* Presented demo Android worker with SocketBob and explained the tensor message protocol base on https://towardsdatascience.com/pysyft-android-b28da47a767e with the study group member Sarah and Aftab. Create Mini project repo and push the demo to the repo:
+* Presented demo Android worker with SocketBob and explained the tensor message protocol base on https://towardsdatascience.com/pysyft-android-b28da47a767e with the study group member Sarah and Aftab. Create Mini project repo and push a pull and run version of the demo to the repo:
 
 2st Study group meet up    | 2st Study group meet up
 :-------------------------:|:-------------------------:
