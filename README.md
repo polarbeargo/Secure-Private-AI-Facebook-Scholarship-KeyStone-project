@@ -657,3 +657,12 @@ https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
 Udacity Free Course - Installing Android Studio 
 https://classroom.udacity.com/courses/ud808  
+
+#### Polarbeargo
+
+* Repeatedly watching lecture Federated Learning, Securing Federated Learning and Encrypted Deep Learning
+ to lesson 9.3 Encrypted Computation in PySyft.
+* Rereading article https://towardsdatascience.com/pysyft-android-b28da47a767e
+* Studying and implementing Robotic Software Engineer Nanodegree program project where am I to section Robot Model: Basic Setup and lesson 15 Introduction to Mapping and SLAM.
+* Rewatching Flying car Nanodegree program lesson 1 planning as search.
+* Continue to examine my thought about Group Mini project Federated Learning.
