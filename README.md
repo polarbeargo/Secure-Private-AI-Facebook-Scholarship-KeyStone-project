@@ -651,5 +651,9 @@ Rewatching lecture Federated Learning and Securing Federated Learning.
 Working on the #sg_hackathon-orgnizrs hackathon along with @Hitoishi Das @Shivam Raisharma and @cibaca ,we early on reached 90 and we looking for more better version of us.... 
 https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
 
+### Day 19: 
 
-  
+#### Halwai Aftab Hasan
+
+Udacity Free Course - Installing Android Studio 
+https://classroom.udacity.com/courses/ud808  
