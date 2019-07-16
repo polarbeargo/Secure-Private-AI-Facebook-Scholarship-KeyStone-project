@@ -672,3 +672,14 @@ https://classroom.udacity.com/courses/ud808
 * Rewatching Flying car Nanodegree program lesson 1 planning as search.
 * Continue to examine my thought about Group Mini project Federated Learning.
 * Attended Webinar AMA with Robert Wagner learned a lot from Robert :)! 
+
+### Day 20: 
+
+#### Polarbeargo
+
+* Repeatedly watching lecture Federated Learning, Securing Federated Learning and Encrypted Deep Learning.
+* Watching Robotic Software Engineer Nanodegree program to Lesson 16 occupancy Grid Mapping to section 5 Posterior Probability.
+* Continue to examine my thought about Group Mini project.
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Definition 3.6 The sparse vector technique.
+* Reading AI for Trading Nanodegree Program project Trading with Momentum review from the reviewer and I love this review very much which helps me familiar a lot of vocabulary and knowledge in Statistics.
+* I Need deep sleep:).
