@@ -671,3 +671,4 @@ https://classroom.udacity.com/courses/ud808
 * Studying and implementing Robotic Software Engineer Nanodegree program project where am I to section Robot Model: Basic Setup and lesson 15 Introduction to Mapping and SLAM.
 * Rewatching Flying car Nanodegree program lesson 1 planning as search.
 * Continue to examine my thought about Group Mini project Federated Learning.
+* Attended Webinar AMA with Robert Wagner learned a lot from Robert. 
