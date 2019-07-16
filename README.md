@@ -689,7 +689,10 @@ https://classroom.udacity.com/courses/ud808
 * Rewatch Awesome seminar by Robert. Thanks to Udacity @akshit.udacity@Palak.Udacity for arranging this session.
 https://www.youtube.com/watch?v=9D_jxOMZmRI
 * Start discussing with @Harkirat on " How to start contributing to open source " as well as he help me in career guidence regarding field interest and how to grab it :) 
-* so i thought that why not others also have career tract issue so that i create a poll for #sg_mumbai called " career path partner" were they can choose partner basis of field wise and they live in mumbai so they can work together on the same field interest 
-Example:- 
-*  
+* So i thought that why not others also have career track issue so that i create a poll for #sg_mumbai called " Career Path Partner" were they can choose partner basis on field wise and they live in mumbai so they can work together on the same field interest. 
+
+Example:- if a guy have interest in Computer Vision and Another guy also have same field interest so both can work or talk on same field interest or even local language is advantage for better understanding. 
+https://secureprivataischolar.slack.com/archives/CL7FJMJGP/p1563275784015000   
+
+*    
 
