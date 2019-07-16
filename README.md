@@ -683,3 +683,13 @@ https://classroom.udacity.com/courses/ud808
 * Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Definition 3.6 The sparse vector technique.
 * Reading AI for Trading Nanodegree Program project Trading with Momentum review from the reviewer and I love this review very much which helps me familiar a lot of vocabulary and knowledge in Statistics.
 * I Need deep sleep:).
+
+#### Halwai Aftab Hasan
+
+* Rewatch Awesome seminar by Robert. Thanks to Udacity @akshit.udacity@Palak.Udacity for arranging this session.
+https://www.youtube.com/watch?v=9D_jxOMZmRI
+* Start discussing with @Harkirat on " How to start contributing to open source " as well as he help me in career guidence regarding field interest and how to grab it :) 
+* so i thought that why not others also have career tract issue so that i create a poll for #sg_mumbai called " career path partner" were they can choose partner basis of field wise and they live in mumbai so they can work together on the same field interest 
+Example:- 
+*  
+
