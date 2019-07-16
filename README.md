@@ -688,11 +688,12 @@ https://classroom.udacity.com/courses/ud808
 
 * Rewatch Awesome seminar by Robert. Thanks to Udacity @akshit.udacity@Palak.Udacity for arranging this session.
 https://www.youtube.com/watch?v=9D_jxOMZmRI
+* Final Submit the kernel to the #sg_hackathon-orgnizrs and waiting the competition results :) and thxs to entire team of #sg_hackathon-orgnizrs :) we both work at mid night and solving each other issue and query :)   
 * Start discussing with @Harkirat on " How to start contributing to open source " as well as he help me in career guidence regarding field interest and how to grab it :) 
 * So i thought that why not others also have career track issue so that i create a poll for #sg_mumbai called " Career Path Partner" were they can choose partner basis on field wise and they live in mumbai so they can work together on the same field interest. 
 
-Example:- if a guy have interest in Computer Vision and Another guy also have same field interest so both can work or talk on same field interest or even local language is advantage for better understanding. 
-https://secureprivataischolar.slack.com/archives/CL7FJMJGP/p1563275784015000   
+* Example:- if a guy have interest in Computer Vision and Another guy also have same field interest so both can work or talk on same field interest or even local language is advantage for better understanding. https://secureprivataischolar.slack.com/archives/CL7FJMJGP/p1563275784015000
 
-*    
+* Back to my Group mini project and its not easy for me to alone were i don't know how to use android studio so i back to the project page https://towardsdatascience.com/pysyft-android-b28da47a767e and try to follow there steps so i come to the conclusion that i need to read the github repository again so i start reading the repository https://github.com/OpenMined/AndroidWorker.
+
 
