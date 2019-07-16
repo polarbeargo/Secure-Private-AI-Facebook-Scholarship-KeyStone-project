@@ -696,4 +696,6 @@ https://www.youtube.com/watch?v=9D_jxOMZmRI
 
 * Back to my Group mini project and its not easy for me to alone were i don't know how to use android studio so i back to the project page https://towardsdatascience.com/pysyft-android-b28da47a767e and try to follow there steps so i come to the conclusion that i need to read the github repository again so i start reading the repository https://github.com/OpenMined/AndroidWorker.
 
+* Rachel is back <3, watch her on Youtube Kaggle Channelon topic - SQL Summer Camp: Order By, Extract and Dates | Kaggle
+https://www.youtube.com/watch?v=jEdgQ-RVmXw
 
