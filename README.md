@@ -699,3 +699,13 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 * Some Keypoint that motivate and give direction to me which i receive from others and this will help in future as well 
 " You have a lot of need to work on and only persistence and interest can take you further away " - @Bearbear Hsin-Wen Chang.
 
+### Day 21: 
+
+#### Polarbeargo
+
+* Repeatedly watching lecture Federated Learning, Securing Federated Learning and Encrypted Deep Learning.
+* Watching https://course.fast.ai/videos/?lesson=3
+* Reading https://machinelearningmastery.com/statistical-hypothesis-tests/
+* Reading https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/
+* Sign up https://www.kaggle.com/c/open-images-2019-object-detection competition, Team up with Harkirat Singh very appreciate his invitation, we can have good time together he named our team name :)!
+* Reading https://www.datacamp.com/community/tutorials/finance-python-trading
