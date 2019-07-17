@@ -715,8 +715,8 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 
 #### Halwai Aftab Hasan
 
-* i start my day with beautiful Style Transfer from intro to deeplearning with pytorch course, i start getting admire when the instructor start playing with content image and target image where i fall in love with that part 
-* after complete the whole style transfer course i open my colab and start working with it using different content (own or personal) images with applying different style of images, it so cool to play with images and having fun with friends images.
+* I Start my day with beautiful Style Transfer from intro to deeplearning with pytorch course, i start getting admire when the instructor start playing with content image and target image where i fall in love with that part 
+* After complete the whole style transfer course i open my colab and start working with it using different content (own or personal) images with applying different style of images, it so cool to play with images and having fun with friends images.
 
 Input + Output                    
 :-------------------------:
