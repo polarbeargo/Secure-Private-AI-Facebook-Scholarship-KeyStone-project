@@ -26,6 +26,9 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image22]: ./images/24.png
 [image23]: ./images/HsinSarah.png
 [image24]: ./images/MumbaiVM.PNG
+[image25]: ./images/Dikshainput.jpeg
+[image26]: ./images/Dikshaouput.png
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -709,3 +712,16 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 * Reading https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/
 * Sign up https://www.kaggle.com/c/open-images-2019-object-detection competition, Team up with Harkirat Singh very appreciate his invitation, we can have good time together he named our team name :)!
 * Reading https://www.datacamp.com/community/tutorials/finance-python-trading
+
+#### Halwai Aftab Hasan
+
+* i start my day with beautiful Style Transfer from intro to deeplearning with pytorch course, i start getting admire when the instructor start playing with content image and target image where i fall in love with that part 
+* after complete the whole style transfer course i open my colab and start working with it using different content (own or personal) images with applying different style of images, it so cool to play with images and having fun with friends images.
+
+Input                      | Output
+:-------------------------:|:-------------------------:
+![][image25]               |![][image26]
+
+2st Study group meet up    | 2st Study group meet up
+:-------------------------:|:-------------------------:
+![][image21]               |  ![][image19]
