@@ -27,7 +27,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image23]: ./images/HsinSarah.png
 [image24]: ./images/MumbaiVM.PNG
 [image25]: ./images/download.png
-[image26]: ./images/Dikshaouput.png
+[image26]: ./images/rachel.png
 
 
 ### Day 1: 
@@ -721,4 +721,11 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 Input + Output                    
 :-------------------------:
 ![][image25]               
+
+* Finally most exciting part of night is rachel is back on YouTube kaggle SQL Summer Camp: As and With | Kaggle https://www.youtube.com/watch?v=Hk3OK2G5U5I <3 
+
+Live Streaming Rachel <3 on YouTube Kaggle SQL Summer Camp: As and With                    
+:-------------------------:
+![][image26] 
+
 
