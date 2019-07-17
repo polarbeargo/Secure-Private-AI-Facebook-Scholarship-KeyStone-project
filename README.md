@@ -26,7 +26,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image22]: ./images/24.png
 [image23]: ./images/HsinSarah.png
 [image24]: ./images/MumbaiVM.PNG
-[image25]: ./images/Dikshainput.jpg
+[image25]: ./images/download.png
 [image26]: ./images/Dikshaouput.png
 
 
@@ -718,10 +718,7 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 * i start my day with beautiful Style Transfer from intro to deeplearning with pytorch course, i start getting admire when the instructor start playing with content image and target image where i fall in love with that part 
 * after complete the whole style transfer course i open my colab and start working with it using different content (own or personal) images with applying different style of images, it so cool to play with images and having fun with friends images.
 
-Input                      | Output
-:-------------------------:|:-------------------------:
-![][image25]               |![][image26]
+Input + Output                    
+:-------------------------:
+![][image25]               
 
-2st Study group meet up    | 2st Study group meet up
-:-------------------------:|:-------------------------:
-![][image21]               |  ![][image19]
