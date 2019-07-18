@@ -28,6 +28,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image24]: ./images/MumbaiVM.PNG
 [image25]: ./images/download.png
 [image26]: ./images/rachel.png
+[image27]: ./images/Attitude_estimation_with_Intel_aero.gif
+[image28]: ./images/Intel_aero_test_fly.gif
 
 
 ### Day 1: 
@@ -728,4 +730,20 @@ Live Streaming Rachel <3 on YouTube Kaggle SQL Summer Camp: As and With
 :-------------------------:
 ![][image26] 
 
+### Day 22: 
 
+#### Polarbeargo
+
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) 3.7 Bibliographic notes.
+* Reading lecture 9 Encrypted Deep learning for 30 min.
+* Rewatching and implementing Robotic Software Engineer Nanodegree program lecture Kalman filter and quiz.
+* Continue reading project where am I to RViz Integration.
+* Rewatching Flying Car Nanodegree Program  Lesson 3 Extend Kalman filter to 3.12 Kalman predict organized 
+  Intel aero attitude estimation gif and video record from Intel RGB-D camera.
+  
+video record from Intel RGB-D camera | Intel aero attitude estimation
+:-------------------------:|:-------------------------:
+![][image27]               |![][image28]
+
+* Continue reading AI for Trading Nanodegree Program project Trading with Momentum review references.
+* Continue to examine my thought about Group Mini project.
