@@ -635,6 +635,9 @@ Mumbai Virtual Meet Up
 :-------------------------:
 ![][image24]                 
 
+#### Sarah
+* Talked with this group in a virtual meet up to discuss the project that @Bearbear has started for us by creating a Kotlin mobile app so that we can work with PySyft and look at the difference of using Gaussian and Laplacian noise.
+
 ### Day 18: 
 
 #### Polarbeargo
@@ -650,6 +653,11 @@ Rewatching lecture Federated Learning and Securing Federated Learning.
 
 Working on the #sg_hackathon-orgnizrs hackathon along with @Hitoishi Das @Shivam Raisharma and @cibaca ,we early on reached 90 and we looking for more better version of us.... 
 https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+
+#### Sarah
+* Chatted with the people in the dl-goodfellows channel about chapters 1 and 2
+* Rearranged the data I have on my active hard drive and my backup server to make room for my new projects.
+* Downloaded and built Android Studio
 
 ### Day 19: 
 
@@ -672,6 +680,10 @@ https://classroom.udacity.com/courses/ud808
 * Rewatching Flying car Nanodegree program lesson 1 planning as search.
 * Continue to examine my thought about Group Mini project Federated Learning.
 * Attended Webinar AMA with Robert Wagner learned a lot from Robert :)! 
+
+#### Sarah
+* Attended the livestream from Robert Wagner
+* Got my Android Studio up and running and almost have @Bearbear's app running on it, but ran out of time to finish
 
 ### Day 20: 
 
@@ -699,3 +711,6 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 * Some Keypoint that motivate and give direction to me which i receive from others and this will help in future as well 
 " You have a lot of need to work on and only persistence and interest can take you further away " - @Bearbear Hsin-Wen Chang.
 
+#### Sarah
+* Received my new Raspberry Pi 4s for the federated learning on raspberry pi project, but forgot to order micro SD cards to go with it.  Have those coming in, so hopefully I will get to start that this weekend.
+* Worked more on Android Studio
