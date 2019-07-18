@@ -26,6 +26,11 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image22]: ./images/24.png
 [image23]: ./images/HsinSarah.png
 [image24]: ./images/MumbaiVM.PNG
+[image25]: ./images/download.png
+[image26]: ./images/rachel.png
+[image27]: ./images/Attitude_estimation_with_Intel_aero.gif
+[image28]: ./images/Intel_aero_test_fly.gif
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -714,3 +719,52 @@ https://www.youtube.com/watch?v=jEdgQ-RVmXw
 #### Sarah
 * Received my new Raspberry Pi 4s for the federated learning on raspberry pi project, but forgot to order micro SD cards to go with it.  Have those coming in, so hopefully I will get to start that this weekend.
 * Worked more on Android Studio
+
+### Day 21: 
+
+#### Polarbeargo
+
+* Repeatedly watching lecture Federated Learning, Securing Federated Learning and Encrypted Deep Learning.
+* Watching https://course.fast.ai/videos/?lesson=3
+* Reading https://machinelearningmastery.com/statistical-hypothesis-tests/
+* Reading https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-the-differences-between-one-tailed-and-two-tailed-tests/
+* Sign up https://www.kaggle.com/c/open-images-2019-object-detection competition, Team up with Harkirat Singh very appreciate his invitation, we can have good time together he named our team name :)!
+* Reading https://www.datacamp.com/community/tutorials/finance-python-trading
+
+#### Halwai Aftab Hasan
+
+* I Start my day with beautiful Style Transfer from intro to deeplearning with pytorch course, i start getting admire when the instructor start playing with content image and target image where i fall in love with that part 
+* After complete the whole style transfer course i open my colab and start working with it using different content (own or personal) images with applying different style of images, it so cool to play with images and having fun with friends images.
+
+Input + Output                    
+:-------------------------:
+![][image25]               
+
+* Finally most exciting part of night is rachel is back on YouTube kaggle SQL Summer Camp: As and With | Kaggle https://www.youtube.com/watch?v=Hk3OK2G5U5I <3 
+
+Live Streaming Rachel <3 on YouTube Kaggle SQL Summer Camp: As and With                    
+:-------------------------:
+![][image26] 
+
+#### Sarah 
+* Watched NLP fast.ai video 1
+* Participated in Papers Club GAN discussion
+* Figured out what I was doing wrong with Android Studio - just in the wrong repo...  Oof.  Need to finish, but needed to make more aur packages and needed sleep to do that.
+
+### Day 22: 
+
+#### Polarbeargo
+
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) 3.7 Bibliographic notes.
+* Reading lecture 9 Encrypted Deep learning for 30 min.
+* Rewatching and implementing Robotic Software Engineer Nanodegree program lecture Kalman filter and quiz.
+* Continue reading project where am I to RViz Integration.
+* Rewatching Flying Car Nanodegree Program  Lesson 3 Extend Kalman filter to 3.12 Kalman predict organized 
+  Intel aero attitude estimation gif and video record from Intel RGB-D camera.
+  
+video record from Intel RGB-D camera | Intel aero attitude estimation
+:-------------------------:|:-------------------------:
+![][image27]               |![][image28]
+
+* Continue reading AI for Trading Nanodegree Program project Trading with Momentum review references.
+* Continue to examine thoughts about Group Mini project.
