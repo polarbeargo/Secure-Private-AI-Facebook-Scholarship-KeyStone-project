@@ -746,4 +746,4 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 ![][image27]               |![][image28]
 
 * Continue reading AI for Trading Nanodegree Program project Trading with Momentum review references.
-* Continue to examine my thought about Group Mini project.
+* Continue to examine thoughts about Group Mini project.
