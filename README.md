@@ -768,3 +768,8 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 
 * Continue reading AI for Trading Nanodegree Program project Trading with Momentum review references.
 * Continue to examine thoughts about Group Mini project.
+
+#### Halwai Aftab Hasan
+
+* Attend live SQL Summer Camp: Joining Data | Kaggle on YouTube. https://www.youtube.com/watch?v=_ERmqiYnrNs
+
