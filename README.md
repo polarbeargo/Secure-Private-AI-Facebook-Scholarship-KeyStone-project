@@ -30,7 +30,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image26]: ./images/rachel.png
 [image27]: ./images/Attitude_estimation_with_Intel_aero.gif
 [image28]: ./images/Intel_aero_test_fly.gif
-
+[image29]: ./images/pranjal.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -773,3 +773,13 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 
 * Attend live SQL Summer Camp: Joining Data | Kaggle on YouTube. https://www.youtube.com/watch?v=_ERmqiYnrNs
 
+### Day 23: 
+
+#### Polarbeargo
+
+* Watching Robotic Software Engineer Nanodegree program lesson 16 Occupancy Grid Mapping to 16.7 Computing the Posterior.
+* Implementing Robotic Software Engineer Nanodegree program project where am I to Localization: Map.
+* 1 Vs 1 call with AI for Trading Nanodegree Program mentor Pranjal. He taught me, Fundamental Analysis use metrics like Sales Per Share, Earnings Per Share(EPS), Dividends Per Share to capture the health of the company. And we can use Statistical Analysis perform a t-test on the sample of portfolio returns to analysis alpha performance. First time have a photo with my mentor:D!
+![][image29]
+* Continue reading The Algorithmic Foundations of Differential Privacy 3.7 Bibliographic notes.
+* Reading https://arxiv.org/pdf/1607.00133.pdf section 5.2 MNIST PCA projection.
