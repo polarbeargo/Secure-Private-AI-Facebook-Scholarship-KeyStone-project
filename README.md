@@ -789,3 +789,6 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 
 * Started Recurrent Neural Network at OIntro to deeplearning with pytorch 
 * Complete the lesson of and Enjoy Recurrent Neural Network a lot by recalling Alpha zero(Using RNN) beat Chess Computer Engine Champion :)
+* Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
+* Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
+* Github --  https://github.com/ahkhalwai/chess-alpha-zero
