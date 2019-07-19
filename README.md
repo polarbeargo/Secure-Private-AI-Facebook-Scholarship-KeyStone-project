@@ -788,4 +788,4 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 #### Halwai Aftab Hasan
 
 * Started Recurrent Neural Network at OIntro to deeplearning with pytorch 
-* Complete the lesson of and Enjoy Recurrent Neural Network a lot by recalling Alpha go beat Chess Computer Engine Champion :) 
+* Complete the lesson of and Enjoy Recurrent Neural Network a lot by recalling Alpha zero(Using RNN) beat Chess Computer Engine Champion :)
