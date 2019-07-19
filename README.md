@@ -784,3 +784,8 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 * Continue reading The Algorithmic Foundations of Differential Privacy 3.7 Bibliographic notes.
 * Reading https://arxiv.org/pdf/1607.00133.pdf section 5.2 MNIST PCA projection.
 * Continue setup developing group mini project.
+
+#### Halwai Aftab Hasan
+
+* Started Recurrent Neural Network at OIntro to deeplearning with pytorch 
+* Complete the lesson of and Enjoy Recurrent Neural Network a lot by recalling Alpha go beat Chess Computer Engine Champion :) 
