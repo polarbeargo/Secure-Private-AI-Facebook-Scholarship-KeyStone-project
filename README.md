@@ -31,6 +31,9 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image27]: ./images/Attitude_estimation_with_Intel_aero.gif
 [image28]: ./images/Intel_aero_test_fly.gif
 [image29]: ./images/pranjal.png
+[image30]: ./images/laserrangefinder.png
+[image31]: ./images/MapRobot.png
+[image32]: ./images/amclRviz.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -792,3 +795,20 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 * Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
 * Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
 * Github --  https://github.com/ahkhalwai/chess-alpha-zero
+
+### Day 24: 
+
+#### Polarbeargo
+
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Chapter 4 Releasing Linear Queries with Correlated Error.
+* Reading Robust Monte Carlo Localization for Mobile Robots to 2.3 Particle Approximation:http://robots.stanford.edu/papers/thrun.robust-mcl.pdf 
+* Watching Robotic Software Engineer Nanodegree program lesson 12 Monte Carlo Localization.
+* Implementing Robotic Software Engineer Nanodegree program project where am I to Adaptive Monte Carlo Localization (AMCL) which dynamically adjusts the number of particles over a period of time, as the robot navigates around in a map. This adaptive process offers a significant computational advantage over MCL.
+
+Robot with a camera & Rangefinder | Map
+:-------------------------:|:-------------------------:
+![][image30]               |![][image31]
+
+![][image32] 
+
+* Continue learning, watching and implement fastai https://www.fast.ai/ finished lesson 3.
