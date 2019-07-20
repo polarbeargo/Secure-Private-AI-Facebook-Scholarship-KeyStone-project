@@ -812,3 +812,12 @@ Robot with a camera & Rangefinder | Map
 ![][image32] 
 
 * Continue learning, watching and implement fastai https://www.fast.ai/ finished lesson 3.
+
+#### Halwai Aftab Hasan
+
+* Spend so many time to read and search for chess database for alpha chess engine but i don't found any yet.
+* Start work on Stanford car dataset as per #sg_hackathon-orgnizrs along with @Halwai Aftab Hasan @Shivam Raisharma and @cibaca 
+* Participated in the first virtual meetup session of the study group #sg_clan with @Manisha @Arka @George Christopoulos @Kapadokia Titus @andreiliphd @Akshay Rajmohan @Nikita Sukhwal @Govind @Mateusz @A S M Sadiqul Islam @Sumanyu Rosha @Oladimeji Mudele.
+* Attended virtual meetup on #sg_mumbai with @cibaca, @bhavz, @Hitoishi Das, @Shivam Raisharma, @Ankit Dubey, @bhavz, @princeKm, @amitrai, @sarthakahir, @Rohit Sahoo, @alpesh
+
+
