@@ -776,6 +776,9 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 
 * Attend live SQL Summer Camp: Joining Data | Kaggle on YouTube. https://www.youtube.com/watch?v=_ERmqiYnrNs
 
+#### Sarah
+* Didn't do too much today.  Just picked up the SD cards for the raspberry pis for the pytorch robotics project
+
 ### Day 23: 
 
 #### Polarbeargo
@@ -795,6 +798,15 @@ video record from Intel RGB-D camera | Intel aero attitude estimation
 * Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
 * Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
 * Github --  https://github.com/ahkhalwai/chess-alpha-zero
+
+#### Sarah
+
+* Watched Fastai NLP video 2 and 3
+* Made that aur package for Grid (and a couple others) to try to make the PySysft for Android project working on my machine.
+* Tried to get together with the goodfellows, but it was just and myself.
+* Applied for the OpenMined scholarship
+* Looked at equation 5.6-5.12 to try to understand it well enough to help someone in the goodfellows channel
+
 
 ### Day 24: 
 
@@ -820,4 +832,6 @@ Robot with a camera & Rangefinder | Map
 * Participated in the first virtual meetup session of the study group #sg_clan with @Manisha @Arka @George Christopoulos @Kapadokia Titus @andreiliphd @Akshay Rajmohan @Nikita Sukhwal @Govind @Mateusz @A S M Sadiqul Islam @Sumanyu Rosha @Oladimeji Mudele.
 * Attended virtual meetup on #sg_mumbai with @cibaca, @bhavz, @Hitoishi Das, @Shivam Raisharma, @Ankit Dubey, @bhavz, @princeKm, @amitrai, @sarthakahir, @Rohit Sahoo, @alpesh
 
+#### Sarah
+* Listened in on the pytorch robotics virtual meetup.
 
