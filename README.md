@@ -34,6 +34,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image30]: ./images/laserrangefinder.png
 [image31]: ./images/MapRobot.png
 [image32]: ./images/amclRviz.png
+[image33]: ./images/acml.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -835,3 +836,13 @@ Robot with a camera & Rangefinder | Map
 #### Sarah
 * Listened in on the pytorch robotics virtual meetup.
 
+### Day 25: 
+
+#### Polarbeargo
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Chapter 4.1. An offline algorithm: SmallDB.
+* Reading [PySyft tutorial](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%205%20-%20Welcome%20to%20the%20Sandbox.ipynb) to Part 5 - Welcome to the Sandbox.ipynb.
+* Because Frida's encouragement I have a chance listen to [Security and Privacy of Machine Learning](https://www.youtube.com/watch?v=Af9WM5WUChg&t=511s).
+* Implementing Robotic Software Engineer Nanodegree program project where am I to Adaptive Monte Carlo Localization (AMCL) which dynamically adjusts the number of particles over a period of time, as the robot navigates around in a map. Continue learning writing a research paper explain MCL vs EKF using LATEX. Learning build my own robot model and tuning parameters
+![][image33]
+![][image34]
+* Reading AI for trading Nanodegree program to lesson 11 Regression. I love this Nanodegree and instructors very much because in the lesson 11 Regression section 6 testing for normality have a lot of visualize Spatial imagination relate to boxplot and QQ-plot with Gaussian distribution. As I read to this section I just fall in love with this Nanodegree program. After watching Section 11. 18 Interlude: Your Brain, I feel happy as I listen and learn this guidance.
