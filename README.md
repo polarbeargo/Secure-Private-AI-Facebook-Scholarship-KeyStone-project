@@ -35,6 +35,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image31]: ./images/MapRobot.png
 [image32]: ./images/amclRviz.png
 [image33]: ./images/acml.png
+[image34]: ./images/MCLVSEKFLaTEX.png
 
 ### Day 1: 
 #### Polarbeargo
