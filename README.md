@@ -847,3 +847,8 @@ Robot with a camera & Rangefinder | Map
 ![][image33]
 ![][image34]
 * Reading AI for trading Nanodegree program to lesson 11 Regression. I love this Nanodegree and instructors very much because in the lesson 11 Regression section 6 testing for normality have a lot of visualize Spatial imagination relate to boxplot and QQ-plot with Gaussian distribution. As I read to this section I just fall in love with this Nanodegree program. After watching Section 11. 18 Interlude: Your Brain, I feel happy as I listen and learn this guidance.
+
+#### Halwai Aftab Hasan
+
+* Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
+* Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
