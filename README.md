@@ -870,3 +870,10 @@ Robot with a camera & Rangefinder | Map
 ![][image37] 
 
 * Reading AI for trading Nanodegree program to lesson 12 Time Series Modeling finished section 4.6 - 4.8 Kalman Filter, Particle Filter, and Recurrent Neural Networks. As I read Particle Filter is a type of genetic algorithm by apply nature selection to improve estimates and we can apply Kalman filer when we make predictions from noisy and indirect measurements like measure oil pipeline flow near the production sites, I'm truly happy that I decided to enroll in AI for trading Nanodegree program and reminds me CS50 lecture last semester also mentioned genetic algorithm.
+
+#### Halwai Aftab Hasan
+
+* Start Securing Federated Learning.
+* Completed Securing Federated Learning.
+* Working on Style Transfer with different style images and try to reduces the loss rate for better image. 
+
