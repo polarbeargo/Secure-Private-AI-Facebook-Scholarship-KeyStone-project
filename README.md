@@ -858,3 +858,14 @@ Robot with a camera & Rangefinder | Map
 
 * Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
 * Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
+
+### Day 26: 
+
+#### Polarbeargo
+
+* Continue reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) Chapter 4.2. An online mechanism: private multiplicative weights.
+* Reading [PySyft tutorial](https://github.com/Polarbeargo/PySyft/blob/dev/examples/tutorials/Part%206%20-%20Federated%20Learning%20on%20MNIST%20using%20a%20CNN.ipynb) to Part 6 - Federated Learning on MNIST using a CNN.
+* Continue implementing Robotic Software Engineer Nanodegree program project where am I to Adaptive Monte Carlo Localization (AMCL) which dynamically adjusts the number of particles over a period of time, as the robot navigates around in a map. Continue learning writing a research paper explain MCL vs EKF using LATEX finished Introduction section and a part of abstract. Decided my own robot model name call Hsin Bot.
+![][image35] 
+
+* Reading AI for trading Nanodegree program to lesson 12 Time Series Modeling finished section 4.6 - 4.8 Kalman Filter, Particle Filter, and Recurrent Neural Networks. As I read Particle Filter is a type of genetic algorithm by apply nature selection to improve estimates and we can apply Kalman filer when we make predictions from noisy and indirect measurements like measure oil pipeline flow near the production sites, I'm truly happy that I decided to enroll in AI for trading Nanodegree program and reminds me CS50 lecture last semester also mentioned genetic algorithm.
