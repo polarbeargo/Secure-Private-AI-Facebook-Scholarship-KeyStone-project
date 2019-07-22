@@ -36,6 +36,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image32]: ./images/amclRviz.png
 [image33]: ./images/acml.png
 [image34]: ./images/MCLVSEKFLaTEX.png
+[image35]: ./images/Arka1.png
+[image36]: ./images/Mv1.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -833,6 +835,10 @@ Robot with a camera & Rangefinder | Map
 * Start work on Stanford car dataset as per #sg_hackathon-orgnizrs along with @Halwai Aftab Hasan @Shivam Raisharma and @cibaca 
 * Participated in the first virtual meetup session of the study group #sg_clan with @Manisha @Arka @George Christopoulos @Kapadokia Titus @andreiliphd @Akshay Rajmohan @Nikita Sukhwal @Govind @Mateusz @A S M Sadiqul Islam @Sumanyu Rosha @Oladimeji Mudele.
 * Attended virtual meetup on #sg_mumbai with @cibaca, @bhavz, @Hitoishi Das, @Shivam Raisharma, @Ankit Dubey, @bhavz, @princeKm, @amitrai, @sarthakahir, @Rohit Sahoo, @alpesh
+
+ #sg_clan                  | #sg_mumbai
+:-------------------------:|:-------------------------:
+![][image35]               |![][image36]
 
 #### Sarah
 * Listened in on the pytorch robotics virtual meetup.
