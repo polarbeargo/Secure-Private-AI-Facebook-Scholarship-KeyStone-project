@@ -39,6 +39,10 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image35]: ./images/Arka1.png
 [image36]: ./images/Mv1.png
 [image37]: ./images/whereAmILatex.png
+[image38]: ./images/download2.png
+[image39]: ./images/download1.png
+[image40]: ./images/download3.png
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -877,3 +881,10 @@ Robot with a camera & Rangefinder | Map
 * Completed Securing Federated Learning.
 * Working on Style Transfer with different style images and try to reduces the loss rate for better image. 
 
+Input                      | Output
+:-------------------------:|:-------------------------:
+![][image38]               |![][image39]
+
+Jungle Image Output
+:-------------------------:
+![][image40]               
