@@ -905,3 +905,6 @@ Jungle Image Output
 * I initialize this androidworker by clone it to my pc and then open in androidstudio.
 * So its my 1st interaction with android studio and its start with error and some pc hanging due to ram, but any how i manage to keep moving on by solving issue one by one.
 * I still working on federated learning mini project with my team @Bearbear @Harkirat @Sarah Majors.
+https://towardsdatascience.com/pysyft-android-b28da47a767e
+* Congratulation @Shubhangi Jena felicitated by the IG of Mumbai Police for extracurricular and leadership initiatives.
+
