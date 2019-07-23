@@ -42,6 +42,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image38]: ./images/download2.png
 [image39]: ./images/download1.png
 [image40]: ./images/download3.png
+[image41]: ./images/MP1.png
+[image42]: ./images/MP2.png
 
 
 ### Day 1: 
@@ -908,3 +910,6 @@ Jungle Image Output
 https://towardsdatascience.com/pysyft-android-b28da47a767e
 * Congratulation @Shubhangi Jena felicitated by the IG of Mumbai Police for extracurricular and leadership initiatives.
 
+Input                      | Output
+:-------------------------:|:-------------------------:
+![][image41]               |![][image42]
