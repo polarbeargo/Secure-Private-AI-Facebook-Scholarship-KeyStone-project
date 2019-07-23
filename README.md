@@ -898,3 +898,10 @@ Jungle Image Output
 * Continue implementing Robotic Software Engineer Nanodegree program project where am I. Asking a question about warning log I encountered with mentor Seyfi and received his advice and guidance how wonderful:D! Can't wait to continue tune transform_tolerance parameter tomorrow. Continue learning writing a research paper explain MCL vs EKF using LATEX finished Introduction section and roughly completed abstract start writing background section and feel this writing research paper experience will help me build deeper knowledge in AMCL and EKF.
 * Reading, Watching and implementing Robotic Software Engineer Nanodegree program lectures and quizzes to lesson 17.11 Grid-based FastSLAM Techniques.
 * Reading and watching AI for trading Nanodegree program to lesson 14 Pairs Trading and mean reversion refresh my memory about z score feel happy and feel that I want to read lesson 13 volatility and lesson 14 Pairs Trading and mean reversion again because it is truly excellent, remarkable and fun! I saw wales in the lesson:D! Start Reading project Breakout Strategy.
+
+#### Halwai Aftab Hasan
+
+* Back to my mini project federated learning with the help of my team, i started https://github.com/OpenMined/AndroidWorker in android studio.
+* I initialize this androidworker by clone it to my pc and then open in androidstudio.
+* So its my 1st interaction with android studio and its start with error and some pc hanging due to ram, but any how i manage to keep moving on by solving issue one by one.
+* I still working on federated learning mini project with my team @Bearbear @Harkirat @Sarah Majors.
