@@ -910,6 +910,6 @@ Jungle Image Output
 https://towardsdatascience.com/pysyft-android-b28da47a767e
 * Congratulation @Shubhangi Jena felicitated by the IG of Mumbai Police for extracurricular and leadership initiatives.
 
-Input                      | Output
+1st Time Run AndroidStudio | 2nd Error 
 :-------------------------:|:-------------------------:
 ![][image41]               |![][image42]
