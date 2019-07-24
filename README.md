@@ -931,7 +931,8 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
  
  #### Halwai Aftab Hasan
  
-* I wake up early morning to start solving the android studio issue but things goes wrong and pc is very slow at 2gb so its take lot of
-time to execute at each step so i officially announce this is " Error Day ". I thought that once i complete with this so i move to leaf classification projec.
-* 
+* I wake up early morning to start solving the android studio issue but things goes wrong and pc is very slow at 2gb ram so its take lot of time to execute at each step so i officially announce this is " Error Day ". I thought that once i complete with this so i move to leaf classification project.
+* I fanalize the location and place for the upcomming mumbai local meetup soon i will announce :) 
+* Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
+#60daysofudacity 
 
