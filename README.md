@@ -44,7 +44,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image40]: ./images/download3.png
 [image41]: ./images/MP1.png
 [image42]: ./images/MP2.png
-
+[image43]: ./images/f2.png
+[image44]: ./images/f3.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -913,3 +914,17 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 1st Time Run AndroidStudio | 2nd Error 
 :-------------------------:|:-------------------------:
 ![][image41]               |![][image42]
+
+### Day 28: 
+
+#### Polarbeargo
+
+* Continue reading [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf) to 5.3 CIFAR. 
+* Rewatching Robotic Software Engineer Nanodegree program lesson 10 Kalman filter & lesson 12 Monte Carlo Localization.
+* Continue implementing Robotic Software Engineer Nanodegree program project where am I. After parameter tuning, finally, my robot can navigation itself to the goal. Continue learning writing a research paper explain MCL vs EKF using LATEX roughly completed background section and a part of Kalman filters and Particle filters section. Have to focus on design HsinBot.
+## Reaching the goal position:
+ Rviz                      | Gazebo
+:-------------------------:|:-------------------------:
+![][image43]               |![][image44]
+
+ I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan keep up the great work and be Udacious!
