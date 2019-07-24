@@ -928,3 +928,10 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 ![][image43]               |![][image44]
 
  I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan keep up the great work and be Udacious!
+ 
+ #### Halwai Aftab Hasan
+ 
+* I wake up early morning to start solving the android studio issue but things goes wrong and pc is very slow at 2gb so its take lot of
+time to execute at each step so i officially announce this is " Error Day ". I thought that once i complete with this so i move to leaf classification projec.
+* 
+
