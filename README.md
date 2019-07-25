@@ -936,3 +936,12 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
 #60daysofudacity 
 
+### Day 29: 
+
+#### Polarbeargo
+* Rewatching lesson 6 Differential privacy for deep learning to section 3 Generating Differentially Private Labels For a Dataset.
+* Reading [PySyft tutorial](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%208%20-%20Introduction%20to%20Plans.ipynb) to Part 8 - Introduction to Plans and found a great paper [TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN](https://arxiv.org/pdf/1902.01046.pdf) need to arrange time continue reading this paper.
+* Rewatching Robotic Software Engineer Nanodegree program lesson 10 Kalman filter & lesson 12 Monte Carlo Localization.
+* Continue implementing Robotic Software Engineer Nanodegree program project where am I got help and support by my mentor Seyfi, learned how to launch designed robot model can't wait tomorrow focus on design, my own robot model! I named it Hsinbot sounds like famous movie lion king simba:D!
+* Continue learning writing a research paper practice explain MCL vs EKF using LATEX roughly completed Kalman filters, Particle filters section and start working on Comparison / Contrast section. 
+ I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan keep up the great work and learn to be Udacious!
