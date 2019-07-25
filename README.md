@@ -945,3 +945,13 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 * Continue implementing Robotic Software Engineer Nanodegree program project where am I got help and support by my mentor Seyfi, learned how to launch designed robot model can't wait tomorrow focus on design, my own robot model! I named it Hsinbot sounds like famous movie lion king simba:D!
 * Continue learning writing a research paper practice explain MCL vs EKF using LATEX roughly completed Kalman filters, Particle filters section and start working on Comparison / Contrast section. 
  I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan keep up the great work and learn to be Udacious!
+ 
+#### Halwai Aftab Hasan
+ 
+* Beautiful day for me, today i went to the trek called " Chanderi Trek " its is in Maharastra, India
+so whole day i was in trek now i come back to home and start repeat the RNN Lesson from Intro to deeplearning using pytorch
+* Repeat the RNN lesson and plan for sentioment analysis using PYTORCH by Tommorow 
+* As well as leaf classification project also will start from Tomorrow :) 
+* Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
+#60daysofudacity 
+
