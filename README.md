@@ -872,6 +872,9 @@ Robot with a camera & Rangefinder | Map
 * Reading Research Paper Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/pdf/1712.01815.pdf
 * Reading Article Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ
 
+#### Sarah
+* Received the stacking framework for my raspbery pis
+
 ### Day 26: 
 
 #### Polarbeargo
@@ -897,6 +900,10 @@ Jungle Image Output
 :-------------------------:
 ![][image40]               
 
+#### Sarah
+* Watched the first part of the fast.ai NLP video
+* Read the first part of the super image resolution paper for papers club
+
 ### Day 27: 
 
 #### Polarbeargo
@@ -920,6 +927,9 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 :-------------------------:|:-------------------------:
 ![][image41]               |![][image42]
 
+#### Sarah
+* Read the second part of the super image resolution paper
+* Watched the second part of the fast.ai NLP video 4
 ### Day 28: 
 
 #### Polarbeargo
@@ -941,6 +951,9 @@ https://towardsdatascience.com/pysyft-android-b28da47a767e
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
 #60daysofudacity 
 
+#### Sarah
+* Worked on setting up my Pi stack and making script for setting up my pis
+
 ### Day 29: 
 
 #### Polarbeargo
@@ -959,6 +972,9 @@ so whole day i was in trek now i come back to home and start repeat the RNN Less
 * As well as leaf classification project also will start from Tomorrow :) 
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
 #60daysofudacity 
+
+#### Sarah
+* Worked on Pi scripts some more
 
 ### Day 30: 
 
