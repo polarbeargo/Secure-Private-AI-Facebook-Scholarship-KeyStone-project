@@ -47,8 +47,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image43]: ./images/f2.png
 [image44]: ./images/f3.png
 [image45]: ./images/gpurunout.png
-[image46]: ./images/PranjalMe1.png
-[image47]: ./images/PranjalMe2.png
+[image46]: ./images/pranjalMe1.png
+[image47]: ./images/pranjalMe1.png
 [image48]: ./images/PranjalMe3.png
 [image49]: ./images/PranjalMe4.png
 
