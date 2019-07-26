@@ -978,3 +978,9 @@ Pranjal&Me                 | Pranjal&Me
 ![][image48]               |  ![][image49]
 
 I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent which is I learn from Udacity Career Services!
+
+#### Halwai Aftab Hasan
+
+* Start working on kaggle leaf classification https://www.kaggle.com/c/leaf-classification
+* Reading Discussion https://www.kaggle.com/c/leaf-classification/discussion
+* Reading kernel https://www.kaggle.com/c/leaf-classification/kernels
