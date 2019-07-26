@@ -984,3 +984,5 @@ I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors
 * Start working on kaggle leaf classification https://www.kaggle.com/c/leaf-classification
 * Reading Discussion https://www.kaggle.com/c/leaf-classification/discussion
 * Reading kernel https://www.kaggle.com/c/leaf-classification/kernels
+* Encourage @Stark @Aisha Javed @Manisha @April D @susyjam @Nikita Sukhwal @Urvi Soni @Gabriela Urquieta @Shaistha @Shanmugapriya @cibaca 
+#60daysofudacity 
