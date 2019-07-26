@@ -46,6 +46,10 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image42]: ./images/MP2.png
 [image43]: ./images/f2.png
 [image44]: ./images/f3.png
+[image45]: ./images/
+[image46]: ./images/
+[image47]: ./images/
+[image48]: ./images/
 
 ### Day 1: 
 #### Polarbeargo
@@ -955,3 +959,18 @@ so whole day i was in trek now i come back to home and start repeat the RNN Less
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Sarah Majors @Harkirat @Samuela Anastasi @Frida @Francesca @Munira Omar @Sunny Dsouza @Jyoti Kritika @Shubhangi Jena 
 #60daysofudacity 
 
+### Day 30: 
+
+#### Polarbeargo
+
+* My GPU server running out of time so my Robotic software engineer Nanodegree project where am I delayed and can't continue to play design Hsinbot while contact my beloved Udacity support team, I start working with a native ROS installation nervous, stress and panic 😱 in my heart.
+![][image45]
+* Implementing AI for trading Nanodegree program Breakout Strategy Project.
+* Meet my mentor Pranjal! He is the best mentor, I can have in AI for Trading Nanodegree program, today he helps me understand what is Herd Instinct an ARMA model and share his experience about ARMA with me. He also helps me reading ADF and Roots of the Characteristic Equation as we discuss the lesson material in AI for Trading Nanodegree program really support and help a lot for linking my knowledge.  
+Pranjal & me               | Pranjal & me 
+:-------------------------:|:-------------------------:
+![][image46]               |![][image47]
+Pranjal & me               | Pranjal & me  
+:-------------------------:|:-------------------------:
+![][image48]               |![][image49]
+I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent which is I learn from Udacity Career Services!
