@@ -46,10 +46,11 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image42]: ./images/MP2.png
 [image43]: ./images/f2.png
 [image44]: ./images/f3.png
-[image45]: ./images/
-[image46]: ./images/
-[image47]: ./images/
-[image48]: ./images/
+[image45]: ./images/gpurunout.png
+[image46]: ./images/PranjalMe1.png
+[image47]: ./images/PranjalMe2.png
+[image48]: ./images/PranjalMe3.png
+[image49]: ./images/PranjalMe4.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -966,11 +967,14 @@ so whole day i was in trek now i come back to home and start repeat the RNN Less
 * My GPU server running out of time so my Robotic software engineer Nanodegree project where am I delayed and can't continue to play design Hsinbot while contact my beloved Udacity support team, I start working with a native ROS installation nervous, stress and panic 😱 in my heart.
 ![][image45]
 * Implementing AI for trading Nanodegree program Breakout Strategy Project.
-* Meet my mentor Pranjal! He is the best mentor, I can have in AI for Trading Nanodegree program, today he helps me understand what is Herd Instinct an ARMA model and share his experience about ARMA with me. He also helps me reading ADF and Roots of the Characteristic Equation as we discuss the lesson material in AI for Trading Nanodegree program really support and help a lot for linking my knowledge.  
-Pranjal & me               | Pranjal & me 
+* Meet my mentor Pranjal! He is the best mentor, I can have in AI for Trading Nanodegree program, today he helps me understand what is Herd Instinct an ARMA model and share his experience about ARMA with me. He also helps me reading ADF and Roots of the Characteristic Equation as we discuss the lesson material in AI for Trading Nanodegree program really support and help a lot for linking my knowledge.
+
+Pranjal&Me                 | Pranjal&Me
 :-------------------------:|:-------------------------:
-![][image46]               |![][image47]
-Pranjal & me               | Pranjal & me  
+ ![][image46]               | ![][image47]
+
+Pranjal&Me                 | Pranjal&Me
 :-------------------------:|:-------------------------:
-![][image48]               |![][image49]
+![][image48]               |  ![][image49]
+
 I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent which is I learn from Udacity Career Services!
