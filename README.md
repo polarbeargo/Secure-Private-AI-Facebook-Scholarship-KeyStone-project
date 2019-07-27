@@ -1022,3 +1022,5 @@ Memorize the encouragement from Sir Aswath Suresh and thank you for your appreci
 Obsessed                | Not End
 :-------------------------:|:-------------------------:
 ![][image50]               |  ![][image51]
+
+I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent which is I learn from Udacity Career Services!
