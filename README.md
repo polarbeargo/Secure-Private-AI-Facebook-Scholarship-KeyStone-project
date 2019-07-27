@@ -1002,3 +1002,21 @@ I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors
 * Reading kernel https://www.kaggle.com/c/leaf-classification/kernels
 * Encourage @Stark @Aisha Javed @Manisha @April D @susyjam @Nikita Sukhwal @Urvi Soni @Gabriela Urquieta @Shaistha @Shanmugapriya @cibaca 
 #60daysofudacity 
+
+### Day 31: 
+
+#### Polarbeargo
+
+* Rewatching lesson 6 Differential privacy for deep learning to section 4 PATE analysis.
+* Reading paper [TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN](https://arxiv.org/pdf/1902.01046.pdf) to section 3 Attestation.
+* Rewatching Robotic Software Engineer Nanodegree program lesson 10 Kalman filter & lesson 12 Monte Carlo Localization.
+* Continue learning writing a research paper practice explain MCL vs EKF using LATEX roughly completed Comparison / Contrast section and a brief introduction in the simulation section working on writing benchmark model: udacity bot specification.
+* Got help and support by my mentor Seyfi, he taught me to update the public key for the ROS. Because they changed the key a few months ago and provide me [instruction](https://answers.ros.org/question/325039/apt-update-fails-cannot-install-pkgs-key-not-working/) here.
+* Rewatching AI for trading Nanodegree program lesson 9 Quant Workflow especially like section 4 Flavors of Trading! Received my treasure Breakout Strategy Project review and there's a lot of important feedback where I can feel love inside :) have to fix my project tomorrow after I wake up. 
+* My Robotic Software Engineer Nanodegree program Classmate Aswath Suresh encourage me and gave me very important sentences photo which motivates and encourages me a lot and they become my priceless treasure, I want to share these motivation sentences photo with my scholarship classmate:)!
+
+Memorize the encouragement from Sir Aswath Suresh and thank you for your appreciation:
+
+Obsessed                | Not End
+:-------------------------:|:-------------------------:
+![][image50]               |  ![][image51]
