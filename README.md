@@ -53,6 +53,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image49]: ./images/PranjalMe4.png
 [image50]: ./images/obsessed.jpg
 [image51]: ./images/notEnd.jpg
+[image52]: ./images/day31.PNG
 
 ### Day 1: 
 #### Polarbeargo
@@ -1024,3 +1025,16 @@ Obsessed                | Not End
 ![][image50]               |  ![][image51]
 
 I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent which is I learn from Udacity Career Services!
+
+#### Halwai Aftab Hasan
+
+* Still working on kaggle leaf classification https://www.kaggle.com/c/leaf-classification
+* Reading Discussion https://www.kaggle.com/c/leaf-classification/discussion
+* Reading kernel https://www.kaggle.com/c/leaf-classification/kernels
+* Attended Mumbai Virtual Meetup - 6 with @cibaca @Shivam Raisharma @bhavz @Praveer @amitrai.
+* Encourage @Hitoishi Das @Bearbear @Harkirat @Sarah Majors @Frida @Samuela Anastasi @Stark
+#60daysofudacity
+
+Mumbai Virtual Meetup - 6            
+:-------------------------:
+![][image52]               
