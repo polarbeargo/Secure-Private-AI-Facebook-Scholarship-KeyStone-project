@@ -1053,3 +1053,12 @@ Hsin_bot                   | Hsin_bot
 :-------------------------:|:-------------------------:
 ![][image53]               |  ![][image54]  
 * Watching Robotic Software Engineer Nanodegree program Lesson 17 Grid-based FastSLAM to 17.16 gmapping ROS Package and 17.15 SLAM with ROS as I saw Willow Garage environment can't describe how exciting I am. Hope I can quickly fix the request map fails in Native ROS then start play SLAM with ROS Lab!
+
+#### Halwai Aftab Hasan
+
+* Today i complete my side project (Leaf Classification) which is last day to submit in #sg_clan and i complete successfully. https://www.kaggle.com/ahkhalwai55/classifier-showdown 
+* Read https://www.kaggle.com/c/leaf-classification/discussion
+* Read https://www.kaggle.com/c/leaf-classification/kernels
+* Thank Machine Learning Mystery Book for ML Pipeline :). 
+* Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Sunny Dsouza 
+#60daysofudacity 
