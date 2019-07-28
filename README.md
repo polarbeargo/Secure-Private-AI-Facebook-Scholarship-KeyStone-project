@@ -54,6 +54,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image50]: ./images/obsessed.jpg
 [image51]: ./images/notEnd.jpg
 [image52]: ./images/day31.PNG
+[image53]: ./images/HsinBot1.jpg
+[image54]: ./images/HsinBot2.jpg
 
 ### Day 1: 
 #### Polarbeargo
@@ -1044,8 +1046,10 @@ Mumbai Virtual Meetup - 6
 #### Polarbeargo
 
 * Rewatching lesson 7 Federated learning for 30 min.
-* Modified AI for trading Nanodegree program Breakout Strategy Project follow reviewer's advice learn that we need to find outliers that satisfy both thresholds(ks_threshold and pvalue_threshold) at the same time. The outliers satisfying both thresholds at the same time would be a lot lesser passed this project but feel needs rewatching and spend some time thinking about the lessons.
-* Finished native ROS package installation continue implementing Robotic Software Engineer Nanodegree program project where am I. Today is my first day finished design my own robot model with Gazebo and named it Hsin_bot and it imitates the rocket, I'm so happy:) as I saw Hsin_bot moving a little bit forward! Continue to debug request for map failed in native ROS.  Hsin_bot                | Hsin_bot
+* Modified AI for trading Nanodegree program Breakout Strategy Project follow reviewer's advice learn that we need to find outliers that satisfy both thresholds(ks_threshold and pvalue_threshold) at the same time. The outliers satisfying both thresholds at the same time would be a lot lesser. Finally passed this project but feel needs rewatching and spend some time thinking about the lessons.
+* Finished native ROS package installation continue implementing Robotic Software Engineer Nanodegree program project where am I. Today is my first day finished design my own robot model with Gazebo and named it Hsin_bot which imitates the rocket, I'm so happy:) as I saw Hsin_bot moving a little bit forward! Continue to debug request for map failed in native ROS.  
+
+Hsin_bot                   | Hsin_bot
 :-------------------------:|:-------------------------:
-![][image53]               |  ![][image54]
-* Watching Robotic Software Engineer Nanodegree program Lesson 17 Grid-based FastSLAM to 17.16 gmapping ROS Package and 17.15 SLAM with ROS as I saw Willow Garage environment can't describe how exciting I hope I can quickly fix the request map fails in Native ROS then start play SLAM with ROS Lab!
+![][image53]               |  ![][image54]  
+* Watching Robotic Software Engineer Nanodegree program Lesson 17 Grid-based FastSLAM to 17.16 gmapping ROS Package and 17.15 SLAM with ROS as I saw Willow Garage environment can't describe how exciting I am. Hope I can quickly fix the request map fails in Native ROS then start play SLAM with ROS Lab!
