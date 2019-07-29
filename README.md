@@ -1072,3 +1072,4 @@ Hsin_bot                   | Hsin_bot
 * Watching Robotic Software Engineer Nanodegree program Lesson 18 Graph-SLAM to 18.18 RTAB-Map Optimization and Output.
 * Reading project: map my world robot to section 3 Extending your Robot Creation - Launch Files and section Common Questions.
 * Reading Robotic Software Engineer Nanodegree program project where am I section Localization: Parameter Tuning.
+I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent and thank you for tagging me in the post which allows me to see things from your side:).
