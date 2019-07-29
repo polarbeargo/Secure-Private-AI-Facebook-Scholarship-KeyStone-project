@@ -1008,6 +1008,9 @@ I encourage @Frida @Helena Barmer @Urvi Soni @Casey Buscall @Marwa @Sarah Majors
 * Encourage @Stark @Aisha Javed @Manisha @April D @susyjam @Nikita Sukhwal @Urvi Soni @Gabriela Urquieta @Shaistha @Shanmugapriya @cibaca 
 #60daysofudacity 
 
+#### Sarah
+* Played with the NLP hackathon kernel.  I wasn't going to do the hackathons because I have a lot of open projects, but...  It ties with the fastai NLP course...  It is almost not another project... Right?
+
 ### Day 31: 
 
 #### Polarbeargo
@@ -1041,6 +1044,9 @@ Mumbai Virtual Meetup - 6
 :-------------------------:
 ![][image52]               
 
+#### Sarah
+* Played with the NLP hackathon kernel some more
+
 ### Day 32: 
 
 #### Polarbeargo
@@ -1062,6 +1068,11 @@ Hsin_bot                   | Hsin_bot
 * Thank Machine Learning Mystery Book for ML Pipeline :). 
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Sunny Dsouza 
 #60daysofudacity 
+
+#### Sarah
+* Worked on the NLP hackathon, but did not finish.  Determined I would rather go through the NLP lecture notebooks better and explore them more extensively instead.
+* Fixed a couple bugs with the PySyft for Android - I had installed one of the wrong libraries: python-socketio instead of python-flask-socketio
+* Got the image working for my raspberry pi 4 and now starting compile pytorch overnight.
 
 ### Day 33: 
 
