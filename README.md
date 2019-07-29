@@ -1062,3 +1062,12 @@ Hsin_bot                   | Hsin_bot
 * Thank Machine Learning Mystery Book for ML Pipeline :). 
 * Encourage @Bearbear @cibaca @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Sunny Dsouza 
 #60daysofudacity 
+
+### Day 33: 
+
+#### Polarbeargo
+* Rewatching lesson 7 Federated learning and reading [Federated Learning with FederatedDataset](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%207%20-%20Federated%20Learning%20with%20Federated%20Dataset.ipynb).
+* Reading(TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN)[https://arxiv.org/pdf/1902.01046.pdf] to 4.1 Actor Model.
+* Meet important papers and start reading [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures](http://robot.cc/papers/thrun.graphslam.pdf) to 3.2. GraphSLAM: Basic Idea.
+* Watching Robotic Software Engineer Nanodegree program Lesson 18 Graph-SLAM to 18.18 RTAB-Map Optimization and Output.
+* Reading project: map my world robot to section 3 Extending your Robot Creation - Launch Files and section Common Questions.
