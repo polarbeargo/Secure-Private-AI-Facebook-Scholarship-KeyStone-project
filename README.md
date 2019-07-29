@@ -1084,3 +1084,10 @@ Hsin_bot                   | Hsin_bot
 * Reading project: map my world robot to section 3 Extending your Robot Creation - Launch Files and section Common Questions.
 * Reading Robotic Software Engineer Nanodegree program project where am I section Localization: Parameter Tuning.
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent and thank you for tagging me in the post which allows me to see things from your side:).
+
+#### Halwai Aftab Hasan
+
+* Rewatch Neural Network for an upcoming event i.e Deeplearning Meetup by Developer Circle from Facebook Mumbai and I am the Facilitator with @Avi Seth :slightly_smiling_face: .  
+* Still stuck with Android studio bugs and error for mini project Federated Learning, but i will give my best to sort it out this as soon as possible :) 
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida 
+#60daysofudacity 
