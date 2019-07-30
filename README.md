@@ -1091,3 +1091,15 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * Still stuck with Android studio bugs and error for mini project Federated Learning, but i will give my best to sort it out this as soon as possible :) 
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida 
 #60daysofudacity 
+
+### Day 34: 
+
+#### Polarbeargo
+
+* Rewatching lesson 7 Federated learning section Garbage Collection and Common Errors.
+* Meet important papers and start reading [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures](http://robot.cc/papers/thrun.graphslam.pdf) to 3.4. Inference.
+* Reading Robotic Software Engineer Nanodegree program project Map my world robot to section 7 RTAB-Map Visualization Tools - Database Viewer.
+* Reading AI for Trading Nanodegree Program to lesson 17 Exchanged Traded founds felt I need rewatching again.
+* Today with mentor Sefyi's assistant, I finally fix all error log and finished native ROS package dependency install. Launch Adaptive Monte Carlo Localization package successfully and finally let Hsin bot enter its finish line. Have to focus on continuous learning writing a research paper using latex it is really fun, beautiful and the process to learn where I made mistakes and learn from this process.
+![][image55] 
+* Today I get a lot of encouragement from Frida, She encourages a lot of classmates. I'm truly happy when she spent time answering my questions and the beautiful cute gif she sent to me. Talking to her is my important fun time today. Because of her, I regain my courage.
