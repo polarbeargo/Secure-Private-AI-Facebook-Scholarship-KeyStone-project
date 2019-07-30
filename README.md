@@ -1098,7 +1098,7 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 #### Polarbeargo
 
 * Rewatching lesson 7 Federated learning section Garbage Collection and Common Errors.
-* Meet important papers and start reading [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures](http://robot.cc/papers/thrun.graphslam.pdf) to 3.4. Inference.
+* Reading [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures](http://robot.cc/papers/thrun.graphslam.pdf) to 3.4. Inference.
 * Reading Robotic Software Engineer Nanodegree program project Map my world robot to section 7 RTAB-Map Visualization Tools - Database Viewer.
 * Reading AI for Trading Nanodegree Program to lesson 17 Exchanged Traded founds felt I need rewatching again.
 * Today with mentor Sefyi's assistant, I finally fix all error log and finished native ROS package dependency install. Launch Adaptive Monte Carlo Localization package successfully and finally let Hsin bot enter its finish line. Have to focus on continuous learning writing a research paper using latex it is really fun, beautiful and the process to learn where I made mistakes and learn from this process.
