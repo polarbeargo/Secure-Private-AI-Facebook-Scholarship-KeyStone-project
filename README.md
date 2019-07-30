@@ -1106,3 +1106,4 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zJbhJagSImg/0.jpg)](https://youtu.be/zJbhJagSImg) 
 
 * Today I get a lot of encouragement from Frida, She encourages a lot of classmates. I'm truly happy when she spent time answering my questions and the beautiful cute gif she sent to me. Talking to her is my important fun time today. Because of her, I regain my courage.
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
