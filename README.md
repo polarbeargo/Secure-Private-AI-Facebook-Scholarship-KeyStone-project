@@ -56,6 +56,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image52]: ./images/day31.PNG
 [image53]: ./images/HsinBot1.jpg
 [image54]: ./images/HsinBot2.jpg
+[image55]: ./images/gazeboGoal.jpg
 
 ### Day 1: 
 #### Polarbeargo
@@ -1101,5 +1102,7 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * Reading Robotic Software Engineer Nanodegree program project Map my world robot to section 7 RTAB-Map Visualization Tools - Database Viewer.
 * Reading AI for Trading Nanodegree Program to lesson 17 Exchanged Traded founds felt I need rewatching again.
 * Today with mentor Sefyi's assistant, I finally fix all error log and finished native ROS package dependency install. Launch Adaptive Monte Carlo Localization package successfully and finally let Hsin bot enter its finish line. Have to focus on continuous learning writing a research paper using latex it is really fun, beautiful and the process to learn where I made mistakes and learn from this process.
-![][image55] 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zJbhJagSImg/0.jpg)](https://youtu.be/zJbhJagSImg) 
+
 * Today I get a lot of encouragement from Frida, She encourages a lot of classmates. I'm truly happy when she spent time answering my questions and the beautiful cute gif she sent to me. Talking to her is my important fun time today. Because of her, I regain my courage.
