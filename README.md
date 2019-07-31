@@ -1145,8 +1145,9 @@ Error 1                    | Error 2
 * Got help from Udacity team Yash who reminds me the new GPU time and switch-mode between CPU and GPU. It is really warm and nice when I received emails from Udacity, I usually read many many times and collect them.
 * Watching Robotic Software Engineer Nanodegree program lesson 17 Intro to RL for Robotics to section 20.2 Deep RL in Robotics try to catch up and re-plain all reading times.
 * Receive encouragement sentences photo from Robotics software engineer classmate Sir Aswath Suresh, I am truly appreciate
-His encouragement and collect them as a really important memory, I want to share with scholarship classmates.
- ![][image60] 
+His encouragement and collect them as a really important memory, I want to share with scholarship classmates.  
+
+![][image60] 
  
  I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 
