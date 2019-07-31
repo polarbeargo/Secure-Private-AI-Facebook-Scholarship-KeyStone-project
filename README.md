@@ -1134,3 +1134,16 @@ We with FB Banner
 Error 1                    | Error 2
 :-------------------------:|:-------------------------:
 ![][image56]               |  ![][image57] 
+
+### Day 35: 
+
+#### Polarbeargo
+
+* Rewatching lesson 7 Federated learning section Garbage Collection and Common Errors for 30 min.
+* Reading Robotic Software Engineer Nanodegree program project Map my world robot and project where am I.
+* Focus on continuous learning writing a research paper using latex in the project where am I to 3.1 Achievements.
+* Got help from Udacity team Yash who reminds me the new GPU time and switch-mode between CPU and GPU. It is really warm and nice when I received emails from Udacity, I usually read many many times and collect them.
+* Watching Robotic Software Engineer Nanodegree program lesson 17 Intro to RL for Robotics to section 20.2 Deep RL in Robotics try to catch up and re-plain all reading times.
+* Receive encouragement sentences photo from Robotics software engineer classmate Sir Aswath Suresh, I am truly appreciate
+His encouragement and collect them as a really important memory, I want to share with scholarship classmates.
+ ![][image58] 
