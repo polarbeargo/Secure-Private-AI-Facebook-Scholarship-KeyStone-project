@@ -1123,9 +1123,13 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * Still working on federated learning project i hope so will complete this project with the help of them.
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida #60daysofudacity
 
-Whole FB Front End Team on React Topic                   | We with FB Banner 
-:-------------------------:                              |:-------------------------:
-![][image58]                                             |  ![][image59] 
+Whole FB Front End Team on React Topic                     
+:-------------------------:                              
+![][image58]                                                
+
+We with FB Banner
+:-------------------------:
+![][image59]
 
 Error 1                    | Error 2
 :-------------------------:|:-------------------------:
