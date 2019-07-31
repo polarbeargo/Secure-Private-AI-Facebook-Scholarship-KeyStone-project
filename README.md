@@ -57,6 +57,13 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image53]: ./images/HsinBot1.jpg
 [image54]: ./images/HsinBot2.jpg
 [image55]: ./images/gazeboGoal.jpg
+[image56]: ./images/E1.jpg
+[image57]: ./images/E2.jpg
+[image58]: ./images/FB1.jpg
+[image59]: ./images/FB2.jpg
+
+
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -1107,3 +1114,20 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 
 * Today I get a lot of encouragement from Frida, She encourages a lot of classmates. I'm truly happy when she spent time answering my questions and the beautiful cute gif she sent to me. Talking to her is my important fun time today. Because of her, I regain my courage.
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
+#### Halwai Aftab Hasan
+
+Day 34 :
+* Start Day with Event by developer circle from facebook mumbai on React with @amitrai @Hitoishi Das 
+* I meet the Co-Lead Prerak Gala and Front End facilitator Harsh Vitra, they share Exprience and give guidence for upcoming deeplearning meetup in which i am a facilitator for deeplearning 
+* finally many problems are solved of mini project federated learning using android studio with the help of my team @Sarah Majors @Harkirat @Bearbear 
+* Still working on federated learning project i hope so will complete this project with the help of them.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida #60daysofudacity
+
+Whole FB Front End Team on React Topic                   | We with FB Banner 
+:-------------------------:|:-------------------------:
+![][image58]               |  ![][image59] 
+
+Error 1                   | Error 2
+:-------------------------:|:-------------------------:
+![][image56]               |  ![][image57] 
