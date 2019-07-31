@@ -1151,3 +1151,8 @@ His encouragement and collect them as a really important memory, I want to share
  
  I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 
+#### Halwai Aftab Hasan
+
+* I spend most of the time to reinstall Android studio and shifted to external harddisk which start working smoothly PC while using android Still the problem is with emulator and kvm issue which is currently solving, anyway this is my last try then i will quit from this project because i can't able to run on my PC :disappointed:,I learned a lot from my team thank you everyone @Bearbear @Sarah Majors @Harkirat 
+* because of android studio bugs and error or it's take lot of time for execution which is not yet happen its better to move on to next Project Thank you so much @Bearbear For giving me opportunity :v:
+* Encourage Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida  #60daysofudacity
