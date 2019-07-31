@@ -1117,7 +1117,6 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 
 #### Halwai Aftab Hasan
 
-Day 34 :
 * Start Day with Event by developer circle from facebook mumbai on React with @amitrai @Hitoishi Das 
 * I meet the Co-Lead Prerak Gala and Front End facilitator Harsh Vitra, they share Exprience and give guidence for upcoming deeplearning meetup in which i am a facilitator for deeplearning 
 * finally many problems are solved of mini project federated learning using android studio with the help of my team @Sarah Majors @Harkirat @Bearbear 
@@ -1125,9 +1124,9 @@ Day 34 :
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida #60daysofudacity
 
 Whole FB Front End Team on React Topic                   | We with FB Banner 
-:-------------------------:|:-------------------------:
-![][image58]               |  ![][image59] 
+:-------------------------:                              |:-------------------------:
+![][image58]                                             |  ![][image59] 
 
-Error 1                   | Error 2
+Error 1                    | Error 2
 :-------------------------:|:-------------------------:
 ![][image56]               |  ![][image57] 
