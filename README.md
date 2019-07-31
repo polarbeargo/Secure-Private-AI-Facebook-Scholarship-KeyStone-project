@@ -61,7 +61,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image57]: ./images/E2.jpg
 [image58]: ./images/FB1.jpg
 [image59]: ./images/FB2.jpg
-
+[image60]: ./images/Aswath.jpg
 
 
 
@@ -1146,4 +1146,7 @@ Error 1                    | Error 2
 * Watching Robotic Software Engineer Nanodegree program lesson 17 Intro to RL for Robotics to section 20.2 Deep RL in Robotics try to catch up and re-plain all reading times.
 * Receive encouragement sentences photo from Robotics software engineer classmate Sir Aswath Suresh, I am truly appreciate
 His encouragement and collect them as a really important memory, I want to share with scholarship classmates.
- ![][image58] 
+ ![][image60] 
+ 
+ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
