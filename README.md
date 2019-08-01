@@ -63,6 +63,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image59]: ./images/FB2.jpg
 [image60]: ./images/Aswath.jpg
 [image61]: ./images/introEmbedded.jpg
+[image62]: ./images/FB4.jpg
 
 
 ### Day 1: 
@@ -1166,3 +1167,14 @@ His encouragement and collect them as a really important memory, I want to share
 * Participate in PyTorch robotics channel intro to the embedded system have a lot of fun time listen to Madalin and immerse myself in the time with classmates.
 ![][image61]
 * As I received Dan's letter from Kaggle yesterday and read to the sentence "with a community of like-minded learners", I immediately reading and play with https://www.kaggle.com/learn/intermediate-machine-learning and https://www.kaggle.com/learn/intro-to-machine-learning for a little bit while and tell myself focus on writing project where am I.
+
+#### Halwai Aftab Hasan
+
+* Complete the Intro to Deep Learning with Developer Circles from Facebook course today. 
+* Organize Meetup for Deep Learning with Developer Circles from Facebook By Sunday.
+* Thinking about project challenge to participate alone and create my own dataset and everything which help for society and community.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida  #60daysofudacity
+![][image62] 
+
+
+
