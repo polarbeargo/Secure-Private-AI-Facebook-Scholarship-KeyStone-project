@@ -63,7 +63,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image59]: ./images/FB2.jpg
 [image60]: ./images/Aswath.jpg
 [image61]: ./images/introEmbedded.jpg
-[image62]: ./images/FB4.jpg
+[image62]: ./images/FB4.png
 
 
 ### Day 1: 
