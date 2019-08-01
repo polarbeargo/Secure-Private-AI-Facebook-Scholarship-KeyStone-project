@@ -62,7 +62,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image58]: ./images/FB1.jpg
 [image59]: ./images/FB2.jpg
 [image60]: ./images/Aswath.jpg
-
+[image61]: ./images/introEmbedded.jpg
 
 
 ### Day 1: 
@@ -1156,3 +1156,13 @@ His encouragement and collect them as a really important memory, I want to share
 * I spend most of the time to reinstall Android studio and shifted to external harddisk which start working smoothly PC while using android Still the problem is with emulator and kvm issue which is currently solving, anyway this is my last try then i will quit from this project because i can't able to run on my PC :disappointed:,I learned a lot from my team thank you everyone @Bearbear @Sarah Majors @Harkirat 
 * because of android studio bugs and error or it's take lot of time for execution which is not yet happen its better to move on to next Project Thank you so much @Bearbear For giving me opportunity :v:
 * Encourage Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida  #60daysofudacity
+
+### Day 36: 
+
+#### Polarbeargo
+
+* Rewatching lesson 9 Encrypted Deep Learning for 30 min.
+* Focus on writing a research paper using latex in the Robotic Software Engineer Nanodegree program project where am I to 3.2.3 Parameters.
+* Participate in PyTorch robotics channel intro to the embedded system have a lot of fun time listen to Madalin and immerse myself for the time with classmates.
+![][image61]
+* As I received Dan's letter from Kaggle yesterday and read to the sentence "with a community of like-minded learners", I immediately reading and play with https://www.kaggle.com/learn/intermediate-machine-learning and https://www.kaggle.com/learn/intro-to-machine-learning for a little bit while and tell myself focus on writing project where am I.
