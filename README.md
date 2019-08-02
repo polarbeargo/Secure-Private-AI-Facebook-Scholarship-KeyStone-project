@@ -1181,7 +1181,7 @@ His encouragement and collect them as a really important memory, I want to share
 #### Polarbeargo
 * Rewatching lesson 9 Encrypted Deep Learning for 30 min.
 * Focus on writing a research paper using latex in the Robotic Software Engineer Nanodegree program project where am I to section Results.
-* Participating in AWS DeepRacer Scholarship Challenge for reading Reinforcement learning. Spent a little bit time watching lesson 2 Get Started with AWS DeepRacer to section DeepRacer Assembly.  
+* Participating in AWS DeepRacer Scholarship Challenge for reading Reinforcement learning. Spent a little bit time watching lesson 2 Get Started with AWS DeepRacer to section DeepRacer Assembly felt that I want to play DeepRacer.  
 * Asking Frida for the recording Udacity [PUTTING HUMANS AT THE CENTER OF AI webinar](https://business.udacity.com/fei-feili?bsft_eid=1298ae03-5534-3a24-4d0e-2615f1e927d3&utm_campaign=acq_600_2019-07-25_ndxxx_feifei-event_global&utm_source=blueshift&utm_medium=email&utm_content=acq_600_2019-07-25_ndxxx_feifei-event_global&bsft_clkid=7445a3ce-814e-4f1d-80a3-a876f22452f0&bsft_uid=129057a7-286f-4797-a355-9e740d735602&bsft_mid=b04a5d6a-4f13-4180-895d-c36aa0aac494). She is very kind and beautiful willing share her youtube recording link with me:).
 
 
