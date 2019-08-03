@@ -1211,3 +1211,12 @@ His encouragement and collect them as a really important memory, I want to share
 * Reading https://www.kaggle.com/learn/intermediate-machine-learning and https://www.kaggle.com/learn/intro-to-machine-learning for a little bit while. 
 
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
+#### Halwai Aftab Hasan
+
+* Rewatch Style Transfer and prepare style transfer for tomorrow Developer Circle from Facebook Meetup.
+* Read Image Style Transfer Using Convolutional Neural Networks. https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+* Had a talk with @rinki nag on career guidance, its a great time for me to build my own career properly...
+*  Had virtual meetup #sg_mumbai with @cibaca, @bhavz, @Hitoishi Das, @Shivam Raisharma, @Ankit Dubey, @bhavz, @Rohit Sahoo, @Praveer, @vivek, @Mushrifah Hasan
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer 
+* #60daysofudacity
