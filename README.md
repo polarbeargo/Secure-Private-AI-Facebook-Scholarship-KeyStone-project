@@ -65,6 +65,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image61]: ./images/introEmbedded.jpg
 [image62]: ./images/FB4.png
 [image63]: ./images/jana.png
+[image64]: ./images/Day38192.png
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -1220,3 +1222,5 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 *  Had virtual meetup #sg_mumbai with @cibaca, @bhavz, @Hitoishi Das, @Shivam Raisharma, @Ankit Dubey, @bhavz, @Rohit Sahoo, @Praveer, @vivek, @Mushrifah Hasan
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer 
 * #60daysofudacity
+![][image64]
+
