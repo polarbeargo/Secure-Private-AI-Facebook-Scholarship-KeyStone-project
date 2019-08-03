@@ -64,7 +64,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image60]: ./images/Aswath.jpg
 [image61]: ./images/introEmbedded.jpg
 [image62]: ./images/FB4.png
-
+[image63]: ./images/jana.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1194,3 +1194,20 @@ His encouragement and collect them as a really important memory, I want to share
 * @Aisha Javed You make my day :slightly_smiling_face: Thanks for appreciating me :slightly_smiling_face:  
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika @Aisha Javed @Praveer 
 * #60daysofudacity
+
+### Day 38: 
+
+#### Polarbeargo
+
+* Rewatching lesson 5 Introducing Local and global Differential Privacy.
+* Split the rest task in group mini-project with Sarah Majors will start to implement tomorrow.
+* Watching AWS DeepRacer Scholarship Challenge to lesson 3 Test drive to DeepRacer to section 5 The Basic Reward Function.
+* Finished and submitted Robotic Software Engineer Nanodegree project where am I for 1st review and start implementing project Map my world robot.
+* Watching Robotic Software Engineer Nanodegree program lesson 21 RL Basics.
+* Watching AI for trading Nanodegree program to lesson 18 Portfolio risk and return section 8 Calculate a Covariance Matrix.
+* Reading [alphago](https://deepmind.com/research/alphago/)
+* 1 VS 1 call with AI for trading Nanodegree program my mentor Pranjal. We discuss lesson 3 Pairs trading and mean reversion section 12 Extending to 3 stocks and section 13 Details of the Johansen test explain the difference between cointegrated and correlation as he told me it's a nice session today, I feel happy:).
+![][image63]  
+* Reading https://www.kaggle.com/learn/intermediate-machine-learning and https://www.kaggle.com/learn/intro-to-machine-learning for a little bit while. 
+
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
