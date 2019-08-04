@@ -1224,3 +1224,11 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * #60daysofudacity
 ![][image64]
 
+### Day 39: 04/08/2019
+
+#### Halwai Aftab Hasan
+
+* Due to heavy rain in mumbai, Developer Circle from Facebook meetup is cancelled and we are planning for Virtual Meetup by tomorrow Night.
+* Nice Weekend with aws deepracer lesson 2 Get Started with AWS Deepracer.
+* Rewatch lesson 5 Introducing Local and global Differential Privacy.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer 
