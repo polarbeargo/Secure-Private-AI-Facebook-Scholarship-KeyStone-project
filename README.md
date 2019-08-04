@@ -1234,3 +1234,19 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * Rewatch lesson 5 Introducing Local and global Differential Privacy.
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer #60daysofudacity
 ![][image65]
+
+#### Polarbeargo
+
+* Rewatching lesson 5 Introducing Local and global Differential Privacy to section 7 The Formal Definition of Differential
+Privacy.
+* Continue focus on implementing group mini-project.
+* Completed Robotic Software Engineer Nanodegree [project where am I](https://github.com/Polarbeargo/RoboND-Where-Am-I/blob/master/LATEX/main.pdf) and focus on continue reading and implementing project Map my world robot deploys RTAB-Map on the simulated robot to create 2D and 3D Maps on a predefined environment. Demo my Intel aero flying car with RTAB-Map:
+
+Intel aero flying car      | RTAB-Map
+:-------------------------:|:-------------------------:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qXfB4bgf53A/0.jpg)](https://youtu.be/qXfB4bgf53A) |  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rF9DJFgUhv0/0.jpg)](https://youtu.be/rF9DJFgUhv0) 
+
+* Reading AI for trading Nanodegree program to Lesson 18 Portfolio risk and return to section 12 The Sharp ratio.
+* Watching Robotic Software Engineer Nanodegree program lesson 21 RL Basics to section 3 The Setting.
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
