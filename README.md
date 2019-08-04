@@ -1104,6 +1104,9 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida 
 #60daysofudacity 
 
+#### Sarah
+Continue trying to build PyTorch for Pi
+
 ### Day 34: 
 
 #### Polarbeargo
@@ -1139,6 +1142,10 @@ Error 1                    | Error 2
 :-------------------------:|:-------------------------:
 ![][image56]               |  ![][image57] 
 
+#### Sarah
+Attended the webinar in PyTorch Robotics
+Trying another run of compiling PyTorch for the Pi using ArchLinuxArm
+
 ### Day 35: 
 
 #### Polarbeargo
@@ -1161,6 +1168,10 @@ His encouragement and collect them as a really important memory, I want to share
 * because of android studio bugs and error or it's take lot of time for execution which is not yet happen its better to move on to next Project Thank you so much @Bearbear For giving me opportunity :v:
 * Encourage Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida  #60daysofudacity
 
+#### Sarah
+* PyTorch is finally built correctly for my pi!!!!
+* Trying to build PySyft for pi, but having problems with some of the dependencies.  Bazel is having jvm errors and I'm not sure how to fix it yet.
+
 ### Day 36: 
 
 #### Polarbeargo
@@ -1178,6 +1189,9 @@ His encouragement and collect them as a really important memory, I want to share
 * Thinking about project challenge to participate alone and create my own dataset and everything which help for society and community.
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida  #60daysofudacity
 ![][image62] 
+
+#### Sarah
+* Watched lectures 5 and 6 of the fast.ai NLP course
 
 ### Day 37: 
 
@@ -1197,6 +1211,9 @@ His encouragement and collect them as a really important memory, I want to share
 * @Aisha Javed You make my day :slightly_smiling_face: Thanks for appreciating me :slightly_smiling_face:  
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika @Aisha Javed @Praveer 
 * #60daysofudacity
+
+#### Sarah
+* Tried to figure out my AWS name, password and id for the AWS DeepRacer challenge, but had problems.  Signed into the challenge without them.
 
 ### Day 38: 
 
@@ -1225,6 +1242,10 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 * #60daysofudacity
 ![][image64]
 
+#### Sarah
+* Looked at the video for the mini-project with BearBear
+* Thought more about the issues with Bazel
+
 ### Day 39: 04/08/2019
 
 #### Halwai Aftab Hasan
@@ -1250,3 +1271,5 @@ Intel aero flying car      | RTAB-Map
 * Watching Robotic Software Engineer Nanodegree program lesson 21 RL Basics to section 3 The Setting.
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 
+#### Sarah
+* Watched AWS DeepRacer section 2
