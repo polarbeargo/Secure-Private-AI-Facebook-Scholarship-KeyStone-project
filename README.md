@@ -66,6 +66,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image62]: ./images/FB4.png
 [image63]: ./images/jana.png
 [image64]: ./images/Day38192.png
+[image65]: ./images/awsD.png
 
 
 ### Day 1: 
@@ -1229,6 +1230,7 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 #### Halwai Aftab Hasan
 
 * Due to heavy rain in mumbai, Developer Circle from Facebook meetup is cancelled and we are planning for Virtual Meetup by tomorrow Night.
-* Nice Weekend with aws deepracer lesson 2 Get Started with AWS Deepracer.
+* Nice Weekend with aws deepracer lesson 2 Get Started with AWS Deepracer. https://d1.awsstatic.com/deepracer/AWS-DeepRacer-Getting-Started-Guide.pdf
 * Rewatch lesson 5 Introducing Local and global Differential Privacy.
-* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer 
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @Khush @rinki nag @Shubhangi Jena @Jyoti Kritika Kritika @Aisha Javed @Praveer #60daysofudacity
+![][image65]
