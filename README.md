@@ -1273,3 +1273,14 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 
 #### Sarah
 * Watched AWS DeepRacer section 2
+
+### Day 40
+
+#### Polarbeargo
+
+* Rewatching lesson 5 Introducing Local and global Differential Privacy section 7 The Formal Definition of Differential
+Privacy again.
+* Split and discuss the rest task in group mini-project with Sarah Majors and Halwai Aftab Hasan.
+* Focus on continue reading and implementing project Map my world robot deploys RTAB-Map on the simulated robot to create 2D and 3D Maps on a predefined environment.
+* Today's interesting finding in Robotic Software Engineer Nanodegree program classroom https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf , https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf, and happily reading https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision.
+* Implemented, playing and reading https://www.kaggle.com/hsinwenchang/exercise-random-forests, https://www.kaggle.com/hsinwenchang/exercise-data-leakage.
