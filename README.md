@@ -1289,7 +1289,11 @@ Privacy again.
 #### Halwai Aftab Hasan
 
 * Start day with my mini project and start executing task which is given by @Bearbear .
-* Working on Reference section in my project or Creating a Simple Graph in Android Studio with GraphView for my project. https://www.youtube.com/watch?v=zbTvJZX0UDk&feature=youtu.be  
-* Many more surpirse for Porject showcase including this mini project. 
+* Working on Reference section in my project or Creating a Simple Graph in Android Studio with GraphView for my project. https://www.youtube.com/watch?v=zbTvJZX0UDk&feature=youtu.be
+* Many more surpirse for Project showcase including this mini project.
 * Create and Organize Virtual Meetup for Developer Circle from Facebook Mumbai as a Facilator with @Sunny Dsouza, I start with introduction then move to Style transfer in real Application and we discussed on faceapp use Style transfer.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer
+* She is the Best Person I have ever met before in my either career, her support for me is infinite, let's share one quote of her to me
+" You should know where to draw the line" - Diksha Sharma :heart: :heart:
+*  #60daysofudacity 
 ![][image66]
