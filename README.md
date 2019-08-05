@@ -67,6 +67,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image63]: ./images/jana.png
 [image64]: ./images/Day38192.png
 [image65]: ./images/awsD.png
+[image66]: ./images/DevCFB.png
 
 
 ### Day 1: 
@@ -1274,7 +1275,7 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 #### Sarah
 * Watched AWS DeepRacer section 2
 
-### Day 40
+### Day 40: 05/08/2019
 
 #### Polarbeargo
 
@@ -1284,3 +1285,11 @@ Privacy again.
 * Focus on continue reading and implementing project Map my world robot deploys RTAB-Map on the simulated robot to create 2D and 3D Maps on a predefined environment.
 * Today's interesting finding in Robotic Software Engineer Nanodegree program classroom https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf , https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf, and happily reading https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision.
 * Implemented, playing and reading https://www.kaggle.com/hsinwenchang/exercise-random-forests, https://www.kaggle.com/hsinwenchang/exercise-data-leakage.
+
+#### Halwai Aftab Hasan
+
+* Start day with my mini project and start executing task which is given by @Bearbear .
+* Working on Reference section in my project or Creating a Simple Graph in Android Studio with GraphView for my project. https://www.youtube.com/watch?v=zbTvJZX0UDk&feature=youtu.be  
+* Many more surpirse for Porject showcase including this mini project. 
+* Create and Organize Virtual Meetup for Developer Circle from Facebook Mumbai as a Facilator with @Sunny Dsouza, I start with introduction then move to Style transfer in real Application and we discussed on faceapp use Style transfer.
+![][image66]
