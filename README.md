@@ -1297,3 +1297,13 @@ Privacy again.
 " You should know where to draw the line" - Diksha Sharma :heart: :heart:
 *  #60daysofudacity 
 ![][image66]
+
+### Day 41: 06/08/2019
+
+#### Polarbeargo
+
+* Focus on implementing and debug group mini-project and organized document part.
+* Focus on reading and implementing project Map my world robot deploys RTAB-Map on the simulated robot to create 2D and 3D Maps on a predefined environment.
+* Focus on writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF to section background. Through writing, I felt that I get more understanding and learn Occupancy Grid Mapping, Grid-based FastSLAM to GraphSLAM and RTAB-Map.
+* Reading AI for trading Nanodegree program Lesson 18 Portfolio risk and return to section 13 Other Risk Measures, today I found interesting reading [The Sharpe ration](http://web.stanford.edu/~wfsharpe/art/sr/sr.htm) in the classroom which makes me happy.
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
