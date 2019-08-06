@@ -1311,12 +1311,12 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 
 #### Halwai Aftab Hasan
 
-• Working on local differential privacy or global differential privacy Noise in my mini project, Thanks for Great Paper by Cynthia Dwork. https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf
-• Rewatching Differential privacy and play with it for my mini-project. https://github.com/udacity/private-ai/blob/master/completed/Section%201%20-%20Differential%20Privacy.ipynb
-• Thanks for Wikipedia work for AI Work which we get all resources easily. https://en.wikipedia.org/wiki/Additive_noise_mechanisms
-• Create Organize Second Virtual Meetup of Developer Circle from Facebook with @Avi Seth @Sunny Dsouza , where we discussed on Style Transfer and Differential Privacy in real-life application.
-•  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Jyoti Kritika @Poornima Venkatraman 
-• Shout out for these  2 people which i inspire most but they don't know :stuck_out_tongue: 
+* Working on local differential privacy or global differential privacy Noise in my mini project, Thanks for Great Paper by Cynthia Dwork. https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf
+* Rewatching Differential privacy and play with it for my mini-project. https://github.com/udacity/private-ai/blob/master/completed/Section%201%20-%20Differential%20Privacy.ipynb
+* Thanks for Wikipedia work for AI Work which we get all resources easily. https://en.wikipedia.org/wiki/Additive_noise_mechanisms
+* Create Organize Second Virtual Meetup of Developer Circle from Facebook with @Avi Seth @Sunny Dsouza , where we discussed on Style Transfer and Differential Privacy in real-life application.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Jyoti Kritika @Poornima Venkatraman 
+* Shout out for these  2 people which i inspire most but they don't know :stuck_out_tongue: 
 I learn a lot from these two guys @Bearbear @Sarah Majors 
 #60daysofudacity 
 ![][image67]
