@@ -1298,6 +1298,9 @@ Privacy again.
 *  #60daysofudacity 
 ![][image66]
 
+#### Sarah
+* Did some planning for adding the graphing page to the android app to visualize the noise addition for our mini-project with Bearbear
+
 ### Day 41: 06/08/2019
 
 #### Polarbeargo
