@@ -68,7 +68,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image64]: ./images/Day38192.png
 [image65]: ./images/awsD.png
 [image66]: ./images/DevCFB.png
-
+[image67]: ./images/FBD3.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1307,3 +1307,16 @@ Privacy again.
 * Focus on writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF to section background. Through writing, I felt that I get more understanding and learn Occupancy Grid Mapping, Grid-based FastSLAM to GraphSLAM and RTAB-Map.
 * Reading AI for trading Nanodegree program Lesson 18 Portfolio risk and return to section 13 Other Risk Measures, today I found interesting reading [The Sharpe ration](http://web.stanford.edu/~wfsharpe/art/sr/sr.htm) in the classroom which makes me happy.
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
+
+#### Halwai Aftab Hasan
+
+• Working on local differential privacy or global differential privacy Noise in my mini project, Thanks for Great Paper by Cynthia Dwork. https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf
+• Rewatching Differential privacy and play with it for my mini-project. https://github.com/udacity/private-ai/blob/master/completed/Section%201%20-%20Differential%20Privacy.ipynb
+• Thanks for Wikipedia work for AI Work which we get all resources easily. https://en.wikipedia.org/wiki/Additive_noise_mechanisms
+• Create Organize Second Virtual Meetup of Developer Circle from Facebook with @Avi Seth @Sunny Dsouza , where we discussed on Style Transfer and Differential Privacy in real-life application.
+•  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Jyoti Kritika @Poornima Venkatraman 
+• Shout out for these  2 people which i inspire most but they don't know :stuck_out_tongue: 
+I learn a lot from these two guys @Bearbear @Sarah Majors 
+#60daysofudacity 
+![][image67]
