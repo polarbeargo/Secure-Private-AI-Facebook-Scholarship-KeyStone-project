@@ -1323,3 +1323,15 @@ I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @M
 I learn a lot from these two guys @Bearbear @Sarah Majors 
 #60daysofudacity 
 ![][image67]
+
+### Day 42: 06/08/2019
+
+#### Polarbeargo
+
+* Focus on debug group mini-project.
+* Rewatching lesson 5 Introducing Local and global Differential Privacy section 7 The Formal Definition of Differential
+Privacy.
+* Focus on writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF to section 2.3 GraphSLAM. Through writing, I felt that I get more understanding and learn Occupancy Grid Mapping, Grid-based FastSLAM to GraphSLAM and RTAB-Map.
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+
+Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to participate this group project with me. You are awsome let us practice persistence together:D! 
