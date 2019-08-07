@@ -1335,3 +1335,11 @@ Privacy.
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 
 Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to participate this group project with me. You are awsome let us practice persistence together:D! 
+
+#### Halwai Aftab Hasan
+
+* Working on Mini Project, Local or Global Differential Privacy Noise. 
+* Working with The Laplace Mechanism. https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf 
+* Totally Focus on my Mini Project with my team @Bearbear @Sarah Majors @Harkirat 
+*  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer 
+* #60daysofudacity 
