@@ -1324,7 +1324,7 @@ I learn a lot from these two guys @Bearbear @Sarah Majors
 #60daysofudacity 
 ![][image67]
 
-### Day 42: 06/08/2019
+### Day 42: 07/08/2019
 
 #### Polarbeargo
 
@@ -1343,3 +1343,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Totally Focus on my Mini Project with my team @Bearbear @Sarah Majors @Harkirat 
 *  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer 
 * #60daysofudacity 
+
+### Day 43: 08/08/2019
+
+#### Polarbeargo
+
+* Debugging group mini-project.
+* Writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF to section 2.1  Occupancy Grid Mapping. Design and implement my_world.launch.
+* Reading AI for trading Nanodegree program Lesson 18 Portfolio risk and return to section 13 Other Risk Measures need a good night sleep.
