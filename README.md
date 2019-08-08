@@ -1354,9 +1354,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 
 #### Halwai Aftab Hasan
 
-• Rewatching whole Differential privacy and Federated Learning for my mini-project.
-• Totally focus on implementing more for my min project :slightly_smiling_face: 
-• I found my mini-project team is Happy with my work lets go for a more better version of my mini-project.
-•  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer
-• Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face: 
+* Rewatching whole Differential privacy and Federated Learning for my mini-project.
+* Totally focus on implementing more for my min project :slightly_smiling_face: 
+* I found my mini-project team is Happy with my work lets go for a more better version of my mini-project.
+*  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer
+* Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face: 
 #60daysofudacity
