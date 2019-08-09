@@ -69,6 +69,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image65]: ./images/awsD.png
 [image66]: ./images/DevCFB.png
 [image67]: ./images/FBD3.png
+[image68]: ./images/DCFBF.png
+
 
 ### Day 1: 
 #### Polarbeargo
@@ -1370,3 +1372,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF. Designing and implementing my_world.launch.
 * Reading AI for trading Nanodegree program Lesson 20 Portfolio optimization to section 10 Rebalancing a Portfolio felt that I need a good night sleep.
 * Today is the first day I know I finally completed good and excellent alpha achievement in WorldQuant. My Gratitude to the Instructors in AI for trading Nanodegree program, WorldQuant Virtual Bootcamp, Russia WebSim Training Series and Researchers in Taiwan Headquater.
+
+
+#### Halwai Aftab Hasan
+
+* Traveling the whole day, tired a lot.
+* Good News My lecture of Style Transfer on Developer Circle from Facebook is appear on facebook facilitator Group.
+* Continue Brainstorming on differential privacy and federated learning for my mini-project, working more on adding new features
+* Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face:
+#60daysofudacity
+![][image68]
