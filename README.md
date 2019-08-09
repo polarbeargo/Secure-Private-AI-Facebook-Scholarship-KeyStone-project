@@ -1360,3 +1360,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 *  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer
 * Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face: 
 #60daysofudacity
+
+### Day 44: 09/08/2019
+
+#### Polarbeargo
+
+* Implementing and Debugging group mini-project.
+* Reading https://www.kaggle.com/alexisbcook/data-leakage
+* Writing Robotic Software Engineer Nanodegree project Map my world robot write up PDF. Designing and implementing my_world.launch.
+* Reading AI for trading Nanodegree program Lesson 20 Portfolio optimization to section 10 Rebalancing a Portfolio felt that I need a good night sleep.
+* Today is the first day I know I finally completed good and excellent alpha achievement in WorldQuant. My Gratitude to the Instructors in AI for trading Nanodegree program, WorldQuant Virtual Bootcamp, Russia WebSim Training Series and Researchers in Taiwan Headquater.
