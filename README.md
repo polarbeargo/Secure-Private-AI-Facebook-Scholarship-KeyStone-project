@@ -1390,3 +1390,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Finished reading AI for trading Nanodegree program Lesson 20 Portfolio optimization, Project: Smart Beta and Portfolio Optimization and rewatching Lesson 10 Quant workflow.
 * I'm truly happy that the person reaches 6th place in the competition https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion/103457?fbclid=IwAR1agqh-Uh2UjTYtmziOb5_cZhVcUiJqZCoOCVa8irduDZAXBGHUsohfYLQ write a post and said thank you to my kernel and I felt very worth it. This post definitely enrich my heart and soul:D! Thank you Partha!! Thank you Kaggle and Udacity, I really become a little helper and can help researcher around the world.
 * I had bad canned food yesterday night puke heavily, feel very weak and very uncomfortable rest earlier for today.
+
+#### Halwai Aftab Hasan
+
+* Attended #sg_mumbai Slack Discussion.
+* Continue with federated Learning and differential privacy.
+* Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 slightly_smiling_face #60daysofudacity 
