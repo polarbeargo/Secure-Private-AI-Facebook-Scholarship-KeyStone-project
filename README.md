@@ -1326,6 +1326,9 @@ I learn a lot from these two guys @Bearbear @Sarah Majors
 #60daysofudacity 
 ![][image67]
 
+#### Sarah
+* Worked on the graph for the Android Worker, but progress is slow because I am not terribly familiar with Android programming.
+
 ### Day 42: 07/08/2019
 
 #### Polarbeargo
@@ -1346,6 +1349,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 *  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer 
 * #60daysofudacity 
 
+#### Sarah
+* Watched fastai NLP lecture 9
+
 ### Day 43: 08/08/2019
 
 #### Polarbeargo
@@ -1362,6 +1368,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 *  Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer
 * Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face: 
 #60daysofudacity
+
+#### Sarah
+* Watched fastai NLP lecture 10
 
 ### Day 44: 09/08/2019
 
@@ -1382,6 +1391,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 :slightly_smiling_face:
 #60daysofudacity
 ![][image68]
+
+#### Sarah
+* Got the graph working for the mini-project
 
 ### Day 45: 10/08/2019
 
