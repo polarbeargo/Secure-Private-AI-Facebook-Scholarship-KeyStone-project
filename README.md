@@ -1408,3 +1408,16 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Attended #sg_mumbai Slack Discussion.
 * Continue with federated Learning and differential privacy.
 * Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 slightly_smiling_face #60daysofudacity 
+
+### Day 46: 11/08/2019
+
+#### Polarbeargo
+
+* Implementing and Debugging group mini-project.
+* Reading https://www.kaggle.com/alexisbcook/data-leakage
+* Installed ROS and RTAB-Map for debugging Robotic Software Engineer Nanodegree project Map my world robot.
+* Implementing Robotic Software Engineer Nanodegree project Map my world robot.
+* Watching Kaggle day after I watch this Kaggle day, it really likes a torch lighten my world and heart. I love the time with Udacity and Kaggle. Thank you Udacity and Kaggle! You are awesome!  
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/etsayyDGiO0/0.jpg)](https://www.youtube.com/watch?v=etsayyDGiO0 )  
+* Received encouragements youtube from my Robotics Software Engineer Nanodegree Program classmate Sir Aswath Suresh. Your Encouragement motivates me a lot, Thank you, Sir Aswath Suresh:)! You Rock! I would like to share this youtube with all my scholarship classmates.  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eWJVvNptHZ4/0.jpg)](https://www.youtube.com/watch?v=eWJVvNptHZ4)  
