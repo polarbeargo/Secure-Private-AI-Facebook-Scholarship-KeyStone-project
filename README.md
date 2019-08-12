@@ -70,7 +70,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image66]: ./images/DevCFB.png
 [image67]: ./images/FBD3.png
 [image68]: ./images/DCFBF.png
-
+[image69]: ./images/day46mumbaimeetup.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1421,6 +1421,15 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/etsayyDGiO0/0.jpg)](https://www.youtube.com/watch?v=etsayyDGiO0 )  
 * Received encouragements youtube from my Robotics Software Engineer Nanodegree Program classmate Sir Aswath Suresh. Your Encouragement motivates me a lot, Thank you, Sir Aswath Suresh:)! You Rock! I would like to share this youtube with all my scholarship classmates.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eWJVvNptHZ4/0.jpg)](https://www.youtube.com/watch?v=eWJVvNptHZ4)  
+
+#### Halwai Aftab Hasan
+
+* Working on differential privacy on federated learning for my mini project, Thank you open minded slack team where already great people is there for help u at any situation 
+* Improving most of my project part. 
+* Attended virtual Meetup #sg_mumbai planning on having revision sessions the coming week :blush:.
+* Shoutout @channel who don't yet complete the course, lets help them and encourage them for complete the course, I u guys can join with us on revision the whole courses from Wednesday :blush:
+#60daysofudacity
+![][image69]
 
 ### Day 47: 12/08/2019
 
