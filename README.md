@@ -1439,3 +1439,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Finished implement Kaggle https://www.kaggle.com/learn/intermediate-machine-learning and https://www.kaggle.com/learn/intro-to-sql
 * Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot.
 * Watching  Robotic Software Engineer Nanodegree program Lesson 25 Deep RL Manipulator.
+
+#### Halwai Aftab Hasan
+
+* Participated PyTorch Hackathon and form a team with @cibaca @Shivam Raisharma @Labiba @Hitoishi Das.
+* Love to see that @annaSWE winning project lets get more detail about the hackathon.
+* Whole day busy with celebrating my festival " EID " with family,  relatives, friends and here #celebrate, Eid is the festival of Joy.
+* Back to implementing my mini project, finally my question solved by openminded regarding differential privacy looking forward to execute it :slightly_smiling_face:
+* Shoutout @channel who don't yet complete the course, lets help them and encourage them to complete the course.
+* Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Labiba
+* #60daysofudacity
