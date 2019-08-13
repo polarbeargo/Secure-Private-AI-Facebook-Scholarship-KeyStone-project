@@ -1449,3 +1449,14 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Shoutout @channel who don't yet complete the course, lets help them and encourage them to complete the course.
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Labiba
 * #60daysofudacity
+
+### Day 48: 13/08/2019
+
+#### Polarbeargo
+
+* Implementing and Debugging group mini-project.
+* Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot.
+![][image70]
+* Implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization.
+* Participating WorldQuant Virtual Boot Camp felt very inspiring and warm.
+* Watching https://youtu.be/Ev9BUGoOp64 and https://youtu.be/lVHRs3uTHNI regain a lot of energy and lighten my world.
