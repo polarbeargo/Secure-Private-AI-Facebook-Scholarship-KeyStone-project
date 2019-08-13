@@ -1459,5 +1459,5 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot.
 ![][image70]
 * Implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization.
-* Participating WorldQuant Virtual Boot Camp felt very inspiring and warm.
+* Participating in WorldQuant Virtual Boot Camp felt very inspiring and warm.
 * Watching https://youtu.be/Ev9BUGoOp64 and https://youtu.be/lVHRs3uTHNI regain a lot of energy and lighten my world.
