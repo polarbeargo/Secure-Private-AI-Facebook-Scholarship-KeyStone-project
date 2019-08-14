@@ -1460,4 +1460,6 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 ![][image70]
 * Implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization.
 * Participating in WorldQuant Virtual Boot Camp felt very inspiring and warm.
-* Watching https://youtu.be/Ev9BUGoOp64 and https://youtu.be/lVHRs3uTHNI regain a lot of energy and lighten my world.
+* Watching Putting Humans at the Center of AI and Paola Arlotta: Brain Development from Stem Cell to Organoid | Artificial Intelligence (AI) Podcast regain a lot of energy and lighten my world.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ev9BUGoOp64/0.jpg)](https://youtu.be/Ev9BUGoOp64)    
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lVHRs3uTHNI/0.jpg)](https://youtu.be/lVHRs3uTHNI) 
