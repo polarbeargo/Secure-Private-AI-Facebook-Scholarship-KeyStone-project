@@ -1464,6 +1464,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ev9BUGoOp64/0.jpg)](https://youtu.be/Ev9BUGoOp64)    
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lVHRs3uTHNI/0.jpg)](https://youtu.be/lVHRs3uTHNI) 
 
+#### Halwai Aftab Hasan
+
+* Implementing mini project, lots of learning through this project :blush:
+* Tomorrow will test the mini project using virtual worker
+* Going through @annaSWE Project and get some ideas for the PyTorch Hackathon and chat with my Pytorch Hackathon team for projects 
+#60daysofudacity (
+
 ### Day 49: 14/08/2019
 
 #### Polarbeargo
@@ -1477,3 +1484,10 @@ Day 49:
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 
 Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to participate this group project with me. You are awsome let us practice persistence together:D! 
+
+#### Halwai Aftab Hasan
+
+* Start working on testing using virtual worker and its successful run after lots of error !! Thank you guys for helping me @Bearbear @Harkirat @Sarah Majors 
+* looking forward to debugging and will participate in the medium article of my mini-project as well.
+* Encourage @Channel 
+* #60daysofudacity  
