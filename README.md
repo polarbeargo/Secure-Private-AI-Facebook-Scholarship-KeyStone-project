@@ -1498,3 +1498,15 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
 * Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot and found really nice resources https://www.robotigniteacademy.com/en/.
 * Implementing and Debugging group mini-project. Thank you Harkirat Singh for the network connection breakthrough and share your experience, knowledge and consideration with us allow our group mini project can continue work on that.
+
+#### Halwai Aftab Hasan
+
+* Completed #l8_encrypted_dl Chapter as well as complete my whole course as well :slightly_smiling_face:
+* Working on Mini Projects
+* Attended in PyTorch Hackathon my Team Meetup with @cibaca @Shivam Raisharma @Labiba @Hitoishi Das
+* Attended #sg_dl-goodfellows meetup with  @cibaca @Shivam Raisharma @Munira Omar@Alexander Villasoto @Ankur Bhatia @Sourav @K.S. @David Ashraf @Oudarjya Sen Sarma
+* Encourage @Channel
+#60daysofudacity
+--                  | --
+:-------------------------:|:-------------------------:
+![][image75]               |  ![][image84]  
