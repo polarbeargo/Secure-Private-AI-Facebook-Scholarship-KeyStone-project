@@ -1475,7 +1475,6 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 
 #### Polarbeargo
 
-Day 49:
 * Rewatching lesson 5 Introducing Local and global Differential Privacy section 7 The Formal Definition of Differential Privacy.
 * Reading [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf.) section Differentially private version.
 * Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot.
@@ -1491,3 +1490,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * looking forward to debugging and will participate in the medium article of my mini-project as well.
 * Encourage @Channel 
 * #60daysofudacity  
+
+### Day 50: 15/08/2019
+
+#### Polarbeargo
+
+* Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
+* Implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot and found really nice resources https://www.robotigniteacademy.com/en/.
+* Implementing and Debugging group mini-project. Thank you Harkirat Singh for the network connection breakthrough and share your experience, knowledge and consideration with us allow our group mini project can continue work on that.
