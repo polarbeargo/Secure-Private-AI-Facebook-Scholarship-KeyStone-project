@@ -1513,10 +1513,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 #60daysofudacity
 Meetup                     | Course Complete
 :-------------------------:|:-------------------------:
-![][image71]               |  ![][image72]  
-Meetup                     | Course Complete
+ ![][image46]              | ![][image47]
+
+Meetup                     | Cousrse Complete
 :-------------------------:|:-------------------------:
-![][image73]               |  ![][image74]  
+![][image48]               |  ![][image49]
 
 ### Day 51: 16/08/2019
 
