@@ -1511,6 +1511,7 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Attended #sg_dl-goodfellows meetup with  @cibaca @Shivam Raisharma @Munira Omar@Alexander Villasoto @Ankur Bhatia @Sourav @K.S. @David Ashraf @Oudarjya Sen Sarma
 * Encourage @Channel
 #60daysofudacity
+
 Meetup                     | Course Complete
 :-------------------------:|:-------------------------:
 ![][image71]               |  ![][image72]
