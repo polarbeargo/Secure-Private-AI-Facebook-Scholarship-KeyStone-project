@@ -72,6 +72,10 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image68]: ./images/DCFBF.png
 [image69]: ./images/day46mumbaimeetup.png
 [image70]: ./images/MapMyworld.png
+[image71]: ./images/DLgodfello1.png
+[image72]: ./images/Encrypted Learning !!!.png
+[image73]: ./images/PH.jpeg
+[image74]: ./images/SPAIFcOMPLETE.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1507,9 +1511,12 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Attended #sg_dl-goodfellows meetup with  @cibaca @Shivam Raisharma @Munira Omar@Alexander Villasoto @Ankur Bhatia @Sourav @K.S. @David Ashraf @Oudarjya Sen Sarma
 * Encourage @Channel
 #60daysofudacity
---                  | --
+Meetup                  | Course Complete
 :-------------------------:|:-------------------------:
-![][image75]               |  ![][image84]  
+![][image71]               |  ![][image72]  
+Meetup                  | Course Complete
+:-------------------------:|:-------------------------:
+![][image73]               |  ![][image74]  
 
 ### Day 51: 16/08/2019
 
