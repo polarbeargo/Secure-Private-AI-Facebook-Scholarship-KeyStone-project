@@ -1510,3 +1510,12 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 --                  | --
 :-------------------------:|:-------------------------:
 ![][image75]               |  ![][image84]  
+
+### Day 51: 16/08/2019
+
+#### Polarbeargo
+* Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
+* Focus on implementing and Debugging group mini-project. 
+* Focus on implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot received feedback from mentor Hsiang and finding legacy from Robotic Software Engineer Nanodegree program slack channel, dash delaying student me! I want to say thank you classmates:), I will figure it out!
+* Split tasks with Harkirat, Sarah Majors and Halwai Aftab Hasan while reading and listening,  received feedback from Harkirat, Sarah Majors and Halwai Aftab Hasan modifying with their feedback together and It's really fun and great part of this group mini-project.
+* Extra wonderful today I received Gina's email from Udacity, her email support and helps me a lot!! The most important part is I miss Gina's email from Robotic Software Engineer Nanodegree program collect this email immediately.
