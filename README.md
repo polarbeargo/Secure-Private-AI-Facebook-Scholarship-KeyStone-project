@@ -73,7 +73,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image69]: ./images/day46mumbaimeetup.png
 [image70]: ./images/MapMyworld.png
 [image71]: ./images/DLgodfello1.png
-[image72]: ./images/Encrypted Learning !!!.png
+[image72]: ./images/EncryptedLearning.png
 [image73]: ./images/PH.jpeg
 [image74]: ./images/SPAIFcOMPLETE.png
 
