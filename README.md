@@ -1539,3 +1539,17 @@ Meetup                     | Cousrse Complete
 * Brilliant work of @Harkirat @Sarah Majors @Bearbear learn a lot :slightly_smiling_face: 
 * Encourage @channel
 #60daysofudacity 
+
+### Day 52: 17/08/2019
+
+#### Polarbeargo
+* Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
+* Focus on continue writing and fix readme and the medium story will fully on writing medium tomorrow.
+* Focus on implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot
+* Implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization.
+* Saw Harkirat demonstrate his well-structured code contribution on MINST FL with 90% accuracy and colorful & beauty MINST images feel truly amazing and wonderful from my heart, Thank you Harkirat and thank you for continuing share thoughts with us!
+* Thank you Sarah Majors for reply all the question to Halwai Aftab Hasan and have fun time discuss thoughts with Hark:)!
+* Thank you Halwai Aftab Hasan your question always a part of dynamic drive this study group. 
+
+I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
+Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to participate this group project with me. You are awsome let us practice persistence together:D! Last dash!!
