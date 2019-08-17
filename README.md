@@ -1553,3 +1553,12 @@ Meetup                     | Cousrse Complete
 
 I encourage @Frida @Helena Barmer @Samuela Anastasi @Urvi Soni @Casey Buscall @Marwa @Sarah Majors @Pranjal Chaubey @Harkirat @Halwai Aftab Hasan and myself persistence is the best talent another great sentence I received is believe in yourself thank you for tagging me in the post which allows me to see things from your side:).
 Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to participate this group project with me. You are awsome let us practice persistence together:D! Last dash!!
+
+#### Halwai Aftab Hasan
+
+* Working on mini-project and debugging or including medium.
+* Searching for a good project idea for PyTorch hackathon.
+* Plan to execute the whole project by Monday.
+* Thank you @Bearbear @Sarah Majors @Harkirat for solving my queries :slightly_smiling_face:
+* Encourage @Channel :slightly_smiling_face:
+#60daysofudacity
