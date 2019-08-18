@@ -1562,3 +1562,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Thank you @Bearbear @Sarah Majors @Harkirat for solving my queries :slightly_smiling_face:
 * Encourage @Channel :slightly_smiling_face:
 #60daysofudacity
+
+### Day 53: 18/08/2019
+
+#### Polarbeargo
+
+* Continue focus on writing medium descriptive story explain differential privacy(DP), Federated Learning(FL) with PySyft framework in the group mini-project and change thoughts with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan will continue full time on writing medium descriptive story tomorrow hopefully finish them before Tuesday.  
+* Finished implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization and received an awesome review from a reviewer who provides me more clean way implement function get_covariance_returns feels like receive Christmas present and I need to rewatching lesson again!
+* Participating WorldQuant Virtual Boot Camp listen and learn from Sir Jeffrey, Sir Harpreet, and Miss Ileana feel exciting and looking forward to meeting my alpha and become more descriptive while reading the learn section. Subscribe WorldQuant Youtube.
