@@ -1570,3 +1570,14 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Continue focus on writing medium descriptive story explain differential privacy(DP), Federated Learning(FL) with PySyft framework in the group mini-project and change thoughts with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan will continue full time on writing medium descriptive story tomorrow hopefully finish them before Tuesday.  
 * Finished implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization and received an awesome review from a reviewer who provides me more clean way implement function get_covariance_returns feels like receive Christmas present and I need to rewatching lesson again!
 * Participating WorldQuant Virtual Boot Camp listen and learn from Sir Jeffrey, Sir Harpreet, and Miss Ileana feel exciting and looking forward to meeting my alpha and become more descriptive while reading the learn section. Subscribe WorldQuant Youtube.
+
+### Day 54: 19/08/2019
+
+#### Polarbeargo
+
+* Reading [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
+* Full time on writing a medium story with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan will continue full time on writing medium descriptive story tomorrow hopefully finish them before the end of Tuesday.
+* Enjoying the happiness time conversation with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan separated the rest task on writing the medium story, Implement and debugging group-mini project with  @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan hope our study group can reach the goal together.
+* I truly appreciate @Sarah Majors her consideration thoughtful kindness dynamically help and support study group mini-project. It's very honorable quality and @HarkHarkirat Singh's can-do attitude and resolves many difficult gaps for the team. Share his thoughts with kind and make a lot of breakthrough for the group mini-project way beyond my imagination.
+* I appreciate the good quality of @Halwai Aftab Hasan through this scholarship, Sarah and I thought he can humbly handle advice well it will be an excellent quality to learn to become better and extremely passionate with what he is learning and extra practice by himself. Always watch scholarship event for the team and always try to follow up with the group mini-project. 
