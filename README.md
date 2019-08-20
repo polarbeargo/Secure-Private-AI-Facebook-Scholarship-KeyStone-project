@@ -1606,4 +1606,7 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 
 #### Halwai Aftab Hasan
 
-
+* Day start with uploading @sarthak project to project showcase challenge where he is in trouble of rejection of pull request and he is stuck with it, when i uploaded the project, still they rejected his project without any solution, which result is wasted of my time as well as them (project showcase management ) after my half day wasted and no action i found i just complain to @kkech and he help a lot by solving our problem as well as others too :slightly_smiling_face: 
+* Still working on my mini project only few parts are left so like today i do coding a bit and writing part of medium for our project 
+* Encourage @channel 
+* #60daysofudacity 
