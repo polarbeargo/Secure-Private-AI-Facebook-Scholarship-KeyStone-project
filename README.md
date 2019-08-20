@@ -1581,3 +1581,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Enjoying the happiness time have conversations with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan separated the rest task on writing the medium story, Implement and debugging group-mini project with  @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan hope our study group can reach the goal together.
 * I truly appreciate @Sarah Majors her consideration thoughtful kindness dynamically help and support study group mini-project. It's very honorable quality and @Harkirat Singh's can-do attitude and resolves many difficult gaps for the team. Share his thoughts with kind and make a lot of breakthrough for the group mini-project way beyond my imagination.
 * I appreciate the good quality of @Halwai Aftab Hasan through this scholarship, Sarah and I thought he can humbly handle advice well it will be an excellent quality to learn to become better and extremely passionate with what he is learning and extra practice by himself. Always watch scholarship event for the team and always try to follow up with the group mini-project. 
+
+### Day 55: 20/08/2019
+
+#### Polarbeargo
+
+* Full time on writing a medium story with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan.
+* Debugging group mini-project and discuss with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan about how the story will go.
+* Today's little happiness the Moodbit from fly car Nanodegree program slack message me about "it´s important that you move from your chair as soon as you read this!". I'm happy from my heart while receiving this warm greeting from fly car Nanodegree program slack.
