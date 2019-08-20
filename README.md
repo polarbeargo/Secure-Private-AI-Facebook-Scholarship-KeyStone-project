@@ -1571,6 +1571,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Finished implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization and received an awesome review from a reviewer who provides me more clean way implement function get_covariance_returns feels like receive Christmas present and I need to rewatching lesson again!
 * Participating WorldQuant Virtual Boot Camp listen and learn from Sir Jeffrey, Sir Harpreet, and Miss Ileana feel exciting and looking forward to meeting my alpha and become more descriptive while reading the learn section. Subscribe WorldQuant Youtube.
 
+#### Halwai Aftab Hasan
+
+* Whole day working on min project, solving my querys and learning a lot from my teammates @Bearbear @Sarah Majors @Harkirat 
+* Plan to complete whole project by tomorrow, so much fun and interesting to solve problems of my mini project:blush::blush:
+* Encourage @channel @cibaca @Hitoishi Das @Shivam Raisharma @Shubhangi Jena @Jyoti Kritika @Frida @Samuela Anastasi @Aisha Javed @rinki nag @Sunny Dsouza @Labiba @Stark @Arka @Munira Omar @Praveer 
+#60daysofudacity
+
 ### Day 54: 19/08/2019
 
 #### Polarbeargo
@@ -1582,6 +1589,13 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * I truly appreciate @Sarah Majors her consideration thoughtful kindness dynamically help and support study group mini-project. It's very honorable quality and @Harkirat Singh's can-do attitude and resolves many difficult gaps for the team. Share his thoughts with kind and make a lot of breakthrough for the group mini-project way beyond my imagination.
 * I appreciate the good quality of @Halwai Aftab Hasan through this scholarship, Sarah and I thought he can humbly handle advice well it will be an excellent quality to learn to become better and extremely passionate with what he is learning and extra practice by himself. Always watch scholarship event for the team and always try to follow up with the group mini-project. 
 
+#### Halwai Aftab Hasan
+
+* Worked on my mini project for Project_showcase:penguin_dance:
+* Tough day, I hope everyone will like our projects
+* Encourage @channel
+* #60daysofudacity
+
 ### Day 55: 20/08/2019
 
 #### Polarbeargo
@@ -1589,3 +1603,7 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Full time on writing a medium story with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan.
 * Debugging group mini-project and discuss with @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan about how the story will go.
 * Today's little happiness the Moodbit from fly car Nanodegree program slack message me about "it´s important that you move from your chair as soon as you read this!". I'm happy from my heart while receiving this warm greeting from fly car Nanodegree program slack.
+
+#### Halwai Aftab Hasan
+
+
