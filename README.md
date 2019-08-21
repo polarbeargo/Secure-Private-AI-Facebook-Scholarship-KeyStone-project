@@ -1545,7 +1545,7 @@ Meetup                     | Cousrse Complete
 #### Polarbeargo
 * Reading [A generic framework for privacy preserving deep learning](https://arxiv.org/pdf/1811.04017.pdf)
 * Focus on continue writing and fix readme and the medium story will fully on writing medium tomorrow.
-* Focus on implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot
+* Focus on implementing and Debugging Robotic Software Engineer Nanodegree project Map my world robot.
 * Implementing and Debugging AI for trading Nanodegree project Smart Beta and Portfolio Optimization.
 * Saw Harkirat demonstrate his well-structured code contribution on MINST FL with 90% accuracy and colorful & beauty MINST images feel truly amazing and wonderful from my heart, Thank you Harkirat and thank you for continuing share thoughts with us!
 * Thank you Sarah Majors for reply all the question to Halwai Aftab Hasan and have fun time discuss thoughts with Hark:)!
@@ -1610,3 +1610,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Still working on my mini project only few parts are left so like today i do coding a bit and writing part of medium for our project 
 * Encourage @channel 
 * #60daysofudacity 
+
+### Day 56: 21/08/2019
+
+#### Polarbeargo
+* Submit group mini project with my teammate together, stay overnight with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan for several days decide rest for a few days when all of us well recovered then continue implementing and debugging group mini project for a much stable and high-quality version then continue to finish writing medium story get to publish with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan.
+* Reading Robotic Software Engineer Nanodegree program project Map my world robot pick up where I stuck into thinking clearly then continue implementing and debugging.
+* Reading and implementing Robotic Software Engineer Nanodegree program project Deep RL Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API. Saw LUA in this project remind me the wonderful TA Colton Odgen his lectures from CS50 need arrange times enjoy the psets finish them little by little. 
+* Receiving warm, nice and encourage emails from VanHack, Kaggle, The Linux Foundation, and AngelList which remind me don't give up. 
