@@ -1618,3 +1618,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Reading Robotic Software Engineer Nanodegree program project Map my world robot pick up where I stuck into thinking clearly then continue implementing and debugging.
 * Reading and implementing Robotic Software Engineer Nanodegree program project Deep RL Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API. Saw LUA in this project remind me the wonderful TA Colton Odgen his lectures from CS50 need arrange times enjoy the psets finish them little by little. 
 * Receiving warm, nice and encourage emails from VanHack, Kaggle, The Linux Foundation, and AngelList which remind me don't give up. 
+
+#### Halwai Aftab Hasan
+
+* Stay overnight for completing the project and submission @Sarah Majors @Harkirat @Bearbear 
+* Brainstorming on a project idea for pytorch hackathon 
+* Encourage @channel
+#60daysofudacity
