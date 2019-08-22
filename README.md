@@ -76,6 +76,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image72]: ./images/EncryptedLearning.png
 [image73]: ./images/PH.jpeg
 [image74]: ./images/SPAIFcOMPLETE.png
+[image75]: ./images/ptmeetup.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1633,3 +1634,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Reading Robotic Software Engineer Nanodegree program project Map my world robot pick up where I stuck into thinking clearly then continue implementing and debugging.
 * Reading and implementing TODO tasks on gazebo/ArmPlugin.cpp from Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API start tuning hyperparameters on GPU enabled sever tomorrow if goes well start writing write up a report using LaTEX.
 * Reading AI for trading Nanodegree program Lesson 22 Factors and Factor Models and Types of Factors, while in lesson 22 Factors, I heard Instructor Edie said you made it!! And Sir Jonathan said It's where all come to life and Instructor Liz said what we learn so far in a very inspiring tone. I feel relaxed, happy and truly glad I made decision enroll in AI for trading Nanodegree program. The lessons and conversation between Instructors are enlightening which I still need rewatching and catch up with quizz and lessons material.
+
+#### Halwai Aftab Hasan
+
+* Whole day trouble with no wifi connection due to changing line cable. :disappointed:
+* Had a meetup regarding our submission to PyTorch Summer Hackathon with @Hitoishi Das @cibaca @Shivam Raisharma@Labiba
+Encouraging @Shivam Raisharma @Hitoishi Das @cibaca @Frida @Labiba@amitrai @Bearbear @Sarah Majors @Harkirat @Samuela Anastasi @annaSWE
+#60daysofudacity
+![][image75]
