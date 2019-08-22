@@ -1616,7 +1616,7 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 #### Polarbeargo
 * Submit group mini project with my teammate together, stay overnight with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan for several days decide rest for a few days when all of us well recovered then continue implementing and debugging group mini project for a much stable and high-quality version then continue to finish writing medium story get to publish with @Sarah Majors @Harkirat Singh and @Halwai Aftab Hasan.
 * Reading Robotic Software Engineer Nanodegree program project Map my world robot pick up where I stuck into thinking clearly then continue implementing and debugging.
-* Reading and implementing Robotic Software Engineer Nanodegree program project Deep RL Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API. Saw LUA in this project remind me the wonderful TA Colton Odgen his lectures from CS50 need arrange times enjoy the psets finish them little by little. 
+* Reading and implementing Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API. Saw LUA in this project remind me the wonderful TA Colton Odgen his lectures from CS50 need arrange times enjoy the psets finish them little by little. 
 * Receiving warm, nice and encourage emails from VanHack, Kaggle, The Linux Foundation, and AngelList which remind me don't give up. 
 
 #### Halwai Aftab Hasan
@@ -1625,3 +1625,11 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Brainstorming on a project idea for pytorch hackathon 
 * Encourage @channel
 #60daysofudacity
+
+### Day 57: 22/08/2019
+
+#### Polarbeargo
+* After several days stay overnights, I have a nice long sleep and rewatching lesson 7 Federated Learning and 8 Securing Federated Learning because it's the key material to group mini-project will take time rewatch lesson 8 Securing Federated Learning and lesson 9 Encrypted Deep Learning fix issues on group mini-project after ease my Robotics Software Engineer Nanodegree program projects deadline and study schedule.
+* Reading Robotic Software Engineer Nanodegree program project Map my world robot pick up where I stuck into thinking clearly then continue implementing and debugging.
+* Reading and implementing TODO tasks on gazebo/ArmPlugin.cpp from Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation while reading more times and implementing get familiar with PyTorch C/C++ API start tuning hyperparameters on GPU enabled sever tomorrow if goes well start writing write up a report using LaTEX.
+* Reading AI for trading Nanodegree program Lesson 22 Factors and Factor Models and Types of Factors, while in lesson 22 Factors, I heard Instructor Edie said you made it!! And Sir Johnathan said It's where all come to life and Instructor Liz said what we learn so far in a very inspiring tone. I feel relaxed, happy and truly glad I made decision enroll in AI for trading Nanodegree program. The lessons and conversation between Instructors are enlightening which I still need rewatching and catch up with quizz and lessons material.
