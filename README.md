@@ -77,6 +77,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image73]: ./images/PH.jpeg
 [image74]: ./images/SPAIFcOMPLETE.png
 [image75]: ./images/ptmeetup.png
+[image76]: ./images/PranjalRecoverFromFever.png
 
 ### Day 1: 
 #### Polarbeargo
