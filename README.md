@@ -1654,3 +1654,12 @@ Encouraging @Shivam Raisharma @Hitoishi Das @cibaca @Frida @Labiba@amitrai @Bear
 * Reading AI for trading Nanodegree program Lesson 22 Factors and Factor Models and Types of Factors, while in lesson 22 Factors, I heard Instructor Edie said "it's where werewolf and magic happen" decided to listen to that section twice and replay many many times.
 * Have 1 VS 1 call with my mentor Pranjal in AI for trading Nanodegree program, he taught me the importance of perform Alpha model in different countries and explain to me why we need to do that. We doing the paper reading and discussion [Does Investor Attention Stop at the Water’s Edge? The Predictability of Multinational Firms’ Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1921537), I love to listen to Pranjal explain the idea inside the paper and what's Geographic Momentum to me, I'm happy he recovers from his fever well.   
 ![][image76]
+
+#### Halwai Aftab Hasan
+
+* Working on Pytorch Hackathon project with @cibaca @Hitoishi Das @Labiba @Shivam Raisharma
+* Rewatch securing Federated Learning and Gone through Pysyft tutorial part 10 on  Federated Learning with Secure Aggregation,
+https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-%20Federated%20Learning%20with%20Secure%20Aggregation.ipynb
+* Secure aggregation is not easy for me so I start with sample mnist dataset its help for my mini project further development  
+* Encourage @Bearbear @Sarah Majors @Harkirat @cibaca @Hitoishi Das @Shivam Raisharma @Labiba @Frida @Samuela Anastasi @Shubhangi Jena 
+* #60daysofudacity 
