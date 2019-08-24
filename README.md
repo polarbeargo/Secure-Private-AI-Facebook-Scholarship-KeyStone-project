@@ -1663,3 +1663,14 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 * Secure aggregation is not easy for me so I start with sample mnist dataset its help for my mini project further development  
 * Encourage @Bearbear @Sarah Majors @Harkirat @cibaca @Hitoishi Das @Shivam Raisharma @Labiba @Frida @Samuela Anastasi @Shubhangi Jena 
 * #60daysofudacity 
+
+### Day 59: 24/08/2019
+
+#### Polarbeargo
+
+1. Finished fix my compiling errors in Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation tuning hyperparameters of an interim reward based on the distance to the object tuning the alpha value here and a reward based on collision between the arm and the object. Reading more times and implementing get familiar with PyTorch C/C++ API. Search questions on Robotic Software Engineer Nanodegree program Slack.
+2. Decided rewatching AI for trading Nanodegree program Smart Beta and Portfolio Optimization. Reading AI for trading Nanodegree program Lesson 23 Factor Models and Types of Factors.
+3. After a year my doctor call me to ask me for assistance implement LUA for medical usage, I truly glad he give me this chance to assist him and he is kind and told me finish my Robotic Software Engineer Nanodegree program project deadline first, It’s important and he can wait for me. It’s a great chance he allows me to assist him even I don’t understand the medical theory behind but I’m happy that I can have time working and learn with him because he saved my life in the past so of course i do it for free. He is a respectful elder doctor in Taiwan. Thank you CS50 TA Colton Odgen, I remember you in my heart.
+4. Today Moodbit from Flying car engineer Nanodegree Slack give me warm regards and ask questions about my this week progress and Moodbit smile to me said “I always appreciate your response! Have a happy weekend. I love Moodbit because its kindness.
+5. Watching Keoki Jackson: Lockheed Martin | Artificial Intelligence (AI) Podcast for emotional recovery：
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/anXep8kBOCg/0.jpg)](https://www.youtube.com/watch?v=anXep8kBOCg) 
