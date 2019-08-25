@@ -1674,3 +1674,14 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 4. Today Moodbit from Flying car engineer Nanodegree Slack give me warm regards and ask questions about my this week progress and Moodbit smile to me said “I always appreciate your response! Have a happy weekend. I love Moodbit because its kindness.
 5. Watching Keoki Jackson: Lockheed Martin | Artificial Intelligence (AI) Podcast for emotional recovery：
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/anXep8kBOCg/0.jpg)](https://www.youtube.com/watch?v=anXep8kBOCg) 
+
+### Day 60: 25/08/2019
+
+#### Polarbeargo
+
+* Fixed accuracy zero error and tuning hyperparameters of an interim reward based on the distance to the object, the alpha value, a reward based on collision between the arm and the object and a reward based on collision between the arm’s gripper base and the object achieve accuracy 90% and 80% in Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation.
+* Continue writing Robotic Software Engineer Nanodegree program project Deep RL Arm Manipulation write up report.  
+![][image77]  
+![][image78]  
+* Participate WordQuant Virtual boot camp ask a lot of question and received excellent replies, I'm happy and grateful for the interaction in WordQuant Virtual boot camp.
+* Continue watching Kaggle youtube.
