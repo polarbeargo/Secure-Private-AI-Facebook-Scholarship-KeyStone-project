@@ -1420,6 +1420,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Continue with federated Learning and differential privacy.
 * Shout out @channel for complete your course as soon as possible and those people who not yet complete his/her course, let's encourage them so that they will also go for phase 2 slightly_smiling_face #60daysofudacity 
 
+#### Sarah
+* More work on GraphView
+
 ### Day 46: 11/08/2019
 
 #### Polarbeargo
@@ -1442,6 +1445,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 #60daysofudacity
 ![][image69]
 
+#### Sarah
+* Work on mini project
+
 ### Day 47: 12/08/2019
 
 #### Polarbeargo
@@ -1460,6 +1466,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Shoutout @channel who don't yet complete the course, lets help them and encourage them to complete the course.
 * Encourage My friends @cibaca @Bearbear @Hitoishi Das @Shivam Raisharma @Harkirat @Sarah Majors @Samuela Anastasi @Frida @rinki nag @Shubhangi Jena @Aisha Javed @Praveer @Labiba
 * #60daysofudacity
+
+#### Sarah
+* Work on mini project
+
 
 ### Day 48: 13/08/2019
 
@@ -1481,6 +1491,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Going through @annaSWE Project and get some ideas for the PyTorch Hackathon and chat with my Pytorch Hackathon team for projects 
 #60daysofudacity (
 
+#### Sarah
+* Work on raspberry pi project
+
+
 ### Day 49: 14/08/2019
 
 #### Polarbeargo
@@ -1500,6 +1514,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * looking forward to debugging and will participate in the medium article of my mini-project as well.
 * Encourage @Channel 
 * #60daysofudacity  
+
+#### Sarah
+* Work on raspberry pi project
+
 
 ### Day 50: 15/08/2019
 
@@ -1526,6 +1544,10 @@ Meetup                     | Cousrse Complete
 :-------------------------:|:-------------------------:
 ![][image73]               |  ![][image74]
 
+#### Sarah
+* Work on mini project
+
+
 ### Day 51: 16/08/2019
 
 #### Polarbeargo
@@ -1543,6 +1565,10 @@ Meetup                     | Cousrse Complete
 * Brilliant work of @Harkirat @Sarah Majors @Bearbear learn a lot :slightly_smiling_face: 
 * Encourage @channel
 #60daysofudacity 
+
+#### Sarah
+* Work on mini project
+
 
 ### Day 52: 17/08/2019
 
@@ -1567,6 +1593,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Encourage @Channel :slightly_smiling_face:
 #60daysofudacity
 
+#### Sarah
+* Work on raspberry pi project
+
+
 ### Day 53: 18/08/2019
 
 #### Polarbeargo
@@ -1581,6 +1611,10 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Plan to complete whole project by tomorrow, so much fun and interesting to solve problems of my mini project:blush::blush:
 * Encourage @channel @cibaca @Hitoishi Das @Shivam Raisharma @Shubhangi Jena @Jyoti Kritika @Frida @Samuela Anastasi @Aisha Javed @rinki nag @Sunny Dsouza @Labiba @Stark @Arka @Munira Omar @Praveer 
 #60daysofudacity
+
+#### Sarah
+* Work on raspberry pi project
+
 
 ### Day 54: 19/08/2019
 
@@ -1600,6 +1634,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Encourage @channel
 * #60daysofudacity
 
+#### Sarah
+* Work on mini project
+
 ### Day 55: 20/08/2019
 
 #### Polarbeargo
@@ -1614,6 +1651,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Still working on my mini project only few parts are left so like today i do coding a bit and writing part of medium for our project 
 * Encourage @channel 
 * #60daysofudacity 
+
+#### Sarah
+* Work on mini project to get it in shape for submission today.  Still some work going forward but we did well.
 
 ### Day 56: 21/08/2019
 
@@ -1630,6 +1670,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 * Encourage @channel
 #60daysofudacity
 
+#### Sarah
+* Complete lessons 3.2-3.5 in AWS DeepRacer
+
 ### Day 57: 22/08/2019
 
 #### Polarbeargo
@@ -1645,6 +1688,9 @@ Thank you @Sarah Majors @Harkirat Singh and Halwai Aftab Hasan willing to partic
 Encouraging @Shivam Raisharma @Hitoishi Das @cibaca @Frida @Labiba@amitrai @Bearbear @Sarah Majors @Harkirat @Samuela Anastasi @annaSWE
 #60daysofudacity
 ![][image75]
+
+#### Sarah
+* I wish I could say something cool but I spent over 12 hours today fighting with python for work trying to get my demo ready for a meeting
 
 ### Day 58: 23/08/2019
 
@@ -1666,6 +1712,9 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 * Encourage @Bearbear @Sarah Majors @Harkirat @cibaca @Hitoishi Das @Shivam Raisharma @Labiba @Frida @Samuela Anastasi @Shubhangi Jena 
 * #60daysofudacity 
 
+#### Sarah
+* Watched part of fastai NLP video 12
+
 ### Day 59: 24/08/2019
 
 #### Polarbeargo
@@ -1677,6 +1726,9 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 5. Watching Keoki Jackson: Lockheed Martin | Artificial Intelligence (AI) Podcast for emotional recovery：
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/anXep8kBOCg/0.jpg)](https://www.youtube.com/watch?v=anXep8kBOCg) 
 
+#### Sarah
+* Continued working on the Python project for work to get caught up.
+
 ### Day 60: 25/08/2019
 
 #### Polarbeargo
@@ -1687,3 +1739,7 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 ![][image78]  
 * Participate WordQuant Virtual boot camp ask a lot of question and received excellent replies, I'm happy and grateful for the interaction in WordQuant Virtual boot camp.
 * Continue watching Kaggle youtube.
+
+#### Sarah
+* Update the 60days repo.  I had gotten way behind on that.  I lost some of the posts I had in the channel because they are past the max messages limit so I had to try to reconstruct some of them.
+* Look at some of the notebooks from the fastai NLP course.  
