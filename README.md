@@ -1729,6 +1729,14 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 #### Sarah
 * Continued working on the Python project for work to get caught up.
 
+#### Halwai Aftab Hasan
+
+* Start my day with Encrypted Aggregation, pysyft tutorial part 10 still working on it. 
+* Working with my Pytorch Hackathon team
+* Get a chance to talk to the senior and 28 year experience Doctor, she is a physiotherapist in my city,she her experience and give me lot of guidence regarding my career, its a great Exprience for me to get chance to be with her for 1 hour on whatsapp video call.
+* Encourage @channel
+* #60daysofudacity
+
 ### Day 60: 25/08/2019
 
 #### Polarbeargo
@@ -1742,4 +1750,14 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 
 #### Sarah
 * Update the 60days repo.  I had gotten way behind on that.  I lost some of the posts I had in the channel because they are past the max messages limit so I had to try to reconstruct some of them.
-* Look at some of the notebooks from the fastai NLP course.  
+* Look at some of the notebooks from the fastai NLP course. 
+
+#### Halwai Aftab Hasan
+
+@channel last day of #60daysofudacity :blush:
+
+* Start my day with IELTS preparation for English which is given by @Bearbear :blush: and Also Started Arabic Language speaking.
+* Still working on Federated Learning Pysyft tutorial by Abdrew Trask, its available on Pysft github repository.
+* Working with my pytorch Hackathon team for further progress of the project.
+* Its a great Exprience for me with you all @channel Thank you so much for your support and guidance :heart:
+#60daysofudacity
