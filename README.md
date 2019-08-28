@@ -1,5 +1,8 @@
 # Secure-Private-AI-Facebook-Scholarship-KeyStone-project
 Secure &amp; Private AI Facebook Scholarship-KeyStone project   
+
+![][image79]
+
 * Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/   
 
 [image1]: ./images/courseProgress.png
@@ -80,6 +83,9 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image76]: ./images/PranjalRecoverFromFever.png
 [image77]: ./images/20.gif
 [image78]: ./images/802.gif
+[image79]: ./images/60DaysOfUdacity.jpg
+[image80]: ./images/60daybadges.png
+[image81]: ./images/#60day.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1761,3 +1767,9 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 * Working with my pytorch Hackathon team for further progress of the project.
 * Its a great Exprience for me with you all @channel Thank you so much for your support and guidance :heart:
 #60daysofudacity
+
+------------------------------------------------------------------------------
+
+Badge      
+:-------------------------:|:-------------------------:
+![][image80]               | ![][image81]
