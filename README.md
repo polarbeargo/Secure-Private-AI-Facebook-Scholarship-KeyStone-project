@@ -1770,6 +1770,6 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 
 ------------------------------------------------------------------------------
 
-Badge      
+Badge                      | Udacity on 60dayudacity
 :-------------------------:|:-------------------------:
 ![][image80]               | ![][image81]
