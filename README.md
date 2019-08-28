@@ -85,7 +85,7 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image78]: ./images/802.gif
 [image79]: ./images/60DaysOfUdacity.jpg
 [image80]: ./images/60daybadges.png
-[image81]: ./images/#60day.png
+[image81]: ./images/60day.png
 
 ### Day 1: 
 #### Polarbeargo
