@@ -1786,3 +1786,21 @@ Thank you Frida Rode for nominate this very little me:)!
 Badge                      | Certification of Appreciation    
 :-------------------------:|:-------------------------:  
 ![][image80]               | ![][image82]
+
+### Day 61-65 26/08/2019 - 30/08/2019  
+* Watching AI for Trading Nanodegree program lesson 24 Risk Factor Model particular like section Interlude feel the love from Udacity.
+* Watching Robotics Software Engineer NanoDegree program lesson 28 Classic Path Planning section A star search.
+* While reading and searching on how to continue debugging my map my world robot project, setup LUA, LOVE2D and Unity. This year my final project in CS50’s Introduction to Game Development is LUA medical application with my Doctor who is a respectful elder doctor in Taiwan on holiday after I can graduate from Robotics Software Engineer NanoDegree program. Continue debug teleop.launch. After easing my study schedules, I have to get back with teammates finish issue fix in group mini-project:    
+![][image84]
+* Still watching CS50 2019 - Lecture 0 at Yale - Computational Thinking, Scratch. 
+* Watchin Rachael from Kaggle SQL Summer camp
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tC0I2m3FP0Y/0.jpg)](https://www.youtube.com/watch?v=tC0I2m3FP0Y)
+* Watching Sir Lex Fridman's podcast for learning:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J6XcP4JOHmk/0.jpg)](https://www.youtube.com/watch?v=J6XcP4JOHmk)
+* 1 vs 1 Call with mentor Pranjal we discuss Hurst exponent and Fama French SMB and HML. He also very exciting talk to me about project 7 also let me feel very looking forward to project 7.  
+![][image85]
+* Participating in Kaggle competitions Participating in Kaggle competitions finding problems which makes my heart beat:   
+[Ciphertext Challenge III: Wherefore Art Thou, Simple Ciphers?](https://www.kaggle.com/c/ciphertext-challenge-iii)  
+[IEEE-CIS Fraud Detection Can you detect fraud from customer transactions?](https://www.kaggle.com/c/ieee-fraud-detection)  
+[Learn With Other Kaggle Users Classify forest types based on information about the area](https://www.kaggle.com/c/learn-together)
+[Understanding Clouds from Satellite Images Can you classify cloud structures from satellites?](https://www.kaggle.com/c/understanding_cloud_organization)
