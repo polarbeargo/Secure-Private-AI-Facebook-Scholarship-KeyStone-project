@@ -1803,7 +1803,7 @@ Badge                      | Certification of Appreciation
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J6XcP4JOHmk/0.jpg)](https://www.youtube.com/watch?v=J6XcP4JOHmk)
 * 1 vs 1 Call with mentor Pranjal we discuss Hurst exponent and Fama French SMB and HML. He also very exciting talk to me about project 7 also let me feel very looking forward to project 7.  
 ![][image85]
-* Participating in Kaggle competitions Participating in Kaggle competitions finding problems which makes my heart beat:   
+* Participating in Kaggle competitions finding problems which makes my heart beat:   
 [Ciphertext Challenge III: Wherefore Art Thou, Simple Ciphers?](https://www.kaggle.com/c/ciphertext-challenge-iii)  
 [IEEE-CIS Fraud Detection Can you detect fraud from customer transactions?](https://www.kaggle.com/c/ieee-fraud-detection)  
 [Learn With Other Kaggle Users Classify forest types based on information about the area](https://www.kaggle.com/c/learn-together)  
