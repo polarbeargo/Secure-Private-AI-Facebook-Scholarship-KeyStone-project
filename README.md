@@ -1789,7 +1789,9 @@ Badge                      | Certification of Appreciation
 :-------------------------:|:-------------------------:  
 ![][image80]               | ![][image82]
 
-### Day 61-65 26/08/2019 - 30/08/2019  
+### Day 61-65 26/08/2019 - 30/08/2019
+
+#### Polarbeargo
 * Watching AI for Trading Nanodegree program lesson 24 Risk Factor Model particular like section Interlude feel the love from Udacity.
 * Watching Robotics Software Engineer NanoDegree program lesson 28 Classic Path Planning section A star search.
 * While reading and searching on how to continue debugging my map my world robot project, setup LUA, LOVE2D and Unity. This year my final project in CS50’s Introduction to Game Development is LUA medical application with my Doctor who is a respectful elder doctor in Taiwan on holiday after I can graduate from Robotics Software Engineer NanoDegree program. Continue debug teleop.launch. After easing my study schedules, I have to get back with teammates finish issue fix in group mini-project:      
