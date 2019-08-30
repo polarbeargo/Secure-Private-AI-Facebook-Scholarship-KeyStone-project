@@ -86,6 +86,8 @@ Secure &amp; Private AI Facebook Scholarship-KeyStone project
 [image79]: ./images/60DaysOfUdacity.jpg
 [image80]: ./images/60daybadges.png
 [image81]: ./images/60day.png
+[image82]: ./images/appreciate.png
+[image83]: ./images/FridaRode.png
 
 ### Day 1: 
 #### Polarbeargo
@@ -1773,3 +1775,12 @@ https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/Part%2010%20-
 Badge                      | Udacity on 60dayudacity
 :-------------------------:|:-------------------------:
 ![][image80]               | ![][image81]
+
+### After 60 day:
+
+#### Polarbeargo  
+* Thank you Udacity!! I love you from my heart :). My many gratitude and appreciation to Udacity🎉🎉🎉!! We love Udacity!!
+Thank you Frida Rode for nominate this very little me:)!  
+![][image83]  
+![][image82]              
+![][image84]
