@@ -1806,5 +1806,5 @@ Badge                      | Certification of Appreciation
 * Participating in Kaggle competitions Participating in Kaggle competitions finding problems which makes my heart beat:   
 [Ciphertext Challenge III: Wherefore Art Thou, Simple Ciphers?](https://www.kaggle.com/c/ciphertext-challenge-iii)  
 [IEEE-CIS Fraud Detection Can you detect fraud from customer transactions?](https://www.kaggle.com/c/ieee-fraud-detection)  
-[Learn With Other Kaggle Users Classify forest types based on information about the area](https://www.kaggle.com/c/learn-together)
+[Learn With Other Kaggle Users Classify forest types based on information about the area](https://www.kaggle.com/c/learn-together)  
 [Understanding Clouds from Satellite Images Can you classify cloud structures from satellites?](https://www.kaggle.com/c/understanding_cloud_organization)
