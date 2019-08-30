@@ -1782,5 +1782,7 @@ Badge                      | Udacity on 60dayudacity
 * Thank you Udacity!! I love you from my heart :). My many gratitude and appreciation to Udacity🎉🎉🎉!! We love Udacity!!
 Thank you Frida Rode for nominate this very little me:)!  
 ![][image83]  
-![][image82]              
-![][image84]
+
+Badge                      | Certification of Appreciation    
+:-------------------------:|:-------------------------:  
+![][image80]               | ![][image82]
